@@ -1,0 +1,6952 @@
+[
+  {
+    "id": 5917,
+    "resourceIds": ["kokuho"],
+    "start": "2026-01-22T16:00:00.000Z",
+    "end": "2026-01-22T18:55:00.000Z",
+    "title": "Kokuho",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 5916,
+    "resourceIds": ["father-mother-sister-brother"],
+    "start": "2026-01-22T19:00:00.000Z",
+    "end": "2026-01-22T20:50:00.000Z",
+    "title": "Father Mother Sister Brother",
+    "extendedProps": {
+      "location": "Draken"
+    }
+  },
+  {
+    "id": 5919,
+    "resourceIds": ["the-wizard-of-the-kremlin"],
+    "start": "2026-01-23T15:00:00.000Z",
+    "end": "2026-01-23T17:40:00.000Z",
+    "title": "Trollkarlen i Kreml",
+    "extendedProps": {
+      "location": "Stora Teatern"
+    }
+  },
+  {
+    "id": 5920,
+    "resourceIds": ["the-chronology-of-water"],
+    "start": "2026-01-23T15:00:00.000Z",
+    "end": "2026-01-23T17:10:00.000Z",
+    "title": "The Chronology of Water",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 5921,
+    "resourceIds": ["to-the-victory"],
+    "start": "2026-01-23T15:15:00.000Z",
+    "end": "2026-01-23T17:00:00.000Z",
+    "title": "To the Victory!",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 5922,
+    "resourceIds": ["kokuho"],
+    "start": "2026-01-23T15:30:00.000Z",
+    "end": "2026-01-23T18:25:00.000Z",
+    "title": "Kokuho",
+    "extendedProps": {
+      "location": "Aftonstjärnan"
+    }
+  },
+  {
+    "id": 5923,
+    "resourceIds": ["girl-1"],
+    "start": "2026-01-23T15:30:00.000Z",
+    "end": "2026-01-23T17:35:00.000Z",
+    "title": "Girl",
+    "extendedProps": {
+      "location": "Biopalatset 8"
+    }
+  },
+  {
+    "id": 5924,
+    "resourceIds": ["the-disappearance-of-josef-mengele"],
+    "start": "2026-01-23T15:30:00.000Z",
+    "end": "2026-01-23T17:45:00.000Z",
+    "title": "Josef Mengeles försvinnande",
+    "extendedProps": {
+      "location": "Biopalatset 10"
+    }
+  },
+  {
+    "id": 5926,
+    "resourceIds": ["made-in-eu"],
+    "start": "2026-01-23T15:45:00.000Z",
+    "end": "2026-01-23T17:35:00.000Z",
+    "title": "Made in EU",
+    "extendedProps": {
+      "location": "Biopalatset 7"
+    }
+  },
+  {
+    "id": 5925,
+    "resourceIds": ["silent-flood"],
+    "start": "2026-01-23T15:45:00.000Z",
+    "end": "2026-01-23T17:15:00.000Z",
+    "title": "Silent Flood",
+    "extendedProps": {
+      "location": "Göta 2"
+    }
+  },
+  {
+    "id": 5927,
+    "resourceIds": ["adams-sake"],
+    "start": "2026-01-23T15:45:00.000Z",
+    "end": "2026-01-23T17:00:00.000Z",
+    "title": "Adam's Sake",
+    "extendedProps": {
+      "location": "Biopalatset 9"
+    }
+  },
+  {
+    "id": 5930,
+    "resourceIds": ["fiume-o-morte"],
+    "start": "2026-01-23T16:00:00.000Z",
+    "end": "2026-01-23T17:55:00.000Z",
+    "title": "Fiume o morte!",
+    "extendedProps": {
+      "location": "Biopalatset 2"
+    }
+  },
+  {
+    "id": 5931,
+    "resourceIds": ["do-you-love-me-1"],
+    "start": "2026-01-23T16:00:00.000Z",
+    "end": "2026-01-23T17:15:00.000Z",
+    "title": "Do You Love Me",
+    "extendedProps": {
+      "location": "Biopalatset 3"
+    }
+  },
+  {
+    "id": 5928,
+    "resourceIds": ["dry-leaf"],
+    "start": "2026-01-23T16:00:00.000Z",
+    "end": "2026-01-23T19:10:00.000Z",
+    "title": "Dry Leaf",
+    "extendedProps": {
+      "location": "Göta 3"
+    }
+  },
+  {
+    "id": 5929,
+    "resourceIds": ["straight-circle"],
+    "start": "2026-01-23T16:00:00.000Z",
+    "end": "2026-01-23T17:50:00.000Z",
+    "title": "Straight Circle",
+    "extendedProps": {
+      "location": "Biopalatset 1"
+    }
+  },
+  {
+    "id": 5933,
+    "resourceIds": ["erupcja"],
+    "start": "2026-01-23T17:00:00.000Z",
+    "end": "2026-01-23T18:15:00.000Z",
+    "title": "Erupcja",
+    "extendedProps": {
+      "location": "Skeppet"
+    }
+  },
+  {
+    "id": 5934,
+    "resourceIds": ["nino"],
+    "start": "2026-01-23T17:00:00.000Z",
+    "end": "2026-01-23T18:40:00.000Z",
+    "title": "Nino",
+    "extendedProps": {
+      "location": "Handels"
+    }
+  },
+  {
+    "id": 5935,
+    "resourceIds": ["good-boy"],
+    "start": "2026-01-23T17:30:00.000Z",
+    "end": "2026-01-23T19:20:00.000Z",
+    "title": "Good Boy",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 5936,
+    "resourceIds": ["at-work"],
+    "start": "2026-01-23T17:45:00.000Z",
+    "end": "2026-01-23T19:20:00.000Z",
+    "title": "At Work",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 5937,
+    "resourceIds": ["lullaby-for-the-mountains"],
+    "start": "2026-01-23T17:45:00.000Z",
+    "end": "2026-01-23T19:05:00.000Z",
+    "title": "Lullaby for the Mountains",
+    "extendedProps": {
+      "location": "Biopalatset 3"
+    }
+  },
+  {
+    "id": 5940,
+    "resourceIds": ["christy"],
+    "start": "2026-01-23T18:00:00.000Z",
+    "end": "2026-01-23T19:35:00.000Z",
+    "title": "Christy",
+    "extendedProps": {
+      "location": "Biopalatset 9"
+    }
+  },
+  {
+    "id": 5938,
+    "resourceIds": ["the-ivy"],
+    "start": "2026-01-23T18:00:00.000Z",
+    "end": "2026-01-23T19:40:00.000Z",
+    "title": "The Ivy",
+    "extendedProps": {
+      "location": "Göta 2"
+    }
+  },
+  {
+    "id": 5939,
+    "resourceIds": ["the-seasons"],
+    "start": "2026-01-23T18:00:00.000Z",
+    "end": "2026-01-23T19:25:00.000Z",
+    "title": "The Seasons",
+    "extendedProps": {
+      "location": "Biopalatset 8"
+    }
+  },
+  {
+    "id": 5941,
+    "resourceIds": ["renoir"],
+    "start": "2026-01-23T18:15:00.000Z",
+    "end": "2026-01-23T20:15:00.000Z",
+    "title": "Renoir",
+    "extendedProps": {
+      "location": "Biopalatset 7"
+    }
+  },
+  {
+    "id": 5942,
+    "resourceIds": ["colours-of-time"],
+    "start": "2026-01-23T18:15:00.000Z",
+    "end": "2026-01-23T20:25:00.000Z",
+    "title": "Colours of Time",
+    "extendedProps": {
+      "location": "Biopalatset 10"
+    }
+  },
+  {
+    "id": 5944,
+    "resourceIds": ["barrio-triste"],
+    "start": "2026-01-23T18:30:00.000Z",
+    "end": "2026-01-23T20:00:00.000Z",
+    "title": "Barrio triste",
+    "extendedProps": {
+      "location": "Biopalatset 1"
+    }
+  },
+  {
+    "id": 5943,
+    "resourceIds": ["the-quiet-beekeeper"],
+    "start": "2026-01-23T18:30:00.000Z",
+    "end": "2026-01-23T20:10:00.000Z",
+    "title": "Biodlaren",
+    "extendedProps": {
+      "location": "Draken"
+    }
+  },
+  {
+    "id": 5945,
+    "resourceIds": ["people-and-meat"],
+    "start": "2026-01-23T18:30:00.000Z",
+    "end": "2026-01-23T20:20:00.000Z",
+    "title": "People and Meat",
+    "extendedProps": {
+      "location": "Biopalatset 2"
+    }
+  },
+  {
+    "id": 5946,
+    "resourceIds": ["the-quiet-beekeeper"],
+    "start": "2026-01-23T19:00:00.000Z",
+    "end": "2026-01-23T20:40:00.000Z",
+    "title": "Biodlaren",
+    "extendedProps": {
+      "location": "Stora Teatern"
+    }
+  },
+  {
+    "id": 5948,
+    "resourceIds": ["dragonfly"],
+    "start": "2026-01-23T19:15:00.000Z",
+    "end": "2026-01-23T20:55:00.000Z",
+    "title": "Dragonfly",
+    "extendedProps": {
+      "location": "Aftonstjärnan"
+    }
+  },
+  {
+    "id": 5949,
+    "resourceIds": ["duse"],
+    "start": "2026-01-23T19:15:00.000Z",
+    "end": "2026-01-23T21:20:00.000Z",
+    "title": "Duse",
+    "extendedProps": {
+      "location": "Göta 1"
+    }
+  },
+  {
+    "id": 5950,
+    "resourceIds": ["wild-foxes"],
+    "start": "2026-01-23T19:30:00.000Z",
+    "end": "2026-01-23T21:05:00.000Z",
+    "title": "Wild Foxes",
+    "extendedProps": {
+      "location": "Handels"
+    }
+  },
+  {
+    "id": 5952,
+    "resourceIds": ["the-last-one-for-the-road"],
+    "start": "2026-01-23T19:45:00.000Z",
+    "end": "2026-01-23T21:25:00.000Z",
+    "title": "The Last One for the Road",
+    "extendedProps": {
+      "location": "Biopalatset 3"
+    }
+  },
+  {
+    "id": 5951,
+    "resourceIds": ["john-lilly-and-the-earth-coincidence-control-office"],
+    "start": "2026-01-23T19:45:00.000Z",
+    "end": "2026-01-23T21:15:00.000Z",
+    "title": "John Lilly and the Earth Coincidence Control Office",
+    "extendedProps": {
+      "location": "Skeppet"
+    }
+  },
+  {
+    "id": 5954,
+    "resourceIds": ["that-summer-in-paris"],
+    "start": "2026-01-23T20:00:00.000Z",
+    "end": "2026-01-23T21:20:00.000Z",
+    "title": "That Summer in Paris",
+    "extendedProps": {
+      "location": "Biopalatset 8"
+    }
+  },
+  {
+    "id": 6377,
+    "resourceIds": ["re-creation"],
+    "start": "2026-01-23T20:00:00.000Z",
+    "end": "2026-01-23T22:10:00.000Z",
+    "title": "Re-Creation",
+    "extendedProps": {
+      "location": "Biopalatset 9"
+    }
+  },
+  {
+    "id": 6369,
+    "resourceIds": ["broken-english"],
+    "start": "2026-01-23T20:00:00.000Z",
+    "end": "2026-01-23T21:40:00.000Z",
+    "title": "Broken English",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 5953,
+    "resourceIds": ["levers"],
+    "start": "2026-01-23T20:00:00.000Z",
+    "end": "2026-01-23T21:30:00.000Z",
+    "title": "Levers",
+    "extendedProps": {
+      "location": "Göta 2"
+    }
+  },
+  {
+    "id": 5957,
+    "resourceIds": ["ladies-hunting-party"],
+    "start": "2026-01-23T20:30:00.000Z",
+    "end": "2026-01-23T22:00:00.000Z",
+    "title": "Ladies' Hunting Party",
+    "extendedProps": {
+      "location": "Biopalatset 7"
+    }
+  },
+  {
+    "id": 5956,
+    "resourceIds": ["how-to-be-normal-and-the-oddness-of-the-other-world"],
+    "start": "2026-01-23T20:30:00.000Z",
+    "end": "2026-01-23T22:15:00.000Z",
+    "title": "How to Be Normal and the Oddness of the Other World",
+    "extendedProps": {
+      "location": "Biopalatset 1"
+    }
+  },
+  {
+    "id": 5955,
+    "resourceIds": ["father-mother-sister-brother"],
+    "start": "2026-01-23T20:30:00.000Z",
+    "end": "2026-01-23T22:20:00.000Z",
+    "title": "Father Mother Sister Brother",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 6300,
+    "resourceIds": ["bulk"],
+    "start": "2026-01-23T22:00:00.000Z",
+    "end": "2026-01-23T23:50:00.000Z",
+    "title": "Bulk",
+    "extendedProps": {
+      "location": "Skeppet"
+    }
+  },
+  {
+    "id": 5958,
+    "resourceIds": ["melt"],
+    "start": "2026-01-24T08:30:00.000Z",
+    "end": "2026-01-24T10:40:00.000Z",
+    "title": "Melt",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 5960,
+    "resourceIds": ["arco"],
+    "start": "2026-01-24T08:45:00.000Z",
+    "end": "2026-01-24T10:15:00.000Z",
+    "title": "Arco",
+    "extendedProps": {
+      "location": "Biopalatset 9"
+    }
+  },
+  {
+    "id": 5962,
+    "resourceIds": ["colours-of-time"],
+    "start": "2026-01-24T08:45:00.000Z",
+    "end": "2026-01-24T10:55:00.000Z",
+    "title": "Colours of Time",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 5959,
+    "resourceIds": ["the-quiet-beekeeper"],
+    "start": "2026-01-24T08:45:00.000Z",
+    "end": "2026-01-24T10:25:00.000Z",
+    "title": "Biodlaren",
+    "extendedProps": {
+      "location": "Draken"
+    }
+  },
+  {
+    "id": 5961,
+    "resourceIds": ["ladies-hunting-party"],
+    "start": "2026-01-24T08:45:00.000Z",
+    "end": "2026-01-24T10:15:00.000Z",
+    "title": "Ladies' Hunting Party",
+    "extendedProps": {
+      "location": "Biopalatset 10"
+    }
+  },
+  {
+    "id": 5963,
+    "resourceIds": ["the-disappearance-of-josef-mengele"],
+    "start": "2026-01-24T09:00:00.000Z",
+    "end": "2026-01-24T11:15:00.000Z",
+    "title": "Josef Mengeles försvinnande",
+    "extendedProps": {
+      "location": "Handels"
+    }
+  },
+  {
+    "id": 5964,
+    "resourceIds": ["the-ivy"],
+    "start": "2026-01-24T09:00:00.000Z",
+    "end": "2026-01-24T10:40:00.000Z",
+    "title": "The Ivy",
+    "extendedProps": {
+      "location": "Göta 2"
+    }
+  },
+  {
+    "id": 5965,
+    "resourceIds": ["wild-foxes"],
+    "start": "2026-01-24T09:00:00.000Z",
+    "end": "2026-01-24T10:35:00.000Z",
+    "title": "Wild Foxes",
+    "extendedProps": {
+      "location": "Biopalatset 1"
+    }
+  },
+  {
+    "id": 5966,
+    "resourceIds": ["lullaby-for-the-mountains"],
+    "start": "2026-01-24T09:00:00.000Z",
+    "end": "2026-01-24T10:20:00.000Z",
+    "title": "Lullaby for the Mountains",
+    "extendedProps": {
+      "location": "Biopalatset 2"
+    }
+  },
+  {
+    "id": 5983,
+    "resourceIds": ["good-boy"],
+    "start": "2026-01-24T09:00:00.000Z",
+    "end": "2026-01-24T10:50:00.000Z",
+    "title": "Good Boy",
+    "extendedProps": {
+      "location": "Stora Teatern"
+    }
+  },
+  {
+    "id": 5967,
+    "resourceIds": ["nino"],
+    "start": "2026-01-24T09:15:00.000Z",
+    "end": "2026-01-24T10:55:00.000Z",
+    "title": "Nino",
+    "extendedProps": {
+      "location": "Aftonstjärnan"
+    }
+  },
+  {
+    "id": 5969,
+    "resourceIds": ["duse"],
+    "start": "2026-01-24T09:30:00.000Z",
+    "end": "2026-01-24T11:35:00.000Z",
+    "title": "Duse",
+    "extendedProps": {
+      "location": "Göta 1"
+    }
+  },
+  {
+    "id": 5970,
+    "resourceIds": ["mailin"],
+    "start": "2026-01-24T09:30:00.000Z",
+    "end": "2026-01-24T11:00:00.000Z",
+    "title": "Mailin",
+    "extendedProps": {
+      "location": "Biopalatset 8"
+    }
+  },
+  {
+    "id": 5968,
+    "resourceIds": ["on-the-road"],
+    "start": "2026-01-24T09:30:00.000Z",
+    "end": "2026-01-24T11:05:00.000Z",
+    "title": "On the Road",
+    "extendedProps": {
+      "location": "Skeppet"
+    }
+  },
+  {
+    "id": 5972,
+    "resourceIds": ["silent-flood"],
+    "start": "2026-01-24T10:45:00.000Z",
+    "end": "2026-01-24T12:15:00.000Z",
+    "title": "Silent Flood",
+    "extendedProps": {
+      "location": "Biopalatset 10"
+    }
+  },
+  {
+    "id": 5971,
+    "resourceIds": ["magellan"],
+    "start": "2026-01-24T10:45:00.000Z",
+    "end": "2026-01-24T13:25:00.000Z",
+    "title": "Magellan",
+    "extendedProps": {
+      "location": "Biopalatset 9"
+    }
+  },
+  {
+    "id": 5976,
+    "resourceIds": ["straight-circle"],
+    "start": "2026-01-24T11:00:00.000Z",
+    "end": "2026-01-24T12:50:00.000Z",
+    "title": "Straight Circle",
+    "extendedProps": {
+      "location": "Biopalatset 1"
+    }
+  },
+  {
+    "id": 5977,
+    "resourceIds": ["people-and-meat"],
+    "start": "2026-01-24T11:00:00.000Z",
+    "end": "2026-01-24T12:50:00.000Z",
+    "title": "People and Meat",
+    "extendedProps": {
+      "location": "Biopalatset 2"
+    }
+  },
+  {
+    "id": 5975,
+    "resourceIds": ["the-girl-in-tails"],
+    "start": "2026-01-24T11:00:00.000Z",
+    "end": "2026-01-24T13:05:00.000Z",
+    "title": "Flickan i frack",
+    "extendedProps": {
+      "location": "Göta 2"
+    }
+  },
+  {
+    "id": 5978,
+    "resourceIds": ["christy"],
+    "start": "2026-01-24T11:15:00.000Z",
+    "end": "2026-01-24T12:50:00.000Z",
+    "title": "Christy",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 5915,
+    "resourceIds": ["the-wizard-of-the-kremlin"],
+    "start": "2026-01-24T11:30:00.000Z",
+    "end": "2026-01-24T14:10:00.000Z",
+    "title": "Trollkarlen i Kreml",
+    "extendedProps": {
+      "location": "Draken"
+    }
+  },
+  {
+    "id": 5980,
+    "resourceIds": ["cotton-queen"],
+    "start": "2026-01-24T11:30:00.000Z",
+    "end": "2026-01-24T13:05:00.000Z",
+    "title": "Cotton Queen",
+    "extendedProps": {
+      "location": "Biopalatset 8"
+    }
+  },
+  {
+    "id": 5979,
+    "resourceIds": ["fiume-o-morte"],
+    "start": "2026-01-24T11:30:00.000Z",
+    "end": "2026-01-24T13:25:00.000Z",
+    "title": "Fiume o morte!",
+    "extendedProps": {
+      "location": "Aftonstjärnan"
+    }
+  },
+  {
+    "id": 5981,
+    "resourceIds": ["levers"],
+    "start": "2026-01-24T11:45:00.000Z",
+    "end": "2026-01-24T13:15:00.000Z",
+    "title": "Levers",
+    "extendedProps": {
+      "location": "Skeppet"
+    }
+  },
+  {
+    "id": 5982,
+    "resourceIds": ["girl-1"],
+    "start": "2026-01-24T11:45:00.000Z",
+    "end": "2026-01-24T13:50:00.000Z",
+    "title": "Girl",
+    "extendedProps": {
+      "location": "Handels"
+    }
+  },
+  {
+    "id": 6625,
+    "resourceIds": ["julian"],
+    "start": "2026-01-24T12:00:00.000Z",
+    "end": "2026-01-24T13:35:00.000Z",
+    "title": "Julian",
+    "extendedProps": {
+      "location": "Göta 3"
+    }
+  },
+  {
+    "id": 6645,
+    "resourceIds": ["sundays"],
+    "start": "2026-01-24T12:00:00.000Z",
+    "end": "2026-01-24T13:55:00.000Z",
+    "title": "Sundays",
+    "extendedProps": {
+      "location": "Stora Teatern"
+    }
+  },
+  {
+    "id": 6718,
+    "resourceIds": ["bulk"],
+    "start": "2026-01-24T12:45:00.000Z",
+    "end": "2026-01-24T14:20:00.000Z",
+    "title": "Bulk",
+    "extendedProps": {
+      "location": "Biopalatset 10"
+    }
+  },
+  {
+    "id": 5985,
+    "resourceIds": ["put-your-soul-on-your-hand-and-walk"],
+    "start": "2026-01-24T13:00:00.000Z",
+    "end": "2026-01-24T14:50:00.000Z",
+    "title": "Put Your Soul on Your Hand and Walk",
+    "extendedProps": {
+      "location": "Biopalatset 7"
+    }
+  },
+  {
+    "id": 5989,
+    "resourceIds": ["made-in-eu"],
+    "start": "2026-01-24T13:15:00.000Z",
+    "end": "2026-01-24T15:05:00.000Z",
+    "title": "Made in EU",
+    "extendedProps": {
+      "location": "Biopalatset 1"
+    }
+  },
+  {
+    "id": 5991,
+    "resourceIds": ["that-summer-in-paris"],
+    "start": "2026-01-24T13:15:00.000Z",
+    "end": "2026-01-24T14:35:00.000Z",
+    "title": "That Summer in Paris",
+    "extendedProps": {
+      "location": "Biopalatset 3"
+    }
+  },
+  {
+    "id": 5987,
+    "resourceIds": ["out-of-love"],
+    "start": "2026-01-24T13:15:00.000Z",
+    "end": "2026-01-24T15:10:00.000Z",
+    "title": "Out of Love",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 5990,
+    "resourceIds": ["how-to-be-normal-and-the-oddness-of-the-other-world"],
+    "start": "2026-01-24T13:15:00.000Z",
+    "end": "2026-01-24T15:00:00.000Z",
+    "title": "How to Be Normal and the Oddness of the Other World",
+    "extendedProps": {
+      "location": "Biopalatset 2"
+    }
+  },
+  {
+    "id": 5993,
+    "resourceIds": ["wrestlers"],
+    "start": "2026-01-24T13:30:00.000Z",
+    "end": "2026-01-24T14:35:00.000Z",
+    "title": "Wrestlers",
+    "extendedProps": {
+      "location": "Biopalatset 8"
+    }
+  },
+  {
+    "id": 5992,
+    "resourceIds": ["the-luminous-life"],
+    "start": "2026-01-24T13:30:00.000Z",
+    "end": "2026-01-24T15:10:00.000Z",
+    "title": "The Luminous Life",
+    "extendedProps": {
+      "location": "Göta 2"
+    }
+  },
+  {
+    "id": 5995,
+    "resourceIds": ["the-last-one-for-the-road"],
+    "start": "2026-01-24T14:00:00.000Z",
+    "end": "2026-01-24T15:40:00.000Z",
+    "title": "The Last One for the Road",
+    "extendedProps": {
+      "location": "Skeppet"
+    }
+  },
+  {
+    "id": 6638,
+    "resourceIds": ["flana"],
+    "start": "2026-01-24T14:00:00.000Z",
+    "end": "2026-01-24T15:25:00.000Z",
+    "title": "Flana",
+    "extendedProps": {
+      "location": "Aftonstjärnan"
+    }
+  },
+  {
+    "id": 5996,
+    "resourceIds": ["urchin"],
+    "start": "2026-01-24T14:15:00.000Z",
+    "end": "2026-01-24T15:55:00.000Z",
+    "title": "Urchin",
+    "extendedProps": {
+      "location": "Biopalatset 9"
+    }
+  },
+  {
+    "id": 6376,
+    "resourceIds": ["runa-simi"],
+    "start": "2026-01-24T14:30:00.000Z",
+    "end": "2026-01-24T15:55:00.000Z",
+    "title": "Runa Simi",
+    "extendedProps": {
+      "location": "Göta 3"
+    }
+  },
+  {
+    "id": 6621,
+    "resourceIds": ["our-father"],
+    "start": "2026-01-24T14:30:00.000Z",
+    "end": "2026-01-24T16:00:00.000Z",
+    "title": "Our Father",
+    "extendedProps": {
+      "location": "Handels"
+    }
+  },
+  {
+    "id": 5998,
+    "resourceIds": ["the-visitor-1"],
+    "start": "2026-01-24T14:45:00.000Z",
+    "end": "2026-01-24T16:40:00.000Z",
+    "title": "The Visitor",
+    "extendedProps": {
+      "location": "Biopalatset 10"
+    }
+  },
+  {
+    "id": 6000,
+    "resourceIds": ["the-seasons"],
+    "start": "2026-01-24T15:00:00.000Z",
+    "end": "2026-01-24T16:25:00.000Z",
+    "title": "The Seasons",
+    "extendedProps": {
+      "location": "Biopalatset 8"
+    }
+  },
+  {
+    "id": 5999,
+    "resourceIds": ["the-great-arch"],
+    "start": "2026-01-24T15:00:00.000Z",
+    "end": "2026-01-24T16:45:00.000Z",
+    "title": "Den nya Triumfbågens arkitekt",
+    "extendedProps": {
+      "location": "Stora Teatern"
+    }
+  },
+  {
+    "id": 6001,
+    "resourceIds": ["the-patron"],
+    "start": "2026-01-24T15:30:00.000Z",
+    "end": "2026-01-24T17:10:00.000Z",
+    "title": "Mecenaten",
+    "extendedProps": {
+      "location": "Draken"
+    }
+  },
+  {
+    "id": 6003,
+    "resourceIds": ["as-we-breathe"],
+    "start": "2026-01-24T15:30:00.000Z",
+    "end": "2026-01-24T17:05:00.000Z",
+    "title": "As We Breathe",
+    "extendedProps": {
+      "location": "Biopalatset 2"
+    }
+  },
+  {
+    "id": 6004,
+    "resourceIds": ["do-you-love-me-1"],
+    "start": "2026-01-24T15:30:00.000Z",
+    "end": "2026-01-24T16:45:00.000Z",
+    "title": "Do You Love Me",
+    "extendedProps": {
+      "location": "Biopalatset 3"
+    }
+  },
+  {
+    "id": 6002,
+    "resourceIds": ["landmarks"],
+    "start": "2026-01-24T15:30:00.000Z",
+    "end": "2026-01-24T17:35:00.000Z",
+    "title": "Landmarks",
+    "extendedProps": {
+      "location": "Biopalatset 1"
+    }
+  },
+  {
+    "id": 6006,
+    "resourceIds": ["my-fathers-shadow"],
+    "start": "2026-01-24T15:45:00.000Z",
+    "end": "2026-01-24T17:20:00.000Z",
+    "title": "My Father’s Shadow",
+    "extendedProps": {
+      "location": "Biopalatset 7"
+    }
+  },
+  {
+    "id": 6005,
+    "resourceIds": ["shape-of-momo"],
+    "start": "2026-01-24T15:45:00.000Z",
+    "end": "2026-01-24T17:40:00.000Z",
+    "title": "Shape of Momo",
+    "extendedProps": {
+      "location": "Göta 2"
+    }
+  },
+  {
+    "id": 6007,
+    "resourceIds": ["calle-malaga"],
+    "start": "2026-01-24T16:00:00.000Z",
+    "end": "2026-01-24T18:00:00.000Z",
+    "title": "Calle Malaga",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 6008,
+    "resourceIds": ["malandro-moon"],
+    "start": "2026-01-24T16:30:00.000Z",
+    "end": "2026-01-24T17:55:00.000Z",
+    "title": "Första blatten på månen",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 6009,
+    "resourceIds": ["at-work"],
+    "start": "2026-01-24T16:30:00.000Z",
+    "end": "2026-01-24T18:05:00.000Z",
+    "title": "At Work",
+    "extendedProps": {
+      "location": "Aftonstjärnan"
+    }
+  },
+  {
+    "id": 6010,
+    "resourceIds": ["the-silence-of-snow"],
+    "start": "2026-01-24T16:30:00.000Z",
+    "end": "2026-01-24T17:45:00.000Z",
+    "title": "Tyst faller snön",
+    "extendedProps": {
+      "location": "Biopalatset 9"
+    }
+  },
+  {
+    "id": 6640,
+    "resourceIds": ["to-the-victory"],
+    "start": "2026-01-24T16:30:00.000Z",
+    "end": "2026-01-24T18:15:00.000Z",
+    "title": "To the Victory!",
+    "extendedProps": {
+      "location": "Skeppet"
+    }
+  },
+  {
+    "id": 6011,
+    "resourceIds": ["eleanor-the-great"],
+    "start": "2026-01-24T17:00:00.000Z",
+    "end": "2026-01-24T18:40:00.000Z",
+    "title": "Eleanor the Great",
+    "extendedProps": {
+      "location": "Handels"
+    }
+  },
+  {
+    "id": 6013,
+    "resourceIds": ["in-the-land-of-arto"],
+    "start": "2026-01-24T17:00:00.000Z",
+    "end": "2026-01-24T18:45:00.000Z",
+    "title": "In the Land of Arto",
+    "extendedProps": {
+      "location": "Biopalatset 10"
+    }
+  },
+  {
+    "id": 6015,
+    "resourceIds": ["promised-sky"],
+    "start": "2026-01-24T17:15:00.000Z",
+    "end": "2026-01-24T18:50:00.000Z",
+    "title": "Promised Sky",
+    "extendedProps": {
+      "location": "Biopalatset 8"
+    }
+  },
+  {
+    "id": 6016,
+    "resourceIds": ["dry-leaf"],
+    "start": "2026-01-24T17:30:00.000Z",
+    "end": "2026-01-24T20:40:00.000Z",
+    "title": "Dry Leaf",
+    "extendedProps": {
+      "location": "Biopalatset 3"
+    }
+  },
+  {
+    "id": 6620,
+    "resourceIds": ["dragonfly"],
+    "start": "2026-01-24T17:30:00.000Z",
+    "end": "2026-01-24T19:10:00.000Z",
+    "title": "Dragonfly",
+    "extendedProps": {
+      "location": "Göta 3"
+    }
+  },
+  {
+    "id": 6017,
+    "resourceIds": ["dracula"],
+    "start": "2026-01-24T17:45:00.000Z",
+    "end": "2026-01-24T20:35:00.000Z",
+    "title": "Dracula",
+    "extendedProps": {
+      "location": "Biopalatset 7"
+    }
+  },
+  {
+    "id": 6019,
+    "resourceIds": ["cuerpo-celeste"],
+    "start": "2026-01-24T18:00:00.000Z",
+    "end": "2026-01-24T19:40:00.000Z",
+    "title": "Cuerpo Celeste",
+    "extendedProps": {
+      "location": "Biopalatset 1"
+    }
+  },
+  {
+    "id": 6020,
+    "resourceIds": ["drunken-noodles"],
+    "start": "2026-01-24T18:00:00.000Z",
+    "end": "2026-01-24T19:25:00.000Z",
+    "title": "Drunken Noodles",
+    "extendedProps": {
+      "location": "Biopalatset 2"
+    }
+  },
+  {
+    "id": 6018,
+    "resourceIds": ["bad-apples"],
+    "start": "2026-01-24T18:00:00.000Z",
+    "end": "2026-01-24T19:40:00.000Z",
+    "title": "Bad Apples",
+    "extendedProps": {
+      "location": "Draken"
+    }
+  },
+  {
+    "id": 6021,
+    "resourceIds": ["cuba--alaska"],
+    "start": "2026-01-24T18:45:00.000Z",
+    "end": "2026-01-24T20:20:00.000Z",
+    "title": "Cuba & Alaska",
+    "extendedProps": {
+      "location": "Göta 2"
+    }
+  },
+  {
+    "id": 6022,
+    "resourceIds": ["heads-or-tails"],
+    "start": "2026-01-24T18:45:00.000Z",
+    "end": "2026-01-24T20:45:00.000Z",
+    "title": "Heads or Tails?",
+    "extendedProps": {
+      "location": "Biopalatset 9"
+    }
+  },
+  {
+    "id": 6024,
+    "resourceIds": ["broken-voices"],
+    "start": "2026-01-24T19:00:00.000Z",
+    "end": "2026-01-24T20:50:00.000Z",
+    "title": "Broken Voices",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 6026,
+    "resourceIds": ["follies"],
+    "start": "2026-01-24T19:00:00.000Z",
+    "end": "2026-01-24T20:45:00.000Z",
+    "title": "Follies",
+    "extendedProps": {
+      "location": "Aftonstjärnan"
+    }
+  },
+  {
+    "id": 6023,
+    "resourceIds": ["i-swear"],
+    "start": "2026-01-24T19:00:00.000Z",
+    "end": "2026-01-24T21:05:00.000Z",
+    "title": "I Swear",
+    "extendedProps": {
+      "location": "Stora Teatern"
+    }
+  },
+  {
+    "id": 6025,
+    "resourceIds": ["the-kidnapping-of-arabella"],
+    "start": "2026-01-24T19:00:00.000Z",
+    "end": "2026-01-24T20:50:00.000Z",
+    "title": "The Kidnapping of Arabella",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 6717,
+    "resourceIds": ["all-thats-left-of-you"],
+    "start": "2026-01-24T19:30:00.000Z",
+    "end": "2026-01-24T22:00:00.000Z",
+    "title": "All That's Left of You",
+    "extendedProps": {
+      "location": "Handels"
+    }
+  },
+  {
+    "id": 6030,
+    "resourceIds": ["agon"],
+    "start": "2026-01-24T19:30:00.000Z",
+    "end": "2026-01-24T21:15:00.000Z",
+    "title": "Agon",
+    "extendedProps": {
+      "location": "Biopalatset 10"
+    }
+  },
+  {
+    "id": 6028,
+    "resourceIds": ["solo-female"],
+    "start": "2026-01-24T19:30:00.000Z",
+    "end": "2026-01-24T20:20:00.000Z",
+    "title": "Solo Female",
+    "extendedProps": {
+      "location": "Göta 1"
+    }
+  },
+  {
+    "id": 6029,
+    "resourceIds": ["on-your-lap"],
+    "start": "2026-01-24T19:30:00.000Z",
+    "end": "2026-01-24T21:10:00.000Z",
+    "title": "On Your Lap",
+    "extendedProps": {
+      "location": "Biopalatset 8"
+    }
+  },
+  {
+    "id": 6031,
+    "resourceIds": ["john-lilly-and-the-earth-coincidence-control-office"],
+    "start": "2026-01-24T20:00:00.000Z",
+    "end": "2026-01-24T21:30:00.000Z",
+    "title": "John Lilly and the Earth Coincidence Control Office",
+    "extendedProps": {
+      "location": "Biopalatset 1"
+    }
+  },
+  {
+    "id": 6032,
+    "resourceIds": ["erupcja"],
+    "start": "2026-01-24T20:00:00.000Z",
+    "end": "2026-01-24T21:15:00.000Z",
+    "title": "Erupcja",
+    "extendedProps": {
+      "location": "Biopalatset 2"
+    }
+  },
+  {
+    "id": 6617,
+    "resourceIds": ["rose-of-nevada"],
+    "start": "2026-01-24T20:45:00.000Z",
+    "end": "2026-01-24T22:40:00.000Z",
+    "title": "Rose of Nevada",
+    "extendedProps": {
+      "location": "Draken"
+    }
+  },
+  {
+    "id": 6370,
+    "resourceIds": ["sirat"],
+    "start": "2026-01-24T21:30:00.000Z",
+    "end": "2026-01-24T23:25:00.000Z",
+    "title": "Sirât",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 6034,
+    "resourceIds": ["the-wonderers"],
+    "start": "2026-01-25T08:30:00.000Z",
+    "end": "2026-01-25T10:15:00.000Z",
+    "title": "Ljuset inom oss",
+    "extendedProps": {
+      "location": "Stora Teatern"
+    }
+  },
+  {
+    "id": 6033,
+    "resourceIds": ["a-private-life"],
+    "start": "2026-01-25T08:30:00.000Z",
+    "end": "2026-01-25T10:20:00.000Z",
+    "title": "Ett privat liv",
+    "extendedProps": {
+      "location": "Draken"
+    }
+  },
+  {
+    "id": 6035,
+    "resourceIds": ["adams-sake"],
+    "start": "2026-01-25T08:45:00.000Z",
+    "end": "2026-01-25T10:00:00.000Z",
+    "title": "Adam's Sake",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 6618,
+    "resourceIds": ["rose-of-nevada"],
+    "start": "2026-01-25T08:45:00.000Z",
+    "end": "2026-01-25T10:40:00.000Z",
+    "title": "Rose of Nevada",
+    "extendedProps": {
+      "location": "Göta 1"
+    }
+  },
+  {
+    "id": 6036,
+    "resourceIds": ["the-square"],
+    "start": "2026-01-25T08:45:00.000Z",
+    "end": "2026-01-25T10:00:00.000Z",
+    "title": "The Square",
+    "extendedProps": {
+      "location": "Biopalatset 9"
+    }
+  },
+  {
+    "id": 6037,
+    "resourceIds": ["the-visitor-1"],
+    "start": "2026-01-25T08:45:00.000Z",
+    "end": "2026-01-25T10:40:00.000Z",
+    "title": "The Visitor",
+    "extendedProps": {
+      "location": "Biopalatset 10"
+    }
+  },
+  {
+    "id": 6038,
+    "resourceIds": ["the-patron"],
+    "start": "2026-01-25T09:00:00.000Z",
+    "end": "2026-01-25T10:40:00.000Z",
+    "title": "Mecenaten",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 6042,
+    "resourceIds": ["landmarks"],
+    "start": "2026-01-25T09:00:00.000Z",
+    "end": "2026-01-25T11:05:00.000Z",
+    "title": "Landmarks",
+    "extendedProps": {
+      "location": "Biopalatset 1"
+    }
+  },
+  {
+    "id": 6039,
+    "resourceIds": [
+      "debut-or-objects-of-the-field-of-debris-as-currently-catalogued"
+    ],
+    "start": "2026-01-25T09:00:00.000Z",
+    "end": "2026-01-25T10:20:00.000Z",
+    "title": "Debut, or, Objects of the Field of Debris as Currently Catalogued",
+    "extendedProps": {
+      "location": "Skeppet"
+    }
+  },
+  {
+    "id": 6041,
+    "resourceIds": ["in-the-land-of-arto"],
+    "start": "2026-01-25T09:00:00.000Z",
+    "end": "2026-01-25T10:45:00.000Z",
+    "title": "In the Land of Arto",
+    "extendedProps": {
+      "location": "Göta 2"
+    }
+  },
+  {
+    "id": 6043,
+    "resourceIds": ["as-we-breathe"],
+    "start": "2026-01-25T09:00:00.000Z",
+    "end": "2026-01-25T10:35:00.000Z",
+    "title": "As We Breathe",
+    "extendedProps": {
+      "location": "Biopalatset 2"
+    }
+  },
+  {
+    "id": 6040,
+    "resourceIds": ["out-of-love"],
+    "start": "2026-01-25T09:00:00.000Z",
+    "end": "2026-01-25T10:55:00.000Z",
+    "title": "Out of Love",
+    "extendedProps": {
+      "location": "Aftonstjärnan"
+    }
+  },
+  {
+    "id": 6045,
+    "resourceIds": ["wrestlers"],
+    "start": "2026-01-25T09:30:00.000Z",
+    "end": "2026-01-25T10:35:00.000Z",
+    "title": "Wrestlers",
+    "extendedProps": {
+      "location": "Biopalatset 8"
+    }
+  },
+  {
+    "id": 6044,
+    "resourceIds": ["renoir"],
+    "start": "2026-01-25T09:30:00.000Z",
+    "end": "2026-01-25T11:30:00.000Z",
+    "title": "Renoir",
+    "extendedProps": {
+      "location": "Handels"
+    }
+  },
+  {
+    "id": 6046,
+    "resourceIds": ["broken-voices"],
+    "start": "2026-01-25T10:30:00.000Z",
+    "end": "2026-01-25T12:20:00.000Z",
+    "title": "Broken Voices",
+    "extendedProps": {
+      "location": "Biopalatset 9"
+    }
+  },
+  {
+    "id": 6047,
+    "resourceIds": ["the-danish-woman"],
+    "start": "2026-01-25T10:45:00.000Z",
+    "end": "2026-01-25T15:45:00.000Z",
+    "title": "The Danish Woman",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 6052,
+    "resourceIds": ["i-only-rest-in-the-storm"],
+    "start": "2026-01-25T11:00:00.000Z",
+    "end": "2026-01-25T14:35:00.000Z",
+    "title": "I Only Rest in the Storm",
+    "extendedProps": {
+      "location": "Biopalatset 8"
+    }
+  },
+  {
+    "id": 6051,
+    "resourceIds": ["agon"],
+    "start": "2026-01-25T11:00:00.000Z",
+    "end": "2026-01-25T12:45:00.000Z",
+    "title": "Agon",
+    "extendedProps": {
+      "location": "Göta 1"
+    }
+  },
+  {
+    "id": 6049,
+    "resourceIds": ["little-amelie-or-the-character-of-rain"],
+    "start": "2026-01-25T11:00:00.000Z",
+    "end": "2026-01-25T12:20:00.000Z",
+    "title": "Lilla Amélie eller tecknet för regn",
+    "extendedProps": {
+      "location": "Draken"
+    }
+  },
+  {
+    "id": 6055,
+    "resourceIds": ["shape-of-momo"],
+    "start": "2026-01-25T11:15:00.000Z",
+    "end": "2026-01-25T13:10:00.000Z",
+    "title": "Shape of Momo",
+    "extendedProps": {
+      "location": "Biopalatset 10"
+    }
+  },
+  {
+    "id": 6054,
+    "resourceIds": ["calle-malaga"],
+    "start": "2026-01-25T11:15:00.000Z",
+    "end": "2026-01-25T13:15:00.000Z",
+    "title": "Calle Malaga",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 6053,
+    "resourceIds": ["bad-apples"],
+    "start": "2026-01-25T11:15:00.000Z",
+    "end": "2026-01-25T12:55:00.000Z",
+    "title": "Bad Apples",
+    "extendedProps": {
+      "location": "Stora Teatern"
+    }
+  },
+  {
+    "id": 6058,
+    "resourceIds": ["cuerpo-celeste"],
+    "start": "2026-01-25T11:30:00.000Z",
+    "end": "2026-01-25T13:10:00.000Z",
+    "title": "Cuerpo Celeste",
+    "extendedProps": {
+      "location": "Biopalatset 1"
+    }
+  },
+  {
+    "id": 6059,
+    "resourceIds": ["promised-sky"],
+    "start": "2026-01-25T11:30:00.000Z",
+    "end": "2026-01-25T13:05:00.000Z",
+    "title": "Promised Sky",
+    "extendedProps": {
+      "location": "Biopalatset 2"
+    }
+  },
+  {
+    "id": 6056,
+    "resourceIds": ["i-swear"],
+    "start": "2026-01-25T11:30:00.000Z",
+    "end": "2026-01-25T13:35:00.000Z",
+    "title": "I Swear",
+    "extendedProps": {
+      "location": "Aftonstjärnan"
+    }
+  },
+  {
+    "id": 6057,
+    "resourceIds": ["the-silence-of-snow"],
+    "start": "2026-01-25T11:30:00.000Z",
+    "end": "2026-01-25T12:45:00.000Z",
+    "title": "Tyst faller snön",
+    "extendedProps": {
+      "location": "Göta 2"
+    }
+  },
+  {
+    "id": 6061,
+    "resourceIds": ["young-mothers"],
+    "start": "2026-01-25T12:00:00.000Z",
+    "end": "2026-01-25T13:45:00.000Z",
+    "title": "Unga mödrar",
+    "extendedProps": {
+      "location": "Handels"
+    }
+  },
+  {
+    "id": 6368,
+    "resourceIds": ["the-ivy"],
+    "start": "2026-01-25T12:30:00.000Z",
+    "end": "2026-01-25T14:10:00.000Z",
+    "title": "The Ivy",
+    "extendedProps": {
+      "location": "Göta 3"
+    }
+  },
+  {
+    "id": 6065,
+    "resourceIds": ["the-luminous-life"],
+    "start": "2026-01-25T13:00:00.000Z",
+    "end": "2026-01-25T14:40:00.000Z",
+    "title": "The Luminous Life",
+    "extendedProps": {
+      "location": "Skeppet"
+    }
+  },
+  {
+    "id": 6067,
+    "resourceIds": ["drunken-noodles"],
+    "start": "2026-01-25T13:00:00.000Z",
+    "end": "2026-01-25T14:25:00.000Z",
+    "title": "Drunken Noodles",
+    "extendedProps": {
+      "location": "Biopalatset 9"
+    }
+  },
+  {
+    "id": 6066,
+    "resourceIds": ["yes"],
+    "start": "2026-01-25T13:00:00.000Z",
+    "end": "2026-01-25T15:30:00.000Z",
+    "title": "Ja!",
+    "extendedProps": {
+      "location": "Biopalatset 7"
+    }
+  },
+  {
+    "id": 6068,
+    "resourceIds": ["malandro-moon"],
+    "start": "2026-01-25T13:30:00.000Z",
+    "end": "2026-01-25T14:55:00.000Z",
+    "title": "Första blatten på månen",
+    "extendedProps": {
+      "location": "Göta 2"
+    }
+  },
+  {
+    "id": 6072,
+    "resourceIds": ["dracula"],
+    "start": "2026-01-25T13:45:00.000Z",
+    "end": "2026-01-25T16:35:00.000Z",
+    "title": "Dracula",
+    "extendedProps": {
+      "location": "Biopalatset 3"
+    }
+  },
+  {
+    "id": 6071,
+    "resourceIds": ["mailin"],
+    "start": "2026-01-25T13:45:00.000Z",
+    "end": "2026-01-25T15:15:00.000Z",
+    "title": "Mailin",
+    "extendedProps": {
+      "location": "Biopalatset 2"
+    }
+  },
+  {
+    "id": 6070,
+    "resourceIds": ["between-dreams-and-hope"],
+    "start": "2026-01-25T13:45:00.000Z",
+    "end": "2026-01-25T15:35:00.000Z",
+    "title": "Between Dreams and Hope",
+    "extendedProps": {
+      "location": "Biopalatset 1"
+    }
+  },
+  {
+    "id": 6069,
+    "resourceIds": ["heads-or-tails"],
+    "start": "2026-01-25T13:45:00.000Z",
+    "end": "2026-01-25T15:45:00.000Z",
+    "title": "Heads or Tails?",
+    "extendedProps": {
+      "location": "Göta 1"
+    }
+  },
+  {
+    "id": 6073,
+    "resourceIds": ["super-nature"],
+    "start": "2026-01-25T14:00:00.000Z",
+    "end": "2026-01-25T15:25:00.000Z",
+    "title": "Super Nature",
+    "extendedProps": {
+      "location": "Stora Teatern"
+    }
+  },
+  {
+    "id": 6074,
+    "resourceIds": ["a-poet"],
+    "start": "2026-01-25T14:00:00.000Z",
+    "end": "2026-01-25T16:00:00.000Z",
+    "title": "En poet",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 6075,
+    "resourceIds": ["the-kidnapping-of-arabella"],
+    "start": "2026-01-25T14:00:00.000Z",
+    "end": "2026-01-25T15:50:00.000Z",
+    "title": "The Kidnapping of Arabella",
+    "extendedProps": {
+      "location": "Biopalatset 10"
+    }
+  },
+  {
+    "id": 6077,
+    "resourceIds": ["julian"],
+    "start": "2026-01-25T14:30:00.000Z",
+    "end": "2026-01-25T16:05:00.000Z",
+    "title": "Julian",
+    "extendedProps": {
+      "location": "Aftonstjärnan"
+    }
+  },
+  {
+    "id": 6076,
+    "resourceIds": ["what-does-that-nature-say-to-you"],
+    "start": "2026-01-25T14:30:00.000Z",
+    "end": "2026-01-25T16:20:00.000Z",
+    "title": "What Does That Nature Say to You",
+    "extendedProps": {
+      "location": "Handels"
+    }
+  },
+  {
+    "id": 6078,
+    "resourceIds": ["trillion"],
+    "start": "2026-01-25T14:45:00.000Z",
+    "end": "2026-01-25T16:05:00.000Z",
+    "title": "Trillion",
+    "extendedProps": {
+      "location": "Biopalatset 9"
+    }
+  },
+  {
+    "id": 6079,
+    "resourceIds": ["hen"],
+    "start": "2026-01-25T15:00:00.000Z",
+    "end": "2026-01-25T16:40:00.000Z",
+    "title": "Hönan",
+    "extendedProps": {
+      "location": "Skeppet"
+    }
+  },
+  {
+    "id": 6636,
+    "resourceIds": ["all-thats-left-of-you"],
+    "start": "2026-01-25T15:30:00.000Z",
+    "end": "2026-01-25T18:00:00.000Z",
+    "title": "All That's Left of You",
+    "extendedProps": {
+      "location": "Göta 3"
+    }
+  },
+  {
+    "id": 6081,
+    "resourceIds": ["solo-female"],
+    "start": "2026-01-25T16:00:00.000Z",
+    "end": "2026-01-25T16:50:00.000Z",
+    "title": "Solo Female",
+    "extendedProps": {
+      "location": "Göta 2"
+    }
+  },
+  {
+    "id": 6083,
+    "resourceIds": ["fiume-o-morte"],
+    "start": "2026-01-25T16:00:00.000Z",
+    "end": "2026-01-25T17:55:00.000Z",
+    "title": "Fiume o morte!",
+    "extendedProps": {
+      "location": "Biopalatset 2"
+    }
+  },
+  {
+    "id": 6082,
+    "resourceIds": ["to-the-victory"],
+    "start": "2026-01-25T16:00:00.000Z",
+    "end": "2026-01-25T17:45:00.000Z",
+    "title": "To the Victory!",
+    "extendedProps": {
+      "location": "Biopalatset 1"
+    }
+  },
+  {
+    "id": 6084,
+    "resourceIds": ["green-border-1"],
+    "start": "2026-01-25T16:00:00.000Z",
+    "end": "2026-01-25T18:35:00.000Z",
+    "title": "Green Border",
+    "extendedProps": {
+      "location": "Biopalatset 7"
+    }
+  },
+  {
+    "id": 6085,
+    "resourceIds": ["son-of-a-killer"],
+    "start": "2026-01-25T16:15:00.000Z",
+    "end": "2026-01-25T17:40:00.000Z",
+    "title": "Mördarens son",
+    "extendedProps": {
+      "location": "Göta 1"
+    }
+  },
+  {
+    "id": 6088,
+    "resourceIds": ["the-watchmaker"],
+    "start": "2026-01-25T16:30:00.000Z",
+    "end": "2026-01-25T18:30:00.000Z",
+    "title": "The Watchmaker",
+    "extendedProps": {
+      "location": "Biopalatset 10"
+    }
+  },
+  {
+    "id": 6087,
+    "resourceIds": ["the-good-daughter"],
+    "start": "2026-01-25T16:30:00.000Z",
+    "end": "2026-01-25T18:10:00.000Z",
+    "title": "The Good Daughter",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 6086,
+    "resourceIds": ["weightless"],
+    "start": "2026-01-25T16:30:00.000Z",
+    "end": "2026-01-25T18:10:00.000Z",
+    "title": "Weightless",
+    "extendedProps": {
+      "location": "Draken"
+    }
+  },
+  {
+    "id": 6091,
+    "resourceIds": ["sundays"],
+    "start": "2026-01-25T16:45:00.000Z",
+    "end": "2026-01-25T18:40:00.000Z",
+    "title": "Sundays",
+    "extendedProps": {
+      "location": "Aftonstjärnan"
+    }
+  },
+  {
+    "id": 6089,
+    "resourceIds": ["dreams"],
+    "start": "2026-01-25T16:45:00.000Z",
+    "end": "2026-01-25T18:25:00.000Z",
+    "title": "Dreams",
+    "extendedProps": {
+      "location": "Stora Teatern"
+    }
+  },
+  {
+    "id": 6092,
+    "resourceIds": ["steal-this-story-please"],
+    "start": "2026-01-25T16:45:00.000Z",
+    "end": "2026-01-25T18:30:00.000Z",
+    "title": "Steal This Story, Please!",
+    "extendedProps": {
+      "location": "Biopalatset 9"
+    }
+  },
+  {
+    "id": 6096,
+    "resourceIds": ["amrum"],
+    "start": "2026-01-25T17:00:00.000Z",
+    "end": "2026-01-25T18:35:00.000Z",
+    "title": "Amrum",
+    "extendedProps": {
+      "location": "Handels"
+    }
+  },
+  {
+    "id": 6094,
+    "resourceIds": ["the-cat-kingdom"],
+    "start": "2026-01-25T17:00:00.000Z",
+    "end": "2026-01-25T19:00:00.000Z",
+    "title": "Kattriket",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 6098,
+    "resourceIds": ["straight-circle"],
+    "start": "2026-01-25T17:30:00.000Z",
+    "end": "2026-01-25T19:20:00.000Z",
+    "title": "Straight Circle",
+    "extendedProps": {
+      "location": "Biopalatset 3"
+    }
+  },
+  {
+    "id": 6099,
+    "resourceIds": ["on-your-lap"],
+    "start": "2026-01-25T17:45:00.000Z",
+    "end": "2026-01-25T19:25:00.000Z",
+    "title": "On Your Lap",
+    "extendedProps": {
+      "location": "Göta 2"
+    }
+  },
+  {
+    "id": 6733,
+    "resourceIds": ["the-ice-tower"],
+    "start": "2026-01-25T18:15:00.000Z",
+    "end": "2026-01-25T20:15:00.000Z",
+    "title": "Istornet",
+    "extendedProps": {
+      "location": "Göta 3"
+    }
+  },
+  {
+    "id": 6102,
+    "resourceIds": ["the-disappearance-of-josef-mengele"],
+    "start": "2026-01-25T18:30:00.000Z",
+    "end": "2026-01-25T20:45:00.000Z",
+    "title": "Josef Mengeles försvinnande",
+    "extendedProps": {
+      "location": "Biopalatset 2"
+    }
+  },
+  {
+    "id": 6103,
+    "resourceIds": ["melt"],
+    "start": "2026-01-25T18:30:00.000Z",
+    "end": "2026-01-25T20:40:00.000Z",
+    "title": "Melt",
+    "extendedProps": {
+      "location": "Biopalatset 8"
+    }
+  },
+  {
+    "id": 6100,
+    "resourceIds": ["celtic-utopia"],
+    "start": "2026-01-25T18:30:00.000Z",
+    "end": "2026-01-25T20:00:00.000Z",
+    "title": "Celtic Utopia",
+    "extendedProps": {
+      "location": "Skeppet"
+    }
+  },
+  {
+    "id": 6101,
+    "resourceIds": ["if-we-dont-burn-how-do-we-light-up-the-night"],
+    "start": "2026-01-25T18:30:00.000Z",
+    "end": "2026-01-25T20:05:00.000Z",
+    "title": "If We Don’t Burn, How Do We Light Up the Night",
+    "extendedProps": {
+      "location": "Biopalatset 1"
+    }
+  },
+  {
+    "id": 6106,
+    "resourceIds": ["a-loose-end"],
+    "start": "2026-01-25T19:00:00.000Z",
+    "end": "2026-01-25T20:35:00.000Z",
+    "title": "A Loose End",
+    "extendedProps": {
+      "location": "Göta 1"
+    }
+  },
+  {
+    "id": 6108,
+    "resourceIds": ["boy-george--culture-club"],
+    "start": "2026-01-25T19:00:00.000Z",
+    "end": "2026-01-25T20:40:00.000Z",
+    "title": "Boy George & Culture Club",
+    "extendedProps": {
+      "location": "Biopalatset 7"
+    }
+  },
+  {
+    "id": 6105,
+    "resourceIds": ["couture"],
+    "start": "2026-01-25T19:00:00.000Z",
+    "end": "2026-01-25T20:50:00.000Z",
+    "title": "Couture",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 6104,
+    "resourceIds": ["the-testament-of-ann-lee"],
+    "start": "2026-01-25T19:00:00.000Z",
+    "end": "2026-01-25T21:10:00.000Z",
+    "title": "The Testament of Ann Lee",
+    "extendedProps": {
+      "location": "Draken"
+    }
+  },
+  {
+    "id": 6109,
+    "resourceIds": ["peak-everything"],
+    "start": "2026-01-25T19:15:00.000Z",
+    "end": "2026-01-25T20:55:00.000Z",
+    "title": "Peak Everything",
+    "extendedProps": {
+      "location": "Handels"
+    }
+  },
+  {
+    "id": 6110,
+    "resourceIds": ["urchin"],
+    "start": "2026-01-25T19:15:00.000Z",
+    "end": "2026-01-25T20:55:00.000Z",
+    "title": "Urchin",
+    "extendedProps": {
+      "location": "Aftonstjärnan"
+    }
+  },
+  {
+    "id": 6112,
+    "resourceIds": ["cuba--alaska"],
+    "start": "2026-01-25T19:15:00.000Z",
+    "end": "2026-01-25T20:50:00.000Z",
+    "title": "Cuba & Alaska",
+    "extendedProps": {
+      "location": "Biopalatset 10"
+    }
+  },
+  {
+    "id": 6111,
+    "resourceIds": ["a-year-of-school"],
+    "start": "2026-01-25T19:15:00.000Z",
+    "end": "2026-01-25T21:00:00.000Z",
+    "title": "A Year of School",
+    "extendedProps": {
+      "location": "Biopalatset 9"
+    }
+  },
+  {
+    "id": 6113,
+    "resourceIds": ["the-swedish-connection"],
+    "start": "2026-01-25T19:45:00.000Z",
+    "end": "2026-01-25T21:25:00.000Z",
+    "title": "Den svenska länken",
+    "extendedProps": {
+      "location": "Stora Teatern"
+    }
+  },
+  {
+    "id": 6114,
+    "resourceIds": ["elon-musk-unveiled--the-tesla-experiment"],
+    "start": "2026-01-25T19:45:00.000Z",
+    "end": "2026-01-25T21:15:00.000Z",
+    "title": "Elon Musk Unveiled – The Tesla Experiment",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 6115,
+    "resourceIds": ["weightless"],
+    "start": "2026-01-26T08:45:00.000Z",
+    "end": "2026-01-26T10:25:00.000Z",
+    "title": "Weightless",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 6116,
+    "resourceIds": ["peak-everything"],
+    "start": "2026-01-26T09:00:00.000Z",
+    "end": "2026-01-26T10:40:00.000Z",
+    "title": "Peak Everything",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 6117,
+    "resourceIds": ["dry-leaf"],
+    "start": "2026-01-26T09:00:00.000Z",
+    "end": "2026-01-26T12:10:00.000Z",
+    "title": "Dry Leaf",
+    "extendedProps": {
+      "location": "Göta 1"
+    }
+  },
+  {
+    "id": 6118,
+    "resourceIds": ["between-dreams-and-hope"],
+    "start": "2026-01-26T09:15:00.000Z",
+    "end": "2026-01-26T11:05:00.000Z",
+    "title": "Between Dreams and Hope",
+    "extendedProps": {
+      "location": "Göta 2"
+    }
+  },
+  {
+    "id": 6120,
+    "resourceIds": ["celtic-utopia"],
+    "start": "2026-01-26T11:15:00.000Z",
+    "end": "2026-01-26T12:45:00.000Z",
+    "title": "Celtic Utopia",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 6121,
+    "resourceIds": ["the-cat-kingdom"],
+    "start": "2026-01-26T11:15:00.000Z",
+    "end": "2026-01-26T13:15:00.000Z",
+    "title": "Kattriket",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 6372,
+    "resourceIds": ["couture"],
+    "start": "2026-01-26T11:30:00.000Z",
+    "end": "2026-01-26T13:20:00.000Z",
+    "title": "Couture",
+    "extendedProps": {
+      "location": "Draken"
+    }
+  },
+  {
+    "id": 6122,
+    "resourceIds": ["the-great-arch"],
+    "start": "2026-01-26T11:45:00.000Z",
+    "end": "2026-01-26T13:30:00.000Z",
+    "title": "Den nya Triumfbågens arkitekt",
+    "extendedProps": {
+      "location": "Biopalatset 9"
+    }
+  },
+  {
+    "id": 6123,
+    "resourceIds": ["young-mothers"],
+    "start": "2026-01-26T12:00:00.000Z",
+    "end": "2026-01-26T13:45:00.000Z",
+    "title": "Unga mödrar",
+    "extendedProps": {
+      "location": "Biopalatset 6"
+    }
+  },
+  {
+    "id": 6125,
+    "resourceIds": ["sundays"],
+    "start": "2026-01-26T12:30:00.000Z",
+    "end": "2026-01-26T14:25:00.000Z",
+    "title": "Sundays",
+    "extendedProps": {
+      "location": "Biopalatset 10"
+    }
+  },
+  {
+    "id": 6124,
+    "resourceIds": ["made-in-eu"],
+    "start": "2026-01-26T12:30:00.000Z",
+    "end": "2026-01-26T14:20:00.000Z",
+    "title": "Made in EU",
+    "extendedProps": {
+      "location": "Biopalatset 8"
+    }
+  },
+  {
+    "id": 6127,
+    "resourceIds": ["agon"],
+    "start": "2026-01-26T12:45:00.000Z",
+    "end": "2026-01-26T14:30:00.000Z",
+    "title": "Agon",
+    "extendedProps": {
+      "location": "Biopalatset 3"
+    }
+  },
+  {
+    "id": 6126,
+    "resourceIds": ["ladies-hunting-party"],
+    "start": "2026-01-26T12:45:00.000Z",
+    "end": "2026-01-26T14:15:00.000Z",
+    "title": "Ladies' Hunting Party",
+    "extendedProps": {
+      "location": "Biopalatset 1"
+    }
+  },
+  {
+    "id": 6128,
+    "resourceIds": ["super-nature"],
+    "start": "2026-01-26T13:00:00.000Z",
+    "end": "2026-01-26T14:25:00.000Z",
+    "title": "Super Nature",
+    "extendedProps": {
+      "location": "Skeppet"
+    }
+  },
+  {
+    "id": 6130,
+    "resourceIds": ["dreams"],
+    "start": "2026-01-26T13:30:00.000Z",
+    "end": "2026-01-26T15:10:00.000Z",
+    "title": "Dreams",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 6132,
+    "resourceIds": ["son-of-a-killer"],
+    "start": "2026-01-26T14:00:00.000Z",
+    "end": "2026-01-26T15:25:00.000Z",
+    "title": "Mördarens son",
+    "extendedProps": {
+      "location": "Göta 2"
+    }
+  },
+  {
+    "id": 6131,
+    "resourceIds": ["the-testament-of-ann-lee"],
+    "start": "2026-01-26T14:00:00.000Z",
+    "end": "2026-01-26T16:10:00.000Z",
+    "title": "The Testament of Ann Lee",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 6622,
+    "resourceIds": ["the-watchmaker"],
+    "start": "2026-01-26T14:00:00.000Z",
+    "end": "2026-01-26T15:20:00.000Z",
+    "title": "The Watchmaker",
+    "extendedProps": {
+      "location": "Göta 1"
+    }
+  },
+  {
+    "id": 6181,
+    "resourceIds": ["a-loose-end"],
+    "start": "2026-01-26T14:00:00.000Z",
+    "end": "2026-01-26T15:35:00.000Z",
+    "title": "A Loose End",
+    "extendedProps": {
+      "location": "Biopalatset 9"
+    }
+  },
+  {
+    "id": 6133,
+    "resourceIds": ["the-square"],
+    "start": "2026-01-26T14:00:00.000Z",
+    "end": "2026-01-26T15:15:00.000Z",
+    "title": "The Square",
+    "extendedProps": {
+      "location": "Biopalatset 2"
+    }
+  },
+  {
+    "id": 6373,
+    "resourceIds": ["eleanor-the-great"],
+    "start": "2026-01-26T14:00:00.000Z",
+    "end": "2026-01-26T15:40:00.000Z",
+    "title": "Eleanor the Great",
+    "extendedProps": {
+      "location": "Draken"
+    }
+  },
+  {
+    "id": 6137,
+    "resourceIds": ["i-swear"],
+    "start": "2026-01-26T14:15:00.000Z",
+    "end": "2026-01-26T16:20:00.000Z",
+    "title": "I Swear",
+    "extendedProps": {
+      "location": "Biopalatset 6"
+    }
+  },
+  {
+    "id": 6139,
+    "resourceIds": ["if-we-dont-burn-how-do-we-light-up-the-night"],
+    "start": "2026-01-26T14:45:00.000Z",
+    "end": "2026-01-26T16:20:00.000Z",
+    "title": "If We Don’t Burn, How Do We Light Up the Night",
+    "extendedProps": {
+      "location": "Biopalatset 3"
+    }
+  },
+  {
+    "id": 6138,
+    "resourceIds": ["trillion"],
+    "start": "2026-01-26T14:45:00.000Z",
+    "end": "2026-01-26T16:05:00.000Z",
+    "title": "Trillion",
+    "extendedProps": {
+      "location": "Biopalatset 1"
+    }
+  },
+  {
+    "id": 6141,
+    "resourceIds": ["hen"],
+    "start": "2026-01-26T15:00:00.000Z",
+    "end": "2026-01-26T16:40:00.000Z",
+    "title": "Hönan",
+    "extendedProps": {
+      "location": "Biopalatset 8"
+    }
+  },
+  {
+    "id": 6140,
+    "resourceIds": ["past-future-continuous"],
+    "start": "2026-01-26T15:00:00.000Z",
+    "end": "2026-01-26T16:20:00.000Z",
+    "title": "Past Future Continuous",
+    "extendedProps": {
+      "location": "Biopalatset 7"
+    }
+  },
+  {
+    "id": 6142,
+    "resourceIds": ["the-good-daughter"],
+    "start": "2026-01-26T15:00:00.000Z",
+    "end": "2026-01-26T16:40:00.000Z",
+    "title": "The Good Daughter",
+    "extendedProps": {
+      "location": "Biopalatset 10"
+    }
+  },
+  {
+    "id": 6719,
+    "resourceIds": ["adams-sake"],
+    "start": "2026-01-26T15:45:00.000Z",
+    "end": "2026-01-26T17:00:00.000Z",
+    "title": "Adam's Sake",
+    "extendedProps": {
+      "location": "Göta 3"
+    }
+  },
+  {
+    "id": 6146,
+    "resourceIds": ["i-only-rest-in-the-storm"],
+    "start": "2026-01-26T16:00:00.000Z",
+    "end": "2026-01-26T19:35:00.000Z",
+    "title": "I Only Rest in the Storm",
+    "extendedProps": {
+      "location": "Biopalatset 2"
+    }
+  },
+  {
+    "id": 6147,
+    "resourceIds": ["a-useful-ghost"],
+    "start": "2026-01-26T16:00:00.000Z",
+    "end": "2026-01-26T18:10:00.000Z",
+    "title": "A Useful Ghost",
+    "extendedProps": {
+      "location": "Biopalatset 5"
+    }
+  },
+  {
+    "id": 6145,
+    "resourceIds": [
+      "writing-life--annie-ernaux-through-the-eyes-of-high-school-students"
+    ],
+    "start": "2026-01-26T16:00:00.000Z",
+    "end": "2026-01-26T17:30:00.000Z",
+    "title": "Writing Life – Annie Ernaux Through the Eyes of High School Students",
+    "extendedProps": {
+      "location": "Göta 2"
+    }
+  },
+  {
+    "id": 6148,
+    "resourceIds": ["my-father-and-qaddafi"],
+    "start": "2026-01-26T16:15:00.000Z",
+    "end": "2026-01-26T17:45:00.000Z",
+    "title": "My Father and Qaddafi",
+    "extendedProps": {
+      "location": "Göta 1"
+    }
+  },
+  {
+    "id": 6150,
+    "resourceIds": ["the-wonderers"],
+    "start": "2026-01-26T16:30:00.000Z",
+    "end": "2026-01-26T18:15:00.000Z",
+    "title": "Ljuset inom oss",
+    "extendedProps": {
+      "location": "Aftonstjärnan"
+    }
+  },
+  {
+    "id": 6152,
+    "resourceIds": ["jone-sometimes"],
+    "start": "2026-01-26T16:30:00.000Z",
+    "end": "2026-01-26T17:55:00.000Z",
+    "title": "Jone, Sometimes",
+    "extendedProps": {
+      "location": "Biopalatset 9"
+    }
+  },
+  {
+    "id": 6151,
+    "resourceIds": ["runa-simi"],
+    "start": "2026-01-26T16:30:00.000Z",
+    "end": "2026-01-26T17:55:00.000Z",
+    "title": "Runa Simi",
+    "extendedProps": {
+      "location": "Biopalatset 4"
+    }
+  },
+  {
+    "id": 6149,
+    "resourceIds": ["a-men-to-that"],
+    "start": "2026-01-26T16:30:00.000Z",
+    "end": "2026-01-26T17:55:00.000Z",
+    "title": "A-Men to That",
+    "extendedProps": {
+      "location": "Stora Teatern"
+    }
+  },
+  {
+    "id": 6156,
+    "resourceIds": ["elon-musk-unveiled--the-tesla-experiment"],
+    "start": "2026-01-26T16:45:00.000Z",
+    "end": "2026-01-26T18:15:00.000Z",
+    "title": "Elon Musk Unveiled – The Tesla Experiment",
+    "extendedProps": {
+      "location": "Biopalatset 6"
+    }
+  },
+  {
+    "id": 6155,
+    "resourceIds": ["no-comment"],
+    "start": "2026-01-26T16:45:00.000Z",
+    "end": "2026-01-26T18:25:00.000Z",
+    "title": "Ingen kommentar",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 6154,
+    "resourceIds": ["le-lac"],
+    "start": "2026-01-26T16:45:00.000Z",
+    "end": "2026-01-26T18:00:00.000Z",
+    "title": "Le lac",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 6153,
+    "resourceIds": ["beginnings"],
+    "start": "2026-01-26T16:45:00.000Z",
+    "end": "2026-01-26T18:25:00.000Z",
+    "title": "Beginnings",
+    "extendedProps": {
+      "location": "Draken"
+    }
+  },
+  {
+    "id": 6159,
+    "resourceIds": ["julian"],
+    "start": "2026-01-26T17:00:00.000Z",
+    "end": "2026-01-26T18:35:00.000Z",
+    "title": "Julian",
+    "extendedProps": {
+      "location": "Biopalatset 3"
+    }
+  },
+  {
+    "id": 6160,
+    "resourceIds": ["yes"],
+    "start": "2026-01-26T17:00:00.000Z",
+    "end": "2026-01-26T19:30:00.000Z",
+    "title": "Ja!",
+    "extendedProps": {
+      "location": "Biopalatset 7"
+    }
+  },
+  {
+    "id": 6157,
+    "resourceIds": ["re-creation"],
+    "start": "2026-01-26T17:00:00.000Z",
+    "end": "2026-01-26T19:10:00.000Z",
+    "title": "Re-Creation",
+    "extendedProps": {
+      "location": "Handels"
+    }
+  },
+  {
+    "id": 6158,
+    "resourceIds": ["the-patron"],
+    "start": "2026-01-26T17:00:00.000Z",
+    "end": "2026-01-26T18:40:00.000Z",
+    "title": "Mecenaten",
+    "extendedProps": {
+      "location": "Biopalatset 1"
+    }
+  },
+  {
+    "id": 6161,
+    "resourceIds": ["maspalomas"],
+    "start": "2026-01-26T17:00:00.000Z",
+    "end": "2026-01-26T18:55:00.000Z",
+    "title": "Maspalomas",
+    "extendedProps": {
+      "location": "Biopalatset 8"
+    }
+  },
+  {
+    "id": 6163,
+    "resourceIds": ["bearcave"],
+    "start": "2026-01-26T17:30:00.000Z",
+    "end": "2026-01-26T19:40:00.000Z",
+    "title": "Bearcave",
+    "extendedProps": {
+      "location": "Biopalatset 10"
+    }
+  },
+  {
+    "id": 6164,
+    "resourceIds": ["a-poet"],
+    "start": "2026-01-26T18:00:00.000Z",
+    "end": "2026-01-26T20:00:00.000Z",
+    "title": "En poet",
+    "extendedProps": {
+      "location": "Göta 3"
+    }
+  },
+  {
+    "id": 6166,
+    "resourceIds": ["khartoum"],
+    "start": "2026-01-26T18:30:00.000Z",
+    "end": "2026-01-26T19:50:00.000Z",
+    "title": "Khartoum",
+    "extendedProps": {
+      "location": "Biopalatset 4"
+    }
+  },
+  {
+    "id": 6167,
+    "resourceIds": ["strange-river"],
+    "start": "2026-01-26T18:45:00.000Z",
+    "end": "2026-01-26T20:30:00.000Z",
+    "title": "Strange River",
+    "extendedProps": {
+      "location": "Göta 1"
+    }
+  },
+  {
+    "id": 6169,
+    "resourceIds": ["a-year-of-school"],
+    "start": "2026-01-26T18:45:00.000Z",
+    "end": "2026-01-26T20:30:00.000Z",
+    "title": "A Year of School",
+    "extendedProps": {
+      "location": "Biopalatset 9"
+    }
+  },
+  {
+    "id": 6168,
+    "resourceIds": ["all-thats-left-of-you"],
+    "start": "2026-01-26T18:45:00.000Z",
+    "end": "2026-01-26T21:15:00.000Z",
+    "title": "All That's Left of You",
+    "extendedProps": {
+      "location": "Biopalatset 5"
+    }
+  },
+  {
+    "id": 6173,
+    "resourceIds": ["scarlet"],
+    "start": "2026-01-26T19:00:00.000Z",
+    "end": "2026-01-26T20:55:00.000Z",
+    "title": "Scarlet",
+    "extendedProps": {
+      "location": "Biopalatset 6"
+    }
+  },
+  {
+    "id": 6170,
+    "resourceIds": ["dont-call-me-mama"],
+    "start": "2026-01-26T19:00:00.000Z",
+    "end": "2026-01-26T20:50:00.000Z",
+    "title": "Don't Call Me Mama",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 6172,
+    "resourceIds": ["at-work"],
+    "start": "2026-01-26T19:00:00.000Z",
+    "end": "2026-01-26T20:35:00.000Z",
+    "title": "At Work",
+    "extendedProps": {
+      "location": "Biopalatset 3"
+    }
+  },
+  {
+    "id": 6171,
+    "resourceIds": ["leave-one-day"],
+    "start": "2026-01-26T19:00:00.000Z",
+    "end": "2026-01-26T20:40:00.000Z",
+    "title": "Leave One Day",
+    "extendedProps": {
+      "location": "Aftonstjärnan"
+    }
+  },
+  {
+    "id": 6371,
+    "resourceIds": ["blue-heron"],
+    "start": "2026-01-26T19:15:00.000Z",
+    "end": "2026-01-26T20:50:00.000Z",
+    "title": "Blue Heron",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 6175,
+    "resourceIds": ["the-voice-of-hind-rajab"],
+    "start": "2026-01-26T19:30:00.000Z",
+    "end": "2026-01-26T21:00:00.000Z",
+    "title": "Hind Rajab – rösten från Gaza",
+    "extendedProps": {
+      "location": "Draken"
+    }
+  },
+  {
+    "id": 6178,
+    "resourceIds": ["my-fathers-shadow"],
+    "start": "2026-01-26T19:30:00.000Z",
+    "end": "2026-01-26T21:05:00.000Z",
+    "title": "My Father’s Shadow",
+    "extendedProps": {
+      "location": "Biopalatset 1"
+    }
+  },
+  {
+    "id": 6177,
+    "resourceIds": ["mastarnas-match---ingo-vs-floyd"],
+    "start": "2026-01-26T19:30:00.000Z",
+    "end": "2026-01-26T20:50:00.000Z",
+    "title": "Mästarnas match: Ingo vs. Floyd",
+    "extendedProps": {
+      "location": "Skeppet"
+    }
+  },
+  {
+    "id": 6176,
+    "resourceIds": ["a-private-life"],
+    "start": "2026-01-26T19:30:00.000Z",
+    "end": "2026-01-26T21:20:00.000Z",
+    "title": "Ett privat liv",
+    "extendedProps": {
+      "location": "Stora Teatern"
+    }
+  },
+  {
+    "id": 6180,
+    "resourceIds": ["the-last-one-for-the-road"],
+    "start": "2026-01-26T20:00:00.000Z",
+    "end": "2026-01-26T21:40:00.000Z",
+    "title": "The Last One for the Road",
+    "extendedProps": {
+      "location": "Biopalatset 2"
+    }
+  },
+  {
+    "id": 6179,
+    "resourceIds": ["that-summer-in-paris"],
+    "start": "2026-01-26T20:00:00.000Z",
+    "end": "2026-01-26T21:20:00.000Z",
+    "title": "That Summer in Paris",
+    "extendedProps": {
+      "location": "Handels"
+    }
+  },
+  {
+    "id": 6182,
+    "resourceIds": ["what-does-that-nature-say-to-you"],
+    "start": "2026-01-27T09:00:00.000Z",
+    "end": "2026-01-27T10:50:00.000Z",
+    "title": "What Does That Nature Say to You",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 6183,
+    "resourceIds": ["heads-or-tails"],
+    "start": "2026-01-27T09:00:00.000Z",
+    "end": "2026-01-27T11:00:00.000Z",
+    "title": "Heads or Tails?",
+    "extendedProps": {
+      "location": "Biopalatset 10"
+    }
+  },
+  {
+    "id": 6704,
+    "resourceIds": ["the-luminous-life"],
+    "start": "2026-01-27T09:00:00.000Z",
+    "end": "2026-01-27T10:40:00.000Z",
+    "title": "The Luminous Life",
+    "extendedProps": {
+      "location": "Biopalatset 1"
+    }
+  },
+  {
+    "id": 6185,
+    "resourceIds": ["wild-foxes"],
+    "start": "2026-01-27T09:15:00.000Z",
+    "end": "2026-01-27T10:50:00.000Z",
+    "title": "Wild Foxes",
+    "extendedProps": {
+      "location": "Biopalatset 6"
+    }
+  },
+  {
+    "id": 6184,
+    "resourceIds": [
+      "writing-life--annie-ernaux-through-the-eyes-of-high-school-students"
+    ],
+    "start": "2026-01-27T09:15:00.000Z",
+    "end": "2026-01-27T10:45:00.000Z",
+    "title": "Writing Life – Annie Ernaux Through the Eyes of High School Students",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 6186,
+    "resourceIds": ["the-wonderers"],
+    "start": "2026-01-27T10:00:00.000Z",
+    "end": "2026-01-27T11:45:00.000Z",
+    "title": "Ljuset inom oss",
+    "extendedProps": {
+      "location": "Biopalatset 2"
+    }
+  },
+  {
+    "id": 6188,
+    "resourceIds": ["solo-female"],
+    "start": "2026-01-27T11:00:00.000Z",
+    "end": "2026-01-27T11:50:00.000Z",
+    "title": "Solo Female",
+    "extendedProps": {
+      "location": "Biopalatset 5"
+    }
+  },
+  {
+    "id": 6624,
+    "resourceIds": ["no-comment"],
+    "start": "2026-01-27T11:15:00.000Z",
+    "end": "2026-01-27T12:55:00.000Z",
+    "title": "Ingen kommentar",
+    "extendedProps": {
+      "location": "Biopalatset 10"
+    }
+  },
+  {
+    "id": 6189,
+    "resourceIds": ["a-men-to-that"],
+    "start": "2026-01-27T11:30:00.000Z",
+    "end": "2026-01-27T12:55:00.000Z",
+    "title": "A-Men to That",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 6190,
+    "resourceIds": ["dont-call-me-mama"],
+    "start": "2026-01-27T11:30:00.000Z",
+    "end": "2026-01-27T13:20:00.000Z",
+    "title": "Don't Call Me Mama",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 6192,
+    "resourceIds": ["runa-simi"],
+    "start": "2026-01-27T11:30:00.000Z",
+    "end": "2026-01-27T12:55:00.000Z",
+    "title": "Runa Simi",
+    "extendedProps": {
+      "location": "Biopalatset 9"
+    }
+  },
+  {
+    "id": 6191,
+    "resourceIds": ["nino"],
+    "start": "2026-01-27T11:30:00.000Z",
+    "end": "2026-01-27T13:10:00.000Z",
+    "title": "Nino",
+    "extendedProps": {
+      "location": "Biopalatset 6"
+    }
+  },
+  {
+    "id": 6193,
+    "resourceIds": ["boy-george--culture-club"],
+    "start": "2026-01-27T13:00:00.000Z",
+    "end": "2026-01-27T14:40:00.000Z",
+    "title": "Boy George & Culture Club",
+    "extendedProps": {
+      "location": "Skeppet"
+    }
+  },
+  {
+    "id": 6194,
+    "resourceIds": ["the-condor-daughter"],
+    "start": "2026-01-27T13:00:00.000Z",
+    "end": "2026-01-27T14:50:00.000Z",
+    "title": "The Condor Daughter",
+    "extendedProps": {
+      "location": "Biopalatset 2"
+    }
+  },
+  {
+    "id": 6196,
+    "resourceIds": ["my-father-and-qaddafi"],
+    "start": "2026-01-27T13:15:00.000Z",
+    "end": "2026-01-27T14:45:00.000Z",
+    "title": "My Father and Qaddafi",
+    "extendedProps": {
+      "location": "Biopalatset 9"
+    }
+  },
+  {
+    "id": 6197,
+    "resourceIds": ["bearcave"],
+    "start": "2026-01-27T13:30:00.000Z",
+    "end": "2026-01-27T15:40:00.000Z",
+    "title": "Bearcave",
+    "extendedProps": {
+      "location": "Biopalatset 10"
+    }
+  },
+  {
+    "id": 6198,
+    "resourceIds": ["strange-river"],
+    "start": "2026-01-27T13:45:00.000Z",
+    "end": "2026-01-27T15:30:00.000Z",
+    "title": "Strange River",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 6199,
+    "resourceIds": ["case-137"],
+    "start": "2026-01-27T13:45:00.000Z",
+    "end": "2026-01-27T15:40:00.000Z",
+    "title": "Case 137",
+    "extendedProps": {
+      "location": "Biopalatset 6"
+    }
+  },
+  {
+    "id": 6623,
+    "resourceIds": ["steal-this-story-please"],
+    "start": "2026-01-27T14:00:00.000Z",
+    "end": "2026-01-27T15:45:00.000Z",
+    "title": "Steal This Story, Please!",
+    "extendedProps": {
+      "location": "Göta 1"
+    }
+  },
+  {
+    "id": 6200,
+    "resourceIds": ["beginnings"],
+    "start": "2026-01-27T14:00:00.000Z",
+    "end": "2026-01-27T15:40:00.000Z",
+    "title": "Beginnings",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 6201,
+    "resourceIds": ["the-ivy"],
+    "start": "2026-01-27T14:00:00.000Z",
+    "end": "2026-01-27T15:40:00.000Z",
+    "title": "The Ivy",
+    "extendedProps": {
+      "location": "Biopalatset 1"
+    }
+  },
+  {
+    "id": 6202,
+    "resourceIds": ["khartoum"],
+    "start": "2026-01-27T14:00:00.000Z",
+    "end": "2026-01-27T15:20:00.000Z",
+    "title": "Khartoum",
+    "extendedProps": {
+      "location": "Biopalatset 4"
+    }
+  },
+  {
+    "id": 6203,
+    "resourceIds": ["lamb-1"],
+    "start": "2026-01-27T15:00:00.000Z",
+    "end": "2026-01-27T16:50:00.000Z",
+    "title": "Lamm",
+    "extendedProps": {
+      "location": "Biopalatset 8"
+    }
+  },
+  {
+    "id": 6204,
+    "resourceIds": ["little-amelie-or-the-character-of-rain"],
+    "start": "2026-01-27T15:00:00.000Z",
+    "end": "2026-01-27T16:20:00.000Z",
+    "title": "Lilla Amélie eller tecknet för regn",
+    "extendedProps": {
+      "location": "Biopalatset 9"
+    }
+  },
+  {
+    "id": 6206,
+    "resourceIds": ["once-upon-a-time-in-gaza"],
+    "start": "2026-01-27T15:45:00.000Z",
+    "end": "2026-01-27T17:15:00.000Z",
+    "title": "Once Upon a Time in Gaza",
+    "extendedProps": {
+      "location": "Skeppet"
+    }
+  },
+  {
+    "id": 6207,
+    "resourceIds": ["the-voice-of-hind-rajab"],
+    "start": "2026-01-27T16:00:00.000Z",
+    "end": "2026-01-27T17:30:00.000Z",
+    "title": "Hind Rajab – rösten från Gaza",
+    "extendedProps": {
+      "location": "Stora Teatern"
+    }
+  },
+  {
+    "id": 6208,
+    "resourceIds": ["bouchra"],
+    "start": "2026-01-27T16:00:00.000Z",
+    "end": "2026-01-27T17:25:00.000Z",
+    "title": "Bouchra",
+    "extendedProps": {
+      "location": "Biopalatset 10"
+    }
+  },
+  {
+    "id": 6210,
+    "resourceIds": ["the-baronesses"],
+    "start": "2026-01-27T16:30:00.000Z",
+    "end": "2026-01-27T18:00:00.000Z",
+    "title": "The Baronesses",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 6211,
+    "resourceIds": ["hen"],
+    "start": "2026-01-27T16:30:00.000Z",
+    "end": "2026-01-27T18:10:00.000Z",
+    "title": "Hönan",
+    "extendedProps": {
+      "location": "Aftonstjärnan"
+    }
+  },
+  {
+    "id": 6209,
+    "resourceIds": ["the-love-that-remains"],
+    "start": "2026-01-27T16:30:00.000Z",
+    "end": "2026-01-27T18:20:00.000Z",
+    "title": "The Love That Remains",
+    "extendedProps": {
+      "location": "Draken"
+    }
+  },
+  {
+    "id": 6215,
+    "resourceIds": ["cuerpo-celeste"],
+    "start": "2026-01-27T16:30:00.000Z",
+    "end": "2026-01-27T18:10:00.000Z",
+    "title": "Cuerpo Celeste",
+    "extendedProps": {
+      "location": "Biopalatset 5"
+    }
+  },
+  {
+    "id": 6213,
+    "resourceIds": ["a-useful-ghost"],
+    "start": "2026-01-27T16:30:00.000Z",
+    "end": "2026-01-27T18:40:00.000Z",
+    "title": "A Useful Ghost",
+    "extendedProps": {
+      "location": "Biopalatset 3"
+    }
+  },
+  {
+    "id": 6214,
+    "resourceIds": ["put-your-soul-on-your-hand-and-walk"],
+    "start": "2026-01-27T16:30:00.000Z",
+    "end": "2026-01-27T18:20:00.000Z",
+    "title": "Put Your Soul on Your Hand and Walk",
+    "extendedProps": {
+      "location": "Biopalatset 4"
+    }
+  },
+  {
+    "id": 6212,
+    "resourceIds": ["the-end-of-quiet"],
+    "start": "2026-01-27T16:30:00.000Z",
+    "end": "2026-01-27T17:55:00.000Z",
+    "title": "The End of Quiet",
+    "extendedProps": {
+      "location": "Göta 1"
+    }
+  },
+  {
+    "id": 6216,
+    "resourceIds": ["weightless"],
+    "start": "2026-01-27T16:45:00.000Z",
+    "end": "2026-01-27T18:25:00.000Z",
+    "title": "Weightless",
+    "extendedProps": {
+      "location": "Biopalatset 1"
+    }
+  },
+  {
+    "id": 6218,
+    "resourceIds": ["silent-friend"],
+    "start": "2026-01-27T16:45:00.000Z",
+    "end": "2026-01-27T19:15:00.000Z",
+    "title": "Silent Friend",
+    "extendedProps": {
+      "location": "Biopalatset 6"
+    }
+  },
+  {
+    "id": 6217,
+    "resourceIds": ["celtic-utopia"],
+    "start": "2026-01-27T16:45:00.000Z",
+    "end": "2026-01-27T18:15:00.000Z",
+    "title": "Celtic Utopia",
+    "extendedProps": {
+      "location": "Biopalatset 2"
+    }
+  },
+  {
+    "id": 6219,
+    "resourceIds": ["a-song-for-love"],
+    "start": "2026-01-27T17:00:00.000Z",
+    "end": "2026-01-27T18:25:00.000Z",
+    "title": "A Song for Love",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 6222,
+    "resourceIds": ["cuba--alaska"],
+    "start": "2026-01-27T17:00:00.000Z",
+    "end": "2026-01-27T18:35:00.000Z",
+    "title": "Cuba & Alaska",
+    "extendedProps": {
+      "location": "Göta 3"
+    }
+  },
+  {
+    "id": 6221,
+    "resourceIds": ["le-lac"],
+    "start": "2026-01-27T17:00:00.000Z",
+    "end": "2026-01-27T18:15:00.000Z",
+    "title": "Le lac",
+    "extendedProps": {
+      "location": "Göta 2"
+    }
+  },
+  {
+    "id": 6224,
+    "resourceIds": ["truth-or-dare"],
+    "start": "2026-01-27T17:00:00.000Z",
+    "end": "2026-01-27T18:30:00.000Z",
+    "title": "Truth or Dare",
+    "extendedProps": {
+      "location": "Biopalatset 9"
+    }
+  },
+  {
+    "id": 6223,
+    "resourceIds": ["gloaming-in-luomu"],
+    "start": "2026-01-27T17:00:00.000Z",
+    "end": "2026-01-27T18:40:00.000Z",
+    "title": "Gloaming in Luomu",
+    "extendedProps": {
+      "location": "Biopalatset 7"
+    }
+  },
+  {
+    "id": 6220,
+    "resourceIds": ["the-great-arch"],
+    "start": "2026-01-27T17:00:00.000Z",
+    "end": "2026-01-27T18:45:00.000Z",
+    "title": "Den nya Triumfbågens arkitekt",
+    "extendedProps": {
+      "location": "Handels"
+    }
+  },
+  {
+    "id": 6637,
+    "resourceIds": ["flana"],
+    "start": "2026-01-27T17:30:00.000Z",
+    "end": "2026-01-27T18:55:00.000Z",
+    "title": "Flana",
+    "extendedProps": {
+      "location": "Biopalatset 8"
+    }
+  },
+  {
+    "id": 6226,
+    "resourceIds": ["how-to-be-normal-and-the-oddness-of-the-other-world"],
+    "start": "2026-01-27T18:30:00.000Z",
+    "end": "2026-01-27T20:15:00.000Z",
+    "title": "How to Be Normal and the Oddness of the Other World",
+    "extendedProps": {
+      "location": "Biopalatset 5"
+    }
+  },
+  {
+    "id": 6227,
+    "resourceIds": ["the-girl-in-the-snow"],
+    "start": "2026-01-27T18:45:00.000Z",
+    "end": "2026-01-27T20:25:00.000Z",
+    "title": "The Girl in the Snow",
+    "extendedProps": {
+      "location": "Aftonstjärnan"
+    }
+  },
+  {
+    "id": 6228,
+    "resourceIds": ["christy"],
+    "start": "2026-01-27T18:45:00.000Z",
+    "end": "2026-01-27T20:20:00.000Z",
+    "title": "Christy",
+    "extendedProps": {
+      "location": "Biopalatset 1"
+    }
+  },
+  {
+    "id": 6615,
+    "resourceIds": ["our-father"],
+    "start": "2026-01-27T18:45:00.000Z",
+    "end": "2026-01-27T20:15:00.000Z",
+    "title": "Our Father",
+    "extendedProps": {
+      "location": "Biopalatset 2"
+    }
+  },
+  {
+    "id": 6229,
+    "resourceIds": ["mother"],
+    "start": "2026-01-27T19:00:00.000Z",
+    "end": "2026-01-27T20:45:00.000Z",
+    "title": "Mother",
+    "extendedProps": {
+      "location": "Draken"
+    }
+  },
+  {
+    "id": 6230,
+    "resourceIds": ["to-new-beginnings"],
+    "start": "2026-01-27T19:00:00.000Z",
+    "end": "2026-01-27T20:35:00.000Z",
+    "title": "Nyårsfesten",
+    "extendedProps": {
+      "location": "Stora Teatern"
+    }
+  },
+  {
+    "id": 6236,
+    "resourceIds": ["peak-everything"],
+    "start": "2026-01-27T19:00:00.000Z",
+    "end": "2026-01-27T20:40:00.000Z",
+    "title": "Peak Everything",
+    "extendedProps": {
+      "location": "Biopalatset 3"
+    }
+  },
+  {
+    "id": 6232,
+    "resourceIds": ["terra-vil"],
+    "start": "2026-01-27T19:00:00.000Z",
+    "end": "2026-01-27T20:40:00.000Z",
+    "title": "Terra vil",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 6233,
+    "resourceIds": ["broken-english"],
+    "start": "2026-01-27T19:00:00.000Z",
+    "end": "2026-01-27T20:40:00.000Z",
+    "title": "Broken English",
+    "extendedProps": {
+      "location": "Skeppet"
+    }
+  },
+  {
+    "id": 6235,
+    "resourceIds": [
+      "debut-or-objects-of-the-field-of-debris-as-currently-catalogued"
+    ],
+    "start": "2026-01-27T19:00:00.000Z",
+    "end": "2026-01-27T20:20:00.000Z",
+    "title": "Debut, or, Objects of the Field of Debris as Currently Catalogued",
+    "extendedProps": {
+      "location": "Göta 3"
+    }
+  },
+  {
+    "id": 6374,
+    "resourceIds": ["blue-heron"],
+    "start": "2026-01-27T19:00:00.000Z",
+    "end": "2026-01-27T20:35:00.000Z",
+    "title": "Blue Heron",
+    "extendedProps": {
+      "location": "Biopalatset 10"
+    }
+  },
+  {
+    "id": 6234,
+    "resourceIds": ["becoming"],
+    "start": "2026-01-27T19:00:00.000Z",
+    "end": "2026-01-27T20:35:00.000Z",
+    "title": "Becoming",
+    "extendedProps": {
+      "location": "Göta 1"
+    }
+  },
+  {
+    "id": 6231,
+    "resourceIds": ["love-untamed"],
+    "start": "2026-01-27T19:00:00.000Z",
+    "end": "2026-01-27T20:35:00.000Z",
+    "title": "Love Untamed",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 6238,
+    "resourceIds": ["jone-sometimes"],
+    "start": "2026-01-27T19:15:00.000Z",
+    "end": "2026-01-27T20:40:00.000Z",
+    "title": "Jone, Sometimes",
+    "extendedProps": {
+      "location": "Göta 2"
+    }
+  },
+  {
+    "id": 6237,
+    "resourceIds": ["divine-comedy"],
+    "start": "2026-01-27T19:15:00.000Z",
+    "end": "2026-01-27T20:55:00.000Z",
+    "title": "Divine Comedy",
+    "extendedProps": {
+      "location": "Handels"
+    }
+  },
+  {
+    "id": 6240,
+    "resourceIds": ["dawning"],
+    "start": "2026-01-27T19:15:00.000Z",
+    "end": "2026-01-27T21:05:00.000Z",
+    "title": "Dawning",
+    "extendedProps": {
+      "location": "Biopalatset 9"
+    }
+  },
+  {
+    "id": 6239,
+    "resourceIds": ["past-future-continuous"],
+    "start": "2026-01-27T19:15:00.000Z",
+    "end": "2026-01-27T20:35:00.000Z",
+    "title": "Past Future Continuous",
+    "extendedProps": {
+      "location": "Biopalatset 7"
+    }
+  },
+  {
+    "id": 6694,
+    "resourceIds": ["wrangler"],
+    "start": "2026-01-27T19:30:00.000Z",
+    "end": "2026-01-27T21:20:00.000Z",
+    "title": "Wrangler",
+    "extendedProps": {
+      "location": "Biopalatset 8"
+    }
+  },
+  {
+    "id": 6715,
+    "resourceIds": ["amrum"],
+    "start": "2026-01-27T19:45:00.000Z",
+    "end": "2026-01-27T21:20:00.000Z",
+    "title": "Amrum",
+    "extendedProps": {
+      "location": "Biopalatset 4"
+    }
+  },
+  {
+    "id": 6241,
+    "resourceIds": ["the-chronology-of-water"],
+    "start": "2026-01-27T20:00:00.000Z",
+    "end": "2026-01-27T22:10:00.000Z",
+    "title": "The Chronology of Water",
+    "extendedProps": {
+      "location": "Biopalatset 6"
+    }
+  },
+  {
+    "id": 6242,
+    "resourceIds": ["the-love-that-remains"],
+    "start": "2026-01-28T08:45:00.000Z",
+    "end": "2026-01-28T10:35:00.000Z",
+    "title": "The Love That Remains",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 6244,
+    "resourceIds": ["a-men-to-that"],
+    "start": "2026-01-28T09:00:00.000Z",
+    "end": "2026-01-28T10:25:00.000Z",
+    "title": "A-Men to That",
+    "extendedProps": {
+      "location": "Biopalatset 5"
+    }
+  },
+  {
+    "id": 6243,
+    "resourceIds": ["the-girl-in-the-snow"],
+    "start": "2026-01-28T09:00:00.000Z",
+    "end": "2026-01-28T10:40:00.000Z",
+    "title": "The Girl in the Snow",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 6245,
+    "resourceIds": ["out-of-love"],
+    "start": "2026-01-28T09:00:00.000Z",
+    "end": "2026-01-28T10:55:00.000Z",
+    "title": "Out of Love",
+    "extendedProps": {
+      "location": "Biopalatset 6"
+    }
+  },
+  {
+    "id": 6698,
+    "resourceIds": ["a-useful-ghost"],
+    "start": "2026-01-28T09:15:00.000Z",
+    "end": "2026-01-28T11:25:00.000Z",
+    "title": "A Useful Ghost",
+    "extendedProps": {
+      "location": "Biopalatset 1"
+    }
+  },
+  {
+    "id": 6246,
+    "resourceIds": ["divine-comedy"],
+    "start": "2026-01-28T09:45:00.000Z",
+    "end": "2026-01-28T11:25:00.000Z",
+    "title": "Divine Comedy",
+    "extendedProps": {
+      "location": "Biopalatset 10"
+    }
+  },
+  {
+    "id": 6247,
+    "resourceIds": ["gloaming-in-luomu"],
+    "start": "2026-01-28T10:00:00.000Z",
+    "end": "2026-01-28T11:40:00.000Z",
+    "title": "Gloaming in Luomu",
+    "extendedProps": {
+      "location": "Biopalatset 2"
+    }
+  },
+  {
+    "id": 6248,
+    "resourceIds": ["the-chronology-of-water"],
+    "start": "2026-01-28T11:00:00.000Z",
+    "end": "2026-01-28T13:10:00.000Z",
+    "title": "The Chronology of Water",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 6249,
+    "resourceIds": ["beyond"],
+    "start": "2026-01-28T11:00:00.000Z",
+    "end": "2026-01-28T12:35:00.000Z",
+    "title": "Svinalängorna",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 6252,
+    "resourceIds": ["the-disappearance-of-josef-mengele"],
+    "start": "2026-01-28T11:30:00.000Z",
+    "end": "2026-01-28T13:45:00.000Z",
+    "title": "Josef Mengeles försvinnande",
+    "extendedProps": {
+      "location": "Biopalatset 6"
+    }
+  },
+  {
+    "id": 6705,
+    "resourceIds": [
+      "debut-or-objects-of-the-field-of-debris-as-currently-catalogued"
+    ],
+    "start": "2026-01-28T12:00:00.000Z",
+    "end": "2026-01-28T13:20:00.000Z",
+    "title": "Debut, or, Objects of the Field of Debris as Currently Catalogued",
+    "extendedProps": {
+      "location": "Biopalatset 2"
+    }
+  },
+  {
+    "id": 6253,
+    "resourceIds": ["the-danish-woman"],
+    "start": "2026-01-28T12:00:00.000Z",
+    "end": "2026-01-28T17:00:00.000Z",
+    "title": "The Danish Woman",
+    "extendedProps": {
+      "location": "Biopalatset 1"
+    }
+  },
+  {
+    "id": 6254,
+    "resourceIds": ["love-untamed"],
+    "start": "2026-01-28T12:00:00.000Z",
+    "end": "2026-01-28T13:35:00.000Z",
+    "title": "Love Untamed",
+    "extendedProps": {
+      "location": "Biopalatset 10"
+    }
+  },
+  {
+    "id": 6706,
+    "resourceIds": ["in-the-land-of-arto"],
+    "start": "2026-01-28T12:30:00.000Z",
+    "end": "2026-01-28T14:15:00.000Z",
+    "title": "In the Land of Arto",
+    "extendedProps": {
+      "location": "Biopalatset 3"
+    }
+  },
+  {
+    "id": 6255,
+    "resourceIds": ["becoming"],
+    "start": "2026-01-28T13:00:00.000Z",
+    "end": "2026-01-28T14:35:00.000Z",
+    "title": "Becoming",
+    "extendedProps": {
+      "location": "Biopalatset 9"
+    }
+  },
+  {
+    "id": 6612,
+    "resourceIds": ["prometheus"],
+    "start": "2026-01-28T13:00:00.000Z",
+    "end": "2026-01-28T15:05:00.000Z",
+    "title": "Prometheus",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 6639,
+    "resourceIds": ["bearcave"],
+    "start": "2026-01-28T13:00:00.000Z",
+    "end": "2026-01-28T15:10:00.000Z",
+    "title": "Bearcave",
+    "extendedProps": {
+      "location": "Biopalatset 4"
+    }
+  },
+  {
+    "id": 6257,
+    "resourceIds": ["a-song-for-love"],
+    "start": "2026-01-28T13:30:00.000Z",
+    "end": "2026-01-28T14:55:00.000Z",
+    "title": "A Song for Love",
+    "extendedProps": {
+      "location": "Göta 1"
+    }
+  },
+  {
+    "id": 6258,
+    "resourceIds": ["once-upon-a-time-in-gaza"],
+    "start": "2026-01-28T13:45:00.000Z",
+    "end": "2026-01-28T15:15:00.000Z",
+    "title": "Once Upon a Time in Gaza",
+    "extendedProps": {
+      "location": "Biopalatset 2"
+    }
+  },
+  {
+    "id": 6259,
+    "resourceIds": ["to-new-beginnings"],
+    "start": "2026-01-28T14:00:00.000Z",
+    "end": "2026-01-28T15:35:00.000Z",
+    "title": "Nyårsfesten",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 6260,
+    "resourceIds": ["at-work"],
+    "start": "2026-01-28T14:00:00.000Z",
+    "end": "2026-01-28T15:35:00.000Z",
+    "title": "At Work",
+    "extendedProps": {
+      "location": "Skeppet"
+    }
+  },
+  {
+    "id": 6261,
+    "resourceIds": ["people-and-meat"],
+    "start": "2026-01-28T14:15:00.000Z",
+    "end": "2026-01-28T16:05:00.000Z",
+    "title": "People and Meat",
+    "extendedProps": {
+      "location": "Biopalatset 6"
+    }
+  },
+  {
+    "id": 6263,
+    "resourceIds": ["the-baronesses"],
+    "start": "2026-01-28T14:45:00.000Z",
+    "end": "2026-01-28T16:15:00.000Z",
+    "title": "The Baronesses",
+    "extendedProps": {
+      "location": "Biopalatset 10"
+    }
+  },
+  {
+    "id": 6262,
+    "resourceIds": ["the-last-one-for-the-road"],
+    "start": "2026-01-28T14:45:00.000Z",
+    "end": "2026-01-28T16:25:00.000Z",
+    "title": "The Last One for the Road",
+    "extendedProps": {
+      "location": "Biopalatset 3"
+    }
+  },
+  {
+    "id": 6264,
+    "resourceIds": ["kontinental-25"],
+    "start": "2026-01-28T15:00:00.000Z",
+    "end": "2026-01-28T16:50:00.000Z",
+    "title": "Kontinental '25",
+    "extendedProps": {
+      "location": "Biopalatset 7"
+    }
+  },
+  {
+    "id": 6266,
+    "resourceIds": ["mother"],
+    "start": "2026-01-28T15:45:00.000Z",
+    "end": "2026-01-28T17:30:00.000Z",
+    "title": "Mother",
+    "extendedProps": {
+      "location": "Stora Teatern"
+    }
+  },
+  {
+    "id": 6269,
+    "resourceIds": ["shape-of-momo"],
+    "start": "2026-01-28T16:00:00.000Z",
+    "end": "2026-01-28T17:55:00.000Z",
+    "title": "Shape of Momo",
+    "extendedProps": {
+      "location": "Biopalatset 2"
+    }
+  },
+  {
+    "id": 6267,
+    "resourceIds": ["karla"],
+    "start": "2026-01-28T16:00:00.000Z",
+    "end": "2026-01-28T17:45:00.000Z",
+    "title": "Karla",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 6268,
+    "resourceIds": ["with-hasan-in-gaza"],
+    "start": "2026-01-28T16:00:00.000Z",
+    "end": "2026-01-28T17:50:00.000Z",
+    "title": "With Hasan in Gaza",
+    "extendedProps": {
+      "location": "Göta 1"
+    }
+  },
+  {
+    "id": 6270,
+    "resourceIds": ["life-is"],
+    "start": "2026-01-28T16:00:00.000Z",
+    "end": "2026-01-28T18:00:00.000Z",
+    "title": "Life is",
+    "extendedProps": {
+      "location": "Biopalatset 9"
+    }
+  },
+  {
+    "id": 6619,
+    "resourceIds": ["wrangler"],
+    "start": "2026-01-28T16:30:00.000Z",
+    "end": "2026-01-28T18:20:00.000Z",
+    "title": "Wrangler",
+    "extendedProps": {
+      "location": "Aftonstjärnan"
+    }
+  },
+  {
+    "id": 6271,
+    "resourceIds": ["tell-everyone"],
+    "start": "2026-01-28T16:30:00.000Z",
+    "end": "2026-01-28T18:20:00.000Z",
+    "title": "Tell Everyone",
+    "extendedProps": {
+      "location": "Draken"
+    }
+  },
+  {
+    "id": 6272,
+    "resourceIds": ["the-end-of-quiet"],
+    "start": "2026-01-28T16:30:00.000Z",
+    "end": "2026-01-28T17:55:00.000Z",
+    "title": "The End of Quiet",
+    "extendedProps": {
+      "location": "Göta 2"
+    }
+  },
+  {
+    "id": 6273,
+    "resourceIds": ["love-me-tender"],
+    "start": "2026-01-28T16:30:00.000Z",
+    "end": "2026-01-28T18:50:00.000Z",
+    "title": "Love Me Tender",
+    "extendedProps": {
+      "location": "Biopalatset 6"
+    }
+  },
+  {
+    "id": 6275,
+    "resourceIds": [
+      "writing-life--annie-ernaux-through-the-eyes-of-high-school-students"
+    ],
+    "start": "2026-01-28T16:45:00.000Z",
+    "end": "2026-01-28T18:15:00.000Z",
+    "title": "Writing Life – Annie Ernaux Through the Eyes of High School Students",
+    "extendedProps": {
+      "location": "Göta 3"
+    }
+  },
+  {
+    "id": 6274,
+    "resourceIds": ["the-curse-of-kane"],
+    "start": "2026-01-28T16:45:00.000Z",
+    "end": "2026-01-28T18:10:00.000Z",
+    "title": "The Curse of Kane",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 6275,
+    "resourceIds": [
+      "writing-life--annie-ernaux-through-the-eyes-of-high-school-students"
+    ],
+    "start": "2026-01-28T16:45:00.000Z",
+    "end": "2026-01-28T18:15:00.000Z",
+    "title": "Writing Life – Annie Ernaux Through the Eyes of High School Students",
+    "extendedProps": {
+      "location": "Göta 3"
+    }
+  },
+  {
+    "id": 6276,
+    "resourceIds": ["joan-of-arc"],
+    "start": "2026-01-28T16:45:00.000Z",
+    "end": "2026-01-28T17:50:00.000Z",
+    "title": "Joan of Arc",
+    "extendedProps": {
+      "location": "Biopalatset 4"
+    }
+  },
+  {
+    "id": 6275,
+    "resourceIds": [
+      "writing-life--annie-ernaux-through-the-eyes-of-high-school-students"
+    ],
+    "start": "2026-01-28T16:45:00.000Z",
+    "end": "2026-01-28T18:15:00.000Z",
+    "title": "Writing Life – Annie Ernaux Through the Eyes of High School Students",
+    "extendedProps": {
+      "location": "Göta 3"
+    }
+  },
+  {
+    "id": 6275,
+    "resourceIds": [
+      "writing-life--annie-ernaux-through-the-eyes-of-high-school-students"
+    ],
+    "start": "2026-01-28T16:45:00.000Z",
+    "end": "2026-01-28T18:15:00.000Z",
+    "title": "Writing Life – Annie Ernaux Through the Eyes of High School Students",
+    "extendedProps": {
+      "location": "Göta 3"
+    }
+  },
+  {
+    "id": 6278,
+    "resourceIds": ["the-condor-daughter"],
+    "start": "2026-01-28T17:00:00.000Z",
+    "end": "2026-01-28T18:50:00.000Z",
+    "title": "The Condor Daughter",
+    "extendedProps": {
+      "location": "Handels"
+    }
+  },
+  {
+    "id": 6280,
+    "resourceIds": ["sleepless-city"],
+    "start": "2026-01-28T17:00:00.000Z",
+    "end": "2026-01-28T18:40:00.000Z",
+    "title": "Sleepless City",
+    "extendedProps": {
+      "location": "Biopalatset 10"
+    }
+  },
+  {
+    "id": 6279,
+    "resourceIds": ["son-of-a-killer"],
+    "start": "2026-01-28T17:00:00.000Z",
+    "end": "2026-01-28T18:25:00.000Z",
+    "title": "Mördarens son",
+    "extendedProps": {
+      "location": "Biopalatset 3"
+    }
+  },
+  {
+    "id": 6277,
+    "resourceIds": ["truth-or-dare"],
+    "start": "2026-01-28T17:00:00.000Z",
+    "end": "2026-01-28T18:30:00.000Z",
+    "title": "Truth or Dare",
+    "extendedProps": {
+      "location": "Skeppet"
+    }
+  },
+  {
+    "id": 6282,
+    "resourceIds": ["trillion"],
+    "start": "2026-01-28T17:30:00.000Z",
+    "end": "2026-01-28T18:50:00.000Z",
+    "title": "Trillion",
+    "extendedProps": {
+      "location": "Biopalatset 7"
+    }
+  },
+  {
+    "id": 6283,
+    "resourceIds": ["promised-sky"],
+    "start": "2026-01-28T18:00:00.000Z",
+    "end": "2026-01-28T19:35:00.000Z",
+    "title": "Promised Sky",
+    "extendedProps": {
+      "location": "Biopalatset 1"
+    }
+  },
+  {
+    "id": 6668,
+    "resourceIds": ["euphoria"],
+    "start": "2026-01-28T18:30:00.000Z",
+    "end": "2026-01-28T20:05:00.000Z",
+    "title": "Euphoria",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 6284,
+    "resourceIds": ["bouchra"],
+    "start": "2026-01-28T18:30:00.000Z",
+    "end": "2026-01-28T19:55:00.000Z",
+    "title": "Bouchra",
+    "extendedProps": {
+      "location": "Biopalatset 2"
+    }
+  },
+  {
+    "id": 6285,
+    "resourceIds": ["the-silence-of-snow"],
+    "start": "2026-01-28T18:30:00.000Z",
+    "end": "2026-01-28T19:45:00.000Z",
+    "title": "Tyst faller snön",
+    "extendedProps": {
+      "location": "Biopalatset 4"
+    }
+  },
+  {
+    "id": 6610,
+    "resourceIds": ["macdo"],
+    "start": "2026-01-28T18:45:00.000Z",
+    "end": "2026-01-28T20:45:00.000Z",
+    "title": "Macdo",
+    "extendedProps": {
+      "location": "Biopalatset 9"
+    }
+  },
+  {
+    "id": 6287,
+    "resourceIds": ["noviembre"],
+    "start": "2026-01-28T18:45:00.000Z",
+    "end": "2026-01-28T20:05:00.000Z",
+    "title": "Noviembre",
+    "extendedProps": {
+      "location": "Göta 2"
+    }
+  },
+  {
+    "id": 6286,
+    "resourceIds": ["no-comment"],
+    "start": "2026-01-28T18:45:00.000Z",
+    "end": "2026-01-28T20:25:00.000Z",
+    "title": "Ingen kommentar",
+    "extendedProps": {
+      "location": "Aftonstjärnan"
+    }
+  },
+  {
+    "id": 6671,
+    "resourceIds": ["a-light-that-never-goes-out"],
+    "start": "2026-01-28T19:00:00.000Z",
+    "end": "2026-01-28T20:55:00.000Z",
+    "title": "A Light That Never Goes Out",
+    "extendedProps": {
+      "location": "Göta 1"
+    }
+  },
+  {
+    "id": 6288,
+    "resourceIds": ["the-fires"],
+    "start": "2026-01-28T19:00:00.000Z",
+    "end": "2026-01-28T20:45:00.000Z",
+    "title": "The Fires",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 6289,
+    "resourceIds": ["saipan"],
+    "start": "2026-01-28T19:00:00.000Z",
+    "end": "2026-01-28T20:35:00.000Z",
+    "title": "Saipan",
+    "extendedProps": {
+      "location": "Skeppet"
+    }
+  },
+  {
+    "id": 6292,
+    "resourceIds": ["a-loose-end"],
+    "start": "2026-01-28T19:15:00.000Z",
+    "end": "2026-01-28T20:50:00.000Z",
+    "title": "A Loose End",
+    "extendedProps": {
+      "location": "Biopalatset 5"
+    }
+  },
+  {
+    "id": 6299,
+    "resourceIds": ["levers"],
+    "start": "2026-01-28T19:15:00.000Z",
+    "end": "2026-01-28T20:45:00.000Z",
+    "title": "Levers",
+    "extendedProps": {
+      "location": "Biopalatset 8"
+    }
+  },
+  {
+    "id": 6643,
+    "resourceIds": ["beginnings"],
+    "start": "2026-01-28T19:15:00.000Z",
+    "end": "2026-01-28T20:55:00.000Z",
+    "title": "Beginnings",
+    "extendedProps": {
+      "location": "Göta 3"
+    }
+  },
+  {
+    "id": 6291,
+    "resourceIds": ["on-the-road"],
+    "start": "2026-01-28T19:15:00.000Z",
+    "end": "2026-01-28T20:50:00.000Z",
+    "title": "On the Road",
+    "extendedProps": {
+      "location": "Handels"
+    }
+  },
+  {
+    "id": 6296,
+    "resourceIds": ["terra-vil"],
+    "start": "2026-01-28T19:30:00.000Z",
+    "end": "2026-01-28T21:10:00.000Z",
+    "title": "Terra vil",
+    "extendedProps": {
+      "location": "Biopalatset 10"
+    }
+  },
+  {
+    "id": 5914,
+    "resourceIds": ["the-history-of-sound"],
+    "start": "2026-01-28T19:30:00.000Z",
+    "end": "2026-01-28T21:40:00.000Z",
+    "title": "The History of Sound",
+    "extendedProps": {
+      "location": "Draken"
+    }
+  },
+  {
+    "id": 6295,
+    "resourceIds": ["colours-of-time"],
+    "start": "2026-01-28T19:30:00.000Z",
+    "end": "2026-01-28T21:40:00.000Z",
+    "title": "Colours of Time",
+    "extendedProps": {
+      "location": "Biopalatset 7"
+    }
+  },
+  {
+    "id": 6294,
+    "resourceIds": ["romeria"],
+    "start": "2026-01-28T19:30:00.000Z",
+    "end": "2026-01-28T21:25:00.000Z",
+    "title": "Romería",
+    "extendedProps": {
+      "location": "Biopalatset 6"
+    }
+  },
+  {
+    "id": 6293,
+    "resourceIds": ["the-testament-of-ann-lee"],
+    "start": "2026-01-28T19:30:00.000Z",
+    "end": "2026-01-28T21:40:00.000Z",
+    "title": "The Testament of Ann Lee",
+    "extendedProps": {
+      "location": "Stora Teatern"
+    }
+  },
+  {
+    "id": 6297,
+    "resourceIds": ["boy-george--culture-club"],
+    "start": "2026-01-28T19:45:00.000Z",
+    "end": "2026-01-28T21:25:00.000Z",
+    "title": "Boy George & Culture Club",
+    "extendedProps": {
+      "location": "Biopalatset 3"
+    }
+  },
+  {
+    "id": 6614,
+    "resourceIds": ["barrio-triste"],
+    "start": "2026-01-28T21:00:00.000Z",
+    "end": "2026-01-28T22:30:00.000Z",
+    "title": "Barrio triste",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 6298,
+    "resourceIds": ["dawning"],
+    "start": "2026-01-28T22:00:00.000Z",
+    "end": "2026-01-28T23:50:00.000Z",
+    "title": "Dawning",
+    "extendedProps": {
+      "location": "Skeppet"
+    }
+  },
+  {
+    "id": 6301,
+    "resourceIds": ["romeria"],
+    "start": "2026-01-29T08:45:00.000Z",
+    "end": "2026-01-29T10:40:00.000Z",
+    "title": "Romería",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 6710,
+    "resourceIds": ["a-loose-end"],
+    "start": "2026-01-29T09:00:00.000Z",
+    "end": "2026-01-29T10:35:00.000Z",
+    "title": "A Loose End",
+    "extendedProps": {
+      "location": "Biopalatset 10"
+    }
+  },
+  {
+    "id": 6303,
+    "resourceIds": ["son-of-a-killer"],
+    "start": "2026-01-29T09:00:00.000Z",
+    "end": "2026-01-29T10:25:00.000Z",
+    "title": "Mördarens son",
+    "extendedProps": {
+      "location": "Biopalatset 3"
+    }
+  },
+  {
+    "id": 6302,
+    "resourceIds": ["the-voice-of-hind-rajab"],
+    "start": "2026-01-29T09:00:00.000Z",
+    "end": "2026-01-29T10:30:00.000Z",
+    "title": "Hind Rajab – rösten från Gaza",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 6304,
+    "resourceIds": ["the-fires"],
+    "start": "2026-01-29T09:15:00.000Z",
+    "end": "2026-01-29T11:00:00.000Z",
+    "title": "The Fires",
+    "extendedProps": {
+      "location": "Biopalatset 6"
+    }
+  },
+  {
+    "id": 6305,
+    "resourceIds": ["sleepless-city"],
+    "start": "2026-01-29T09:30:00.000Z",
+    "end": "2026-01-29T11:10:00.000Z",
+    "title": "Sleepless City",
+    "extendedProps": {
+      "location": "Göta 1"
+    }
+  },
+  {
+    "id": 6306,
+    "resourceIds": ["bad-apples"],
+    "start": "2026-01-29T10:15:00.000Z",
+    "end": "2026-01-29T11:55:00.000Z",
+    "title": "Bad Apples",
+    "extendedProps": {
+      "location": "Biopalatset 1"
+    }
+  },
+  {
+    "id": 6709,
+    "resourceIds": ["malandro-moon"],
+    "start": "2026-01-29T11:00:00.000Z",
+    "end": "2026-01-29T12:25:00.000Z",
+    "title": "Första blatten på månen",
+    "extendedProps": {
+      "location": "Biopalatset 2"
+    }
+  },
+  {
+    "id": 6310,
+    "resourceIds": ["love-me-tender"],
+    "start": "2026-01-29T11:00:00.000Z",
+    "end": "2026-01-29T13:20:00.000Z",
+    "title": "Love Me Tender",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 6307,
+    "resourceIds": ["mother"],
+    "start": "2026-01-29T11:00:00.000Z",
+    "end": "2026-01-29T12:45:00.000Z",
+    "title": "Mother",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 6309,
+    "resourceIds": ["truth-or-dare"],
+    "start": "2026-01-29T11:00:00.000Z",
+    "end": "2026-01-29T12:30:00.000Z",
+    "title": "Truth or Dare",
+    "extendedProps": {
+      "location": "Biopalatset 3"
+    }
+  },
+  {
+    "id": 6707,
+    "resourceIds": ["tell-everyone"],
+    "start": "2026-01-29T11:00:00.000Z",
+    "end": "2026-01-29T12:50:00.000Z",
+    "title": "Tell Everyone",
+    "extendedProps": {
+      "location": "Biopalatset 10"
+    }
+  },
+  {
+    "id": 6312,
+    "resourceIds": ["calle-malaga"],
+    "start": "2026-01-29T11:30:00.000Z",
+    "end": "2026-01-29T13:30:00.000Z",
+    "title": "Calle Malaga",
+    "extendedProps": {
+      "location": "Biopalatset 6"
+    }
+  },
+  {
+    "id": 6311,
+    "resourceIds": ["the-curse-of-kane"],
+    "start": "2026-01-29T11:30:00.000Z",
+    "end": "2026-01-29T12:55:00.000Z",
+    "title": "The Curse of Kane",
+    "extendedProps": {
+      "location": "Göta 1"
+    }
+  },
+  {
+    "id": 6313,
+    "resourceIds": ["weightless"],
+    "start": "2026-01-29T12:30:00.000Z",
+    "end": "2026-01-29T14:10:00.000Z",
+    "title": "Weightless",
+    "extendedProps": {
+      "location": "Biopalatset 1"
+    }
+  },
+  {
+    "id": 6708,
+    "resourceIds": ["the-watchmaker"],
+    "start": "2026-01-29T12:45:00.000Z",
+    "end": "2026-01-29T14:05:00.000Z",
+    "title": "The Watchmaker",
+    "extendedProps": {
+      "location": "Biopalatset 2"
+    }
+  },
+  {
+    "id": 6315,
+    "resourceIds": ["cuba--alaska"],
+    "start": "2026-01-29T13:00:00.000Z",
+    "end": "2026-01-29T14:35:00.000Z",
+    "title": "Cuba & Alaska",
+    "extendedProps": {
+      "location": "Biopalatset 3"
+    }
+  },
+  {
+    "id": 6314,
+    "resourceIds": ["between-dreams-and-hope"],
+    "start": "2026-01-29T13:00:00.000Z",
+    "end": "2026-01-29T14:50:00.000Z",
+    "title": "Between Dreams and Hope",
+    "extendedProps": {
+      "location": "Göta 2"
+    }
+  },
+  {
+    "id": 6316,
+    "resourceIds": ["cutting-through-rocks"],
+    "start": "2026-01-29T13:00:00.000Z",
+    "end": "2026-01-29T14:35:00.000Z",
+    "title": "Cutting Through Rocks",
+    "extendedProps": {
+      "location": "Biopalatset 5"
+    }
+  },
+  {
+    "id": 6317,
+    "resourceIds": ["noviembre"],
+    "start": "2026-01-29T13:00:00.000Z",
+    "end": "2026-01-29T14:20:00.000Z",
+    "title": "Noviembre",
+    "extendedProps": {
+      "location": "Biopalatset 9"
+    }
+  },
+  {
+    "id": 6319,
+    "resourceIds": ["karla"],
+    "start": "2026-01-29T13:30:00.000Z",
+    "end": "2026-01-29T15:15:00.000Z",
+    "title": "Karla",
+    "extendedProps": {
+      "location": "Biopalatset 10"
+    }
+  },
+  {
+    "id": 6613,
+    "resourceIds": ["the-kidnapping-of-arabella"],
+    "start": "2026-01-29T13:30:00.000Z",
+    "end": "2026-01-29T15:20:00.000Z",
+    "title": "The Kidnapping of Arabella",
+    "extendedProps": {
+      "location": "Skeppet"
+    }
+  },
+  {
+    "id": 6320,
+    "resourceIds": ["with-hasan-in-gaza"],
+    "start": "2026-01-29T13:45:00.000Z",
+    "end": "2026-01-29T15:35:00.000Z",
+    "title": "With Hasan in Gaza",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 6321,
+    "resourceIds": ["a-light-that-never-goes-out"],
+    "start": "2026-01-29T14:00:00.000Z",
+    "end": "2026-01-29T15:50:00.000Z",
+    "title": "A Light That Never Goes Out",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 6611,
+    "resourceIds": ["macdo"],
+    "start": "2026-01-29T14:00:00.000Z",
+    "end": "2026-01-29T16:00:00.000Z",
+    "title": "Macdo",
+    "extendedProps": {
+      "location": "Göta 1"
+    }
+  },
+  {
+    "id": 6322,
+    "resourceIds": ["saipan"],
+    "start": "2026-01-29T14:00:00.000Z",
+    "end": "2026-01-29T15:35:00.000Z",
+    "title": "Saipan",
+    "extendedProps": {
+      "location": "Biopalatset 6"
+    }
+  },
+  {
+    "id": 6629,
+    "resourceIds": ["elon-musk-unveiled--the-tesla-experiment"],
+    "start": "2026-01-29T14:30:00.000Z",
+    "end": "2026-01-29T16:00:00.000Z",
+    "title": "Elon Musk Unveiled – The Tesla Experiment",
+    "extendedProps": {
+      "location": "Draken"
+    }
+  },
+  {
+    "id": 6323,
+    "resourceIds": ["my-father-and-qaddafi"],
+    "start": "2026-01-29T14:45:00.000Z",
+    "end": "2026-01-29T16:15:00.000Z",
+    "title": "My Father and Qaddafi",
+    "extendedProps": {
+      "location": "Biopalatset 1"
+    }
+  },
+  {
+    "id": 6324,
+    "resourceIds": ["lullaby-for-the-mountains"],
+    "start": "2026-01-29T14:45:00.000Z",
+    "end": "2026-01-29T16:05:00.000Z",
+    "title": "Lullaby for the Mountains",
+    "extendedProps": {
+      "location": "Biopalatset 2"
+    }
+  },
+  {
+    "id": 6326,
+    "resourceIds": ["the-chronology-of-water"],
+    "start": "2026-01-29T15:00:00.000Z",
+    "end": "2026-01-29T17:10:00.000Z",
+    "title": "The Chronology of Water",
+    "extendedProps": {
+      "location": "Biopalatset 5"
+    }
+  },
+  {
+    "id": 6328,
+    "resourceIds": ["the-condor-daughter"],
+    "start": "2026-01-29T16:00:00.000Z",
+    "end": "2026-01-29T17:50:00.000Z",
+    "title": "The Condor Daughter",
+    "extendedProps": {
+      "location": "Aftonstjärnan"
+    }
+  },
+  {
+    "id": 6329,
+    "resourceIds": ["dracula"],
+    "start": "2026-01-29T16:00:00.000Z",
+    "end": "2026-01-29T18:50:00.000Z",
+    "title": "Dracula",
+    "extendedProps": {
+      "location": "Göta 4"
+    }
+  },
+  {
+    "id": 6330,
+    "resourceIds": ["euphoria"],
+    "start": "2026-01-29T16:00:00.000Z",
+    "end": "2026-01-29T17:35:00.000Z",
+    "title": "Euphoria",
+    "extendedProps": {
+      "location": "Biopalatset 10"
+    }
+  },
+  {
+    "id": 6332,
+    "resourceIds": ["vi-var-the-ark"],
+    "start": "2026-01-29T16:30:00.000Z",
+    "end": "2026-01-29T18:20:00.000Z",
+    "title": "Vi var The Ark",
+    "extendedProps": {
+      "location": "Stora Teatern"
+    }
+  },
+  {
+    "id": 6333,
+    "resourceIds": ["three-of-a-kind"],
+    "start": "2026-01-29T16:30:00.000Z",
+    "end": "2026-01-29T18:10:00.000Z",
+    "title": "Three of a Kind",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 6335,
+    "resourceIds": ["winter-of-the-crow"],
+    "start": "2026-01-29T16:30:00.000Z",
+    "end": "2026-01-29T18:25:00.000Z",
+    "title": "Winter of the Crow",
+    "extendedProps": {
+      "location": "Biopalatset 6"
+    }
+  },
+  {
+    "id": 6337,
+    "resourceIds": ["solitary"],
+    "start": "2026-01-29T16:30:00.000Z",
+    "end": "2026-01-29T18:00:00.000Z",
+    "title": "Solitary",
+    "extendedProps": {
+      "location": "Biopalatset 9"
+    }
+  },
+  {
+    "id": 6336,
+    "resourceIds": ["jone-sometimes"],
+    "start": "2026-01-29T16:30:00.000Z",
+    "end": "2026-01-29T17:55:00.000Z",
+    "title": "Jone, Sometimes",
+    "extendedProps": {
+      "location": "Biopalatset 7"
+    }
+  },
+  {
+    "id": 6339,
+    "resourceIds": ["a-song-for-love"],
+    "start": "2026-01-29T16:45:00.000Z",
+    "end": "2026-01-29T18:10:00.000Z",
+    "title": "A Song for Love",
+    "extendedProps": {
+      "location": "Biopalatset 1"
+    }
+  },
+  {
+    "id": 6340,
+    "resourceIds": ["silent-flood"],
+    "start": "2026-01-29T16:45:00.000Z",
+    "end": "2026-01-29T18:15:00.000Z",
+    "title": "Silent Flood",
+    "extendedProps": {
+      "location": "Biopalatset 2"
+    }
+  },
+  {
+    "id": 6341,
+    "resourceIds": ["resurrection"],
+    "start": "2026-01-29T16:45:00.000Z",
+    "end": "2026-01-29T19:25:00.000Z",
+    "title": "Resurrection",
+    "extendedProps": {
+      "location": "Biopalatset 3"
+    }
+  },
+  {
+    "id": 6331,
+    "resourceIds": ["the-last-resort"],
+    "start": "2026-01-29T16:45:00.000Z",
+    "end": "2026-01-29T18:25:00.000Z",
+    "title": "The Last Resort",
+    "extendedProps": {
+      "location": "Draken"
+    }
+  },
+  {
+    "id": 6338,
+    "resourceIds": ["silent-legacy"],
+    "start": "2026-01-29T16:45:00.000Z",
+    "end": "2026-01-29T18:15:00.000Z",
+    "title": "Silent Legacy",
+    "extendedProps": {
+      "location": "Göta 1"
+    }
+  },
+  {
+    "id": 6343,
+    "resourceIds": ["dear-tomorrow"],
+    "start": "2026-01-29T17:00:00.000Z",
+    "end": "2026-01-29T18:30:00.000Z",
+    "title": "Dear Tomorrow",
+    "extendedProps": {
+      "location": "Skeppet"
+    }
+  },
+  {
+    "id": 6342,
+    "resourceIds": ["zejtune"],
+    "start": "2026-01-29T17:00:00.000Z",
+    "end": "2026-01-29T18:50:00.000Z",
+    "title": "Zejtune",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 6346,
+    "resourceIds": ["life-is"],
+    "start": "2026-01-29T17:00:00.000Z",
+    "end": "2026-01-29T19:00:00.000Z",
+    "title": "Life is",
+    "extendedProps": {
+      "location": "Göta 2"
+    }
+  },
+  {
+    "id": 6344,
+    "resourceIds": ["six-days-in-spring"],
+    "start": "2026-01-29T17:00:00.000Z",
+    "end": "2026-01-29T18:35:00.000Z",
+    "title": "Six Days in Spring",
+    "extendedProps": {
+      "location": "Handels"
+    }
+  },
+  {
+    "id": 6347,
+    "resourceIds": ["bearcave"],
+    "start": "2026-01-29T17:45:00.000Z",
+    "end": "2026-01-29T19:55:00.000Z",
+    "title": "Bearcave",
+    "extendedProps": {
+      "location": "Biopalatset 5"
+    }
+  },
+  {
+    "id": 6348,
+    "resourceIds": ["wrestlers"],
+    "start": "2026-01-29T18:15:00.000Z",
+    "end": "2026-01-29T19:20:00.000Z",
+    "title": "Wrestlers",
+    "extendedProps": {
+      "location": "Biopalatset 8"
+    }
+  },
+  {
+    "id": 6350,
+    "resourceIds": ["milk-teeth-1"],
+    "start": "2026-01-29T18:30:00.000Z",
+    "end": "2026-01-29T20:15:00.000Z",
+    "title": "Milk Teeth",
+    "extendedProps": {
+      "location": "Biopalatset 10"
+    }
+  },
+  {
+    "id": 6349,
+    "resourceIds": ["silent-friend"],
+    "start": "2026-01-29T18:30:00.000Z",
+    "end": "2026-01-29T21:00:00.000Z",
+    "title": "Silent Friend",
+    "extendedProps": {
+      "location": "Aftonstjärnan"
+    }
+  },
+  {
+    "id": 6351,
+    "resourceIds": ["fuori"],
+    "start": "2026-01-29T18:45:00.000Z",
+    "end": "2026-01-29T20:40:00.000Z",
+    "title": "Fuori",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 6352,
+    "resourceIds": ["put-your-soul-on-your-hand-and-walk"],
+    "start": "2026-01-29T18:45:00.000Z",
+    "end": "2026-01-29T20:35:00.000Z",
+    "title": "Put Your Soul on Your Hand and Walk",
+    "extendedProps": {
+      "location": "Göta 3"
+    }
+  },
+  {
+    "id": 6353,
+    "resourceIds": ["strange-river"],
+    "start": "2026-01-29T18:45:00.000Z",
+    "end": "2026-01-29T20:30:00.000Z",
+    "title": "Strange River",
+    "extendedProps": {
+      "location": "Biopalatset 7"
+    }
+  },
+  {
+    "id": 6355,
+    "resourceIds": ["the-kartli-kingdom"],
+    "start": "2026-01-29T19:00:00.000Z",
+    "end": "2026-01-29T20:45:00.000Z",
+    "title": "The Kartli Kingdom",
+    "extendedProps": {
+      "location": "Skeppet"
+    }
+  },
+  {
+    "id": 6359,
+    "resourceIds": ["all-thats-left-of-you"],
+    "start": "2026-01-29T19:00:00.000Z",
+    "end": "2026-01-29T21:30:00.000Z",
+    "title": "All That's Left of You",
+    "extendedProps": {
+      "location": "Biopalatset 4"
+    }
+  },
+  {
+    "id": 6684,
+    "resourceIds": ["how-to-divorce-during-the-war"],
+    "start": "2026-01-29T19:00:00.000Z",
+    "end": "2026-01-29T20:50:00.000Z",
+    "title": "How to Divorce During the War",
+    "extendedProps": {
+      "location": "Biopalatset 9"
+    }
+  },
+  {
+    "id": 6357,
+    "resourceIds": ["little-creatures"],
+    "start": "2026-01-29T19:00:00.000Z",
+    "end": "2026-01-29T20:40:00.000Z",
+    "title": "Little Creatures",
+    "extendedProps": {
+      "location": "Göta 1"
+    }
+  },
+  {
+    "id": 6358,
+    "resourceIds": ["to-new-beginnings"],
+    "start": "2026-01-29T19:00:00.000Z",
+    "end": "2026-01-29T20:35:00.000Z",
+    "title": "Nyårsfesten",
+    "extendedProps": {
+      "location": "Biopalatset 1"
+    }
+  },
+  {
+    "id": 6356,
+    "resourceIds": ["my-fathers-shadow"],
+    "start": "2026-01-29T19:00:00.000Z",
+    "end": "2026-01-29T20:35:00.000Z",
+    "title": "My Father’s Shadow",
+    "extendedProps": {
+      "location": "Handels"
+    }
+  },
+  {
+    "id": 6362,
+    "resourceIds": ["kraken"],
+    "start": "2026-01-29T19:15:00.000Z",
+    "end": "2026-01-29T20:55:00.000Z",
+    "title": "Kraken",
+    "extendedProps": {
+      "location": "Biopalatset 6"
+    }
+  },
+  {
+    "id": 6711,
+    "resourceIds": ["the-girl-in-the-snow"],
+    "start": "2026-01-29T19:15:00.000Z",
+    "end": "2026-01-29T20:55:00.000Z",
+    "title": "The Girl in the Snow",
+    "extendedProps": {
+      "location": "Biopalatset 2"
+    }
+  },
+  {
+    "id": 6360,
+    "resourceIds": ["the-history-of-sound"],
+    "start": "2026-01-29T19:15:00.000Z",
+    "end": "2026-01-29T21:25:00.000Z",
+    "title": "The History of Sound",
+    "extendedProps": {
+      "location": "Stora Teatern"
+    }
+  },
+  {
+    "id": 6361,
+    "resourceIds": ["kontinental-25"],
+    "start": "2026-01-29T19:15:00.000Z",
+    "end": "2026-01-29T21:05:00.000Z",
+    "title": "Kontinental '25",
+    "extendedProps": {
+      "location": "Göta 4"
+    }
+  },
+  {
+    "id": 6354,
+    "resourceIds": ["franz"],
+    "start": "2026-01-29T19:30:00.000Z",
+    "end": "2026-01-29T21:40:00.000Z",
+    "title": "Franz K.",
+    "extendedProps": {
+      "location": "Draken"
+    }
+  },
+  {
+    "id": 6363,
+    "resourceIds": ["white-snail"],
+    "start": "2026-01-29T19:30:00.000Z",
+    "end": "2026-01-29T21:25:00.000Z",
+    "title": "White Snail",
+    "extendedProps": {
+      "location": "Göta 2"
+    }
+  },
+  {
+    "id": 6364,
+    "resourceIds": ["rave-on"],
+    "start": "2026-01-29T19:45:00.000Z",
+    "end": "2026-01-29T21:05:00.000Z",
+    "title": "Rave On",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 6365,
+    "resourceIds": ["ladies-hunting-party"],
+    "start": "2026-01-29T19:45:00.000Z",
+    "end": "2026-01-29T21:15:00.000Z",
+    "title": "Ladies' Hunting Party",
+    "extendedProps": {
+      "location": "Biopalatset 3"
+    }
+  },
+  {
+    "id": 6366,
+    "resourceIds": ["drunken-noodles"],
+    "start": "2026-01-29T20:00:00.000Z",
+    "end": "2026-01-29T21:25:00.000Z",
+    "title": "Drunken Noodles",
+    "extendedProps": {
+      "location": "Biopalatset 8"
+    }
+  },
+  {
+    "id": 6367,
+    "resourceIds": ["bulk"],
+    "start": "2026-01-29T21:30:00.000Z",
+    "end": "2026-01-29T23:05:00.000Z",
+    "title": "Bulk",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 6379,
+    "resourceIds": ["past-future-continuous"],
+    "start": "2026-01-30T08:45:00.000Z",
+    "end": "2026-01-30T10:05:00.000Z",
+    "title": "Past Future Continuous",
+    "extendedProps": {
+      "location": "Göta 1"
+    }
+  },
+  {
+    "id": 6634,
+    "resourceIds": ["on-the-road"],
+    "start": "2026-01-30T08:45:00.000Z",
+    "end": "2026-01-30T10:20:00.000Z",
+    "title": "On the Road",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 6380,
+    "resourceIds": ["winter-of-the-crow"],
+    "start": "2026-01-30T08:45:00.000Z",
+    "end": "2026-01-30T10:40:00.000Z",
+    "title": "Winter of the Crow",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 6381,
+    "resourceIds": ["white-snail"],
+    "start": "2026-01-30T09:00:00.000Z",
+    "end": "2026-01-30T10:55:00.000Z",
+    "title": "White Snail",
+    "extendedProps": {
+      "location": "Göta 2"
+    }
+  },
+  {
+    "id": 6382,
+    "resourceIds": ["hen"],
+    "start": "2026-01-30T09:00:00.000Z",
+    "end": "2026-01-30T10:40:00.000Z",
+    "title": "Hönan",
+    "extendedProps": {
+      "location": "Biopalatset 9"
+    }
+  },
+  {
+    "id": 6383,
+    "resourceIds": ["landmarks"],
+    "start": "2026-01-30T09:30:00.000Z",
+    "end": "2026-01-30T11:35:00.000Z",
+    "title": "Landmarks",
+    "extendedProps": {
+      "location": "Biopalatset 1"
+    }
+  },
+  {
+    "id": 6384,
+    "resourceIds": ["arco"],
+    "start": "2026-01-30T09:30:00.000Z",
+    "end": "2026-01-30T11:00:00.000Z",
+    "title": "Arco",
+    "extendedProps": {
+      "location": "Biopalatset 6"
+    }
+  },
+  {
+    "id": 6726,
+    "resourceIds": ["agon"],
+    "start": "2026-01-30T10:00:00.000Z",
+    "end": "2026-01-30T11:45:00.000Z",
+    "title": "Agon",
+    "extendedProps": {
+      "location": "Biopalatset 5"
+    }
+  },
+  {
+    "id": 6713,
+    "resourceIds": ["dear-tomorrow"],
+    "start": "2026-01-30T10:30:00.000Z",
+    "end": "2026-01-30T12:05:00.000Z",
+    "title": "Dear Tomorrow",
+    "extendedProps": {
+      "location": "Göta 1"
+    }
+  },
+  {
+    "id": 6386,
+    "resourceIds": ["silent-legacy"],
+    "start": "2026-01-30T11:00:00.000Z",
+    "end": "2026-01-30T12:30:00.000Z",
+    "title": "Silent Legacy",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 6387,
+    "resourceIds": ["silent-friend"],
+    "start": "2026-01-30T11:00:00.000Z",
+    "end": "2026-01-30T13:30:00.000Z",
+    "title": "Silent Friend",
+    "extendedProps": {
+      "location": "Biopalatset 9"
+    }
+  },
+  {
+    "id": 6385,
+    "resourceIds": ["magellan"],
+    "start": "2026-01-30T11:00:00.000Z",
+    "end": "2026-01-30T13:40:00.000Z",
+    "title": "Magellan",
+    "extendedProps": {
+      "location": "Draken"
+    }
+  },
+  {
+    "id": 6388,
+    "resourceIds": ["fuori"],
+    "start": "2026-01-30T11:15:00.000Z",
+    "end": "2026-01-30T13:10:00.000Z",
+    "title": "Fuori",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 6389,
+    "resourceIds": ["duse"],
+    "start": "2026-01-30T11:30:00.000Z",
+    "end": "2026-01-30T13:35:00.000Z",
+    "title": "Duse",
+    "extendedProps": {
+      "location": "Biopalatset 6"
+    }
+  },
+  {
+    "id": 6390,
+    "resourceIds": ["the-kartli-kingdom"],
+    "start": "2026-01-30T11:45:00.000Z",
+    "end": "2026-01-30T13:30:00.000Z",
+    "title": "The Kartli Kingdom",
+    "extendedProps": {
+      "location": "Biopalatset 3"
+    }
+  },
+  {
+    "id": 6724,
+    "resourceIds": ["how-to-divorce-during-the-war"],
+    "start": "2026-01-30T11:45:00.000Z",
+    "end": "2026-01-30T13:35:00.000Z",
+    "title": "How to Divorce During the War",
+    "extendedProps": {
+      "location": "Göta 2"
+    }
+  },
+  {
+    "id": 6392,
+    "resourceIds": ["wrangler"],
+    "start": "2026-01-30T12:00:00.000Z",
+    "end": "2026-01-30T13:50:00.000Z",
+    "title": "Wrangler",
+    "extendedProps": {
+      "location": "Biopalatset 2"
+    }
+  },
+  {
+    "id": 6391,
+    "resourceIds": ["the-good-daughter"],
+    "start": "2026-01-30T12:00:00.000Z",
+    "end": "2026-01-30T13:40:00.000Z",
+    "title": "The Good Daughter",
+    "extendedProps": {
+      "location": "Biopalatset 1"
+    }
+  },
+  {
+    "id": 6714,
+    "resourceIds": ["three-of-a-kind"],
+    "start": "2026-01-30T12:45:00.000Z",
+    "end": "2026-01-30T14:25:00.000Z",
+    "title": "Three of a Kind",
+    "extendedProps": {
+      "location": "Göta 1"
+    }
+  },
+  {
+    "id": 6393,
+    "resourceIds": ["franz"],
+    "start": "2026-01-30T13:00:00.000Z",
+    "end": "2026-01-30T15:10:00.000Z",
+    "title": "Franz K.",
+    "extendedProps": {
+      "location": "Stora Teatern"
+    }
+  },
+  {
+    "id": 6394,
+    "resourceIds": ["the-last-resort"],
+    "start": "2026-01-30T13:30:00.000Z",
+    "end": "2026-01-30T15:10:00.000Z",
+    "title": "The Last Resort",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 6397,
+    "resourceIds": ["life-is"],
+    "start": "2026-01-30T13:30:00.000Z",
+    "end": "2026-01-30T15:30:00.000Z",
+    "title": "Life is",
+    "extendedProps": {
+      "location": "Biopalatset 5"
+    }
+  },
+  {
+    "id": 6398,
+    "resourceIds": ["dragonfly"],
+    "start": "2026-01-30T14:00:00.000Z",
+    "end": "2026-01-30T15:40:00.000Z",
+    "title": "Dragonfly",
+    "extendedProps": {
+      "location": "Biopalatset 6"
+    }
+  },
+  {
+    "id": 6399,
+    "resourceIds": ["vi-var-the-ark"],
+    "start": "2026-01-30T14:00:00.000Z",
+    "end": "2026-01-30T15:50:00.000Z",
+    "title": "Vi var The Ark",
+    "extendedProps": {
+      "location": "Biopalatset 9"
+    }
+  },
+  {
+    "id": 6396,
+    "resourceIds": ["broken-voices"],
+    "start": "2026-01-30T14:00:00.000Z",
+    "end": "2026-01-30T15:50:00.000Z",
+    "title": "Broken Voices",
+    "extendedProps": {
+      "location": "Aftonstjärnan"
+    }
+  },
+  {
+    "id": 6395,
+    "resourceIds": ["zejtune"],
+    "start": "2026-01-30T14:00:00.000Z",
+    "end": "2026-01-30T15:50:00.000Z",
+    "title": "Zejtune",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 6400,
+    "resourceIds": ["solitary"],
+    "start": "2026-01-30T14:15:00.000Z",
+    "end": "2026-01-30T15:45:00.000Z",
+    "title": "Solitary",
+    "extendedProps": {
+      "location": "Göta 2"
+    }
+  },
+  {
+    "id": 6402,
+    "resourceIds": ["cutting-through-rocks"],
+    "start": "2026-01-30T14:15:00.000Z",
+    "end": "2026-01-30T15:50:00.000Z",
+    "title": "Cutting Through Rocks",
+    "extendedProps": {
+      "location": "Biopalatset 2"
+    }
+  },
+  {
+    "id": 6403,
+    "resourceIds": ["sleepless-city"],
+    "start": "2026-01-30T14:15:00.000Z",
+    "end": "2026-01-30T15:55:00.000Z",
+    "title": "Sleepless City",
+    "extendedProps": {
+      "location": "Biopalatset 3"
+    }
+  },
+  {
+    "id": 6401,
+    "resourceIds": ["terra-vil"],
+    "start": "2026-01-30T14:15:00.000Z",
+    "end": "2026-01-30T15:55:00.000Z",
+    "title": "Terra vil",
+    "extendedProps": {
+      "location": "Biopalatset 1"
+    }
+  },
+  {
+    "id": 6404,
+    "resourceIds": ["super-nature"],
+    "start": "2026-01-30T14:30:00.000Z",
+    "end": "2026-01-30T15:55:00.000Z",
+    "title": "Super Nature",
+    "extendedProps": {
+      "location": "Draken"
+    }
+  },
+  {
+    "id": 6405,
+    "resourceIds": ["milk-teeth-1"],
+    "start": "2026-01-30T15:00:00.000Z",
+    "end": "2026-01-30T16:45:00.000Z",
+    "title": "Milk Teeth",
+    "extendedProps": {
+      "location": "Göta 1"
+    }
+  },
+  {
+    "id": 6409,
+    "resourceIds": ["solomamma"],
+    "start": "2026-01-30T16:00:00.000Z",
+    "end": "2026-01-30T17:35:00.000Z",
+    "title": "Solomamma",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 6410,
+    "resourceIds": ["little-creatures"],
+    "start": "2026-01-30T16:00:00.000Z",
+    "end": "2026-01-30T17:40:00.000Z",
+    "title": "Little Creatures",
+    "extendedProps": {
+      "location": "Biopalatset 10"
+    }
+  },
+  {
+    "id": 6411,
+    "resourceIds": ["the-history-of-sound"],
+    "start": "2026-01-30T16:15:00.000Z",
+    "end": "2026-01-30T18:25:00.000Z",
+    "title": "The History of Sound",
+    "extendedProps": {
+      "location": "Aftonstjärnan"
+    }
+  },
+  {
+    "id": 6412,
+    "resourceIds": ["christy"],
+    "start": "2026-01-30T16:30:00.000Z",
+    "end": "2026-01-30T18:05:00.000Z",
+    "title": "Christy",
+    "extendedProps": {
+      "location": "Biopalatset 1"
+    }
+  },
+  {
+    "id": 6413,
+    "resourceIds": ["the-curse-of-kane"],
+    "start": "2026-01-30T16:30:00.000Z",
+    "end": "2026-01-30T17:55:00.000Z",
+    "title": "The Curse of Kane",
+    "extendedProps": {
+      "location": "Biopalatset 2"
+    }
+  },
+  {
+    "id": 6626,
+    "resourceIds": ["the-ice-tower"],
+    "start": "2026-01-30T16:30:00.000Z",
+    "end": "2026-01-30T18:30:00.000Z",
+    "title": "Istornet",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 6414,
+    "resourceIds": ["truth-or-dare"],
+    "start": "2026-01-30T16:30:00.000Z",
+    "end": "2026-01-30T18:00:00.000Z",
+    "title": "Truth or Dare",
+    "extendedProps": {
+      "location": "Biopalatset 3"
+    }
+  },
+  {
+    "id": 6415,
+    "resourceIds": ["redoubt"],
+    "start": "2026-01-30T16:45:00.000Z",
+    "end": "2026-01-30T18:10:00.000Z",
+    "title": "Värn",
+    "extendedProps": {
+      "location": "Draken"
+    }
+  },
+  {
+    "id": 6712,
+    "resourceIds": ["cotton-queen"],
+    "start": "2026-01-30T16:45:00.000Z",
+    "end": "2026-01-30T18:20:00.000Z",
+    "title": "Cotton Queen",
+    "extendedProps": {
+      "location": "Biopalatset 9"
+    }
+  },
+  {
+    "id": 6418,
+    "resourceIds": ["memory-1"],
+    "start": "2026-01-30T17:00:00.000Z",
+    "end": "2026-01-30T18:40:00.000Z",
+    "title": "Memory",
+    "extendedProps": {
+      "location": "Göta 2"
+    }
+  },
+  {
+    "id": 6417,
+    "resourceIds": ["follies"],
+    "start": "2026-01-30T17:00:00.000Z",
+    "end": "2026-01-30T18:45:00.000Z",
+    "title": "Follies",
+    "extendedProps": {
+      "location": "Handels"
+    }
+  },
+  {
+    "id": 6416,
+    "resourceIds": ["the-thing-with-feathers"],
+    "start": "2026-01-30T17:00:00.000Z",
+    "end": "2026-01-30T18:40:00.000Z",
+    "title": "The Thing with Feathers",
+    "extendedProps": {
+      "location": "Stora Teatern"
+    }
+  },
+  {
+    "id": 6420,
+    "resourceIds": ["rose-of-nevada"],
+    "start": "2026-01-30T17:15:00.000Z",
+    "end": "2026-01-30T19:10:00.000Z",
+    "title": "Rose of Nevada",
+    "extendedProps": {
+      "location": "Göta 1"
+    }
+  },
+  {
+    "id": 6421,
+    "resourceIds": ["jone-sometimes"],
+    "start": "2026-01-30T18:00:00.000Z",
+    "end": "2026-01-30T19:25:00.000Z",
+    "title": "Jone, Sometimes",
+    "extendedProps": {
+      "location": "Göta 3"
+    }
+  },
+  {
+    "id": 6422,
+    "resourceIds": ["karla"],
+    "start": "2026-01-30T18:15:00.000Z",
+    "end": "2026-01-30T20:00:00.000Z",
+    "title": "Karla",
+    "extendedProps": {
+      "location": "Biopalatset 7"
+    }
+  },
+  {
+    "id": 6423,
+    "resourceIds": ["re-creation"],
+    "start": "2026-01-30T18:15:00.000Z",
+    "end": "2026-01-30T20:25:00.000Z",
+    "title": "Re-Creation",
+    "extendedProps": {
+      "location": "Biopalatset 8"
+    }
+  },
+  {
+    "id": 6424,
+    "resourceIds": ["bearcave"],
+    "start": "2026-01-30T18:30:00.000Z",
+    "end": "2026-01-30T20:40:00.000Z",
+    "title": "Bearcave",
+    "extendedProps": {
+      "location": "Biopalatset 1"
+    }
+  },
+  {
+    "id": 6616,
+    "resourceIds": ["my-first-love"],
+    "start": "2026-01-30T18:30:00.000Z",
+    "end": "2026-01-30T20:00:00.000Z",
+    "title": "My First Love",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 6426,
+    "resourceIds": ["to-the-victory"],
+    "start": "2026-01-30T18:30:00.000Z",
+    "end": "2026-01-30T20:15:00.000Z",
+    "title": "To the Victory!",
+    "extendedProps": {
+      "location": "Biopalatset 3"
+    }
+  },
+  {
+    "id": 6425,
+    "resourceIds": ["six-days-in-spring"],
+    "start": "2026-01-30T18:30:00.000Z",
+    "end": "2026-01-30T20:05:00.000Z",
+    "title": "Six Days in Spring",
+    "extendedProps": {
+      "location": "Biopalatset 2"
+    }
+  },
+  {
+    "id": 6428,
+    "resourceIds": ["the-baronesses"],
+    "start": "2026-01-30T18:45:00.000Z",
+    "end": "2026-01-30T20:15:00.000Z",
+    "title": "The Baronesses",
+    "extendedProps": {
+      "location": "Biopalatset 10"
+    }
+  },
+  {
+    "id": 6427,
+    "resourceIds": ["wolves"],
+    "start": "2026-01-30T18:45:00.000Z",
+    "end": "2026-01-30T20:25:00.000Z",
+    "title": "Wolves",
+    "extendedProps": {
+      "location": "Biopalatset 9"
+    }
+  },
+  {
+    "id": 6429,
+    "resourceIds": ["orphan"],
+    "start": "2026-01-30T19:00:00.000Z",
+    "end": "2026-01-30T21:15:00.000Z",
+    "title": "Orphan",
+    "extendedProps": {
+      "location": "Aftonstjärnan"
+    }
+  },
+  {
+    "id": 6432,
+    "resourceIds": ["butterfly"],
+    "start": "2026-01-30T19:15:00.000Z",
+    "end": "2026-01-30T21:15:00.000Z",
+    "title": "Butterfly",
+    "extendedProps": {
+      "location": "Draken"
+    }
+  },
+  {
+    "id": 6433,
+    "resourceIds": ["leave-one-day"],
+    "start": "2026-01-30T19:15:00.000Z",
+    "end": "2026-01-30T20:55:00.000Z",
+    "title": "Leave One Day",
+    "extendedProps": {
+      "location": "Handels"
+    }
+  },
+  {
+    "id": 6627,
+    "resourceIds": ["sirat"],
+    "start": "2026-01-30T19:30:00.000Z",
+    "end": "2026-01-30T21:25:00.000Z",
+    "title": "Sirât",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 6434,
+    "resourceIds": ["eleanor-the-great"],
+    "start": "2026-01-30T19:45:00.000Z",
+    "end": "2026-01-30T21:25:00.000Z",
+    "title": "Eleanor the Great",
+    "extendedProps": {
+      "location": "Stora Teatern"
+    }
+  },
+  {
+    "id": 6435,
+    "resourceIds": ["divine-comedy"],
+    "start": "2026-01-30T20:00:00.000Z",
+    "end": "2026-01-30T21:40:00.000Z",
+    "title": "Divine Comedy",
+    "extendedProps": {
+      "location": "Göta 1"
+    }
+  },
+  {
+    "id": 6436,
+    "resourceIds": ["noviembre"],
+    "start": "2026-01-30T20:30:00.000Z",
+    "end": "2026-01-30T21:50:00.000Z",
+    "title": "Noviembre",
+    "extendedProps": {
+      "location": "Biopalatset 2"
+    }
+  },
+  {
+    "id": 6437,
+    "resourceIds": ["dont-leave-the-kids-alone"],
+    "start": "2026-01-30T20:30:00.000Z",
+    "end": "2026-01-30T22:10:00.000Z",
+    "title": "Don’t Leave the Kids Alone",
+    "extendedProps": {
+      "location": "Biopalatset 7"
+    }
+  },
+  {
+    "id": 6438,
+    "resourceIds": ["maspalomas"],
+    "start": "2026-01-30T20:30:00.000Z",
+    "end": "2026-01-30T22:25:00.000Z",
+    "title": "Maspalomas",
+    "extendedProps": {
+      "location": "Biopalatset 10"
+    }
+  },
+  {
+    "id": 6439,
+    "resourceIds": ["erupcja"],
+    "start": "2026-01-30T20:45:00.000Z",
+    "end": "2026-01-30T22:00:00.000Z",
+    "title": "Erupcja",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 6440,
+    "resourceIds": ["rave-on"],
+    "start": "2026-01-30T21:00:00.000Z",
+    "end": "2026-01-30T22:20:00.000Z",
+    "title": "Rave On",
+    "extendedProps": {
+      "location": "Biopalatset 9"
+    }
+  },
+  {
+    "id": 6441,
+    "resourceIds": ["kraken"],
+    "start": "2026-01-30T22:00:00.000Z",
+    "end": "2026-01-30T23:40:00.000Z",
+    "title": "Kraken",
+    "extendedProps": {
+      "location": "Draken"
+    }
+  },
+  {
+    "id": 6444,
+    "resourceIds": ["little-creatures"],
+    "start": "2026-01-31T08:45:00.000Z",
+    "end": "2026-01-31T10:25:00.000Z",
+    "title": "Little Creatures",
+    "extendedProps": {
+      "location": "Göta 1"
+    }
+  },
+  {
+    "id": 6446,
+    "resourceIds": ["broken-english"],
+    "start": "2026-01-31T08:45:00.000Z",
+    "end": "2026-01-31T10:25:00.000Z",
+    "title": "Broken English",
+    "extendedProps": {
+      "location": "Biopalatset 10"
+    }
+  },
+  {
+    "id": 6442,
+    "resourceIds": ["winter-of-the-crow"],
+    "start": "2026-01-31T08:45:00.000Z",
+    "end": "2026-01-31T10:40:00.000Z",
+    "title": "Winter of the Crow",
+    "extendedProps": {
+      "location": "Draken"
+    }
+  },
+  {
+    "id": 6443,
+    "resourceIds": ["scarlet"],
+    "start": "2026-01-31T08:45:00.000Z",
+    "end": "2026-01-31T10:40:00.000Z",
+    "title": "Scarlet",
+    "extendedProps": {
+      "location": "Stora Teatern"
+    }
+  },
+  {
+    "id": 6445,
+    "resourceIds": ["the-kidnapping-of-arabella"],
+    "start": "2026-01-31T08:45:00.000Z",
+    "end": "2026-01-31T10:35:00.000Z",
+    "title": "The Kidnapping of Arabella",
+    "extendedProps": {
+      "location": "Biopalatset 9"
+    }
+  },
+  {
+    "id": 6450,
+    "resourceIds": ["fuori"],
+    "start": "2026-01-31T09:00:00.000Z",
+    "end": "2026-01-31T10:55:00.000Z",
+    "title": "Fuori",
+    "extendedProps": {
+      "location": "Aftonstjärnan"
+    }
+  },
+  {
+    "id": 6454,
+    "resourceIds": ["julian"],
+    "start": "2026-01-31T09:00:00.000Z",
+    "end": "2026-01-31T10:35:00.000Z",
+    "title": "Julian",
+    "extendedProps": {
+      "location": "Biopalatset 3"
+    }
+  },
+  {
+    "id": 6448,
+    "resourceIds": ["do-you-love-me-1"],
+    "start": "2026-01-31T09:00:00.000Z",
+    "end": "2026-01-31T10:15:00.000Z",
+    "title": "Do You Love Me",
+    "extendedProps": {
+      "location": "Skeppet"
+    }
+  },
+  {
+    "id": 6447,
+    "resourceIds": ["solomamma"],
+    "start": "2026-01-31T09:00:00.000Z",
+    "end": "2026-01-31T10:35:00.000Z",
+    "title": "Solomamma",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 6451,
+    "resourceIds": ["screen-tests"],
+    "start": "2026-01-31T09:00:00.000Z",
+    "end": "2026-01-31T10:40:00.000Z",
+    "title": "Screen Tests",
+    "extendedProps": {
+      "location": "Göta 2"
+    }
+  },
+  {
+    "id": 6449,
+    "resourceIds": ["good-boy"],
+    "start": "2026-01-31T09:00:00.000Z",
+    "end": "2026-01-31T10:50:00.000Z",
+    "title": "Good Boy",
+    "extendedProps": {
+      "location": "Handels"
+    }
+  },
+  {
+    "id": 6628,
+    "resourceIds": ["once-upon-a-time-in-gaza"],
+    "start": "2026-01-31T09:00:00.000Z",
+    "end": "2026-01-31T10:30:00.000Z",
+    "title": "Once Upon a Time in Gaza",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 6453,
+    "resourceIds": ["the-curse-of-kane"],
+    "start": "2026-01-31T09:00:00.000Z",
+    "end": "2026-01-31T10:25:00.000Z",
+    "title": "The Curse of Kane",
+    "extendedProps": {
+      "location": "Biopalatset 2"
+    }
+  },
+  {
+    "id": 6452,
+    "resourceIds": ["the-condor-daughter"],
+    "start": "2026-01-31T09:00:00.000Z",
+    "end": "2026-01-31T10:50:00.000Z",
+    "title": "The Condor Daughter",
+    "extendedProps": {
+      "location": "Biopalatset 1"
+    }
+  },
+  {
+    "id": 6456,
+    "resourceIds": ["no-comment"],
+    "start": "2026-01-31T09:15:00.000Z",
+    "end": "2026-01-31T10:55:00.000Z",
+    "title": "Ingen kommentar",
+    "extendedProps": {
+      "location": "Biopalatset 8"
+    }
+  },
+  {
+    "id": 6455,
+    "resourceIds": ["le-lac"],
+    "start": "2026-01-31T09:15:00.000Z",
+    "end": "2026-01-31T10:30:00.000Z",
+    "title": "Le lac",
+    "extendedProps": {
+      "location": "Biopalatset 7"
+    }
+  },
+  {
+    "id": 6457,
+    "resourceIds": ["khartoum"],
+    "start": "2026-01-31T10:00:00.000Z",
+    "end": "2026-01-31T11:20:00.000Z",
+    "title": "Khartoum",
+    "extendedProps": {
+      "location": "Göta 3"
+    }
+  },
+  {
+    "id": 6459,
+    "resourceIds": ["landmarks"],
+    "start": "2026-01-31T11:00:00.000Z",
+    "end": "2026-01-31T13:05:00.000Z",
+    "title": "Landmarks",
+    "extendedProps": {
+      "location": "Biopalatset 9"
+    }
+  },
+  {
+    "id": 6460,
+    "resourceIds": ["my-first-love"],
+    "start": "2026-01-31T11:00:00.000Z",
+    "end": "2026-01-31T12:30:00.000Z",
+    "title": "My First Love",
+    "extendedProps": {
+      "location": "Biopalatset 10"
+    }
+  },
+  {
+    "id": 6462,
+    "resourceIds": ["terra-vil"],
+    "start": "2026-01-31T11:15:00.000Z",
+    "end": "2026-01-31T12:55:00.000Z",
+    "title": "Terra vil",
+    "extendedProps": {
+      "location": "Biopalatset 7"
+    }
+  },
+  {
+    "id": 6461,
+    "resourceIds": ["provincial-actors"],
+    "start": "2026-01-31T11:15:00.000Z",
+    "end": "2026-01-31T13:05:00.000Z",
+    "title": "Befrielsen",
+    "extendedProps": {
+      "location": "Göta 2"
+    }
+  },
+  {
+    "id": 6463,
+    "resourceIds": ["cutting-through-rocks"],
+    "start": "2026-01-31T11:15:00.000Z",
+    "end": "2026-01-31T12:50:00.000Z",
+    "title": "Cutting Through Rocks",
+    "extendedProps": {
+      "location": "Biopalatset 8"
+    }
+  },
+  {
+    "id": 6471,
+    "resourceIds": ["tell-everyone"],
+    "start": "2026-01-31T11:30:00.000Z",
+    "end": "2026-01-31T13:20:00.000Z",
+    "title": "Tell Everyone",
+    "extendedProps": {
+      "location": "Biopalatset 1"
+    }
+  },
+  {
+    "id": 6472,
+    "resourceIds": ["renoir"],
+    "start": "2026-01-31T11:30:00.000Z",
+    "end": "2026-01-31T13:30:00.000Z",
+    "title": "Renoir",
+    "extendedProps": {
+      "location": "Biopalatset 2"
+    }
+  },
+  {
+    "id": 6470,
+    "resourceIds": ["the-last-resort"],
+    "start": "2026-01-31T11:30:00.000Z",
+    "end": "2026-01-31T13:10:00.000Z",
+    "title": "The Last Resort",
+    "extendedProps": {
+      "location": "Göta 1"
+    }
+  },
+  {
+    "id": 6466,
+    "resourceIds": ["redoubt"],
+    "start": "2026-01-31T11:30:00.000Z",
+    "end": "2026-01-31T12:55:00.000Z",
+    "title": "Värn",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 6469,
+    "resourceIds": ["what-does-that-nature-say-to-you"],
+    "start": "2026-01-31T11:30:00.000Z",
+    "end": "2026-01-31T13:20:00.000Z",
+    "title": "What Does That Nature Say to You",
+    "extendedProps": {
+      "location": "Aftonstjärnan"
+    }
+  },
+  {
+    "id": 6468,
+    "resourceIds": ["solitary"],
+    "start": "2026-01-31T11:30:00.000Z",
+    "end": "2026-01-31T13:00:00.000Z",
+    "title": "Solitary",
+    "extendedProps": {
+      "location": "Handels"
+    }
+  },
+  {
+    "id": 6464,
+    "resourceIds": ["goteborgsepoker-6"],
+    "start": "2026-01-31T11:30:00.000Z",
+    "end": "2026-01-31T12:50:00.000Z",
+    "title": "Göteborgsepoker",
+    "extendedProps": {
+      "location": "Draken"
+    }
+  },
+  {
+    "id": 6467,
+    "resourceIds": ["the-secret-garden"],
+    "start": "2026-01-31T11:30:00.000Z",
+    "end": "2026-01-31T13:15:00.000Z",
+    "title": "Den hemlighetsfulla trädgården",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 6465,
+    "resourceIds": ["the-great-arch"],
+    "start": "2026-01-31T11:30:00.000Z",
+    "end": "2026-01-31T13:15:00.000Z",
+    "title": "Den nya Triumfbågens arkitekt",
+    "extendedProps": {
+      "location": "Stora Teatern"
+    }
+  },
+  {
+    "id": 6473,
+    "resourceIds": ["sleepless-city"],
+    "start": "2026-01-31T11:30:00.000Z",
+    "end": "2026-01-31T13:10:00.000Z",
+    "title": "Sleepless City",
+    "extendedProps": {
+      "location": "Biopalatset 3"
+    }
+  },
+  {
+    "id": 6474,
+    "resourceIds": ["strange-river"],
+    "start": "2026-01-31T12:30:00.000Z",
+    "end": "2026-01-31T14:15:00.000Z",
+    "title": "Strange River",
+    "extendedProps": {
+      "location": "Göta 3"
+    }
+  },
+  {
+    "id": 6475,
+    "resourceIds": ["a-light-that-never-goes-out"],
+    "start": "2026-01-31T13:00:00.000Z",
+    "end": "2026-01-31T14:50:00.000Z",
+    "title": "A Light That Never Goes Out",
+    "extendedProps": {
+      "location": "Skeppet"
+    }
+  },
+  {
+    "id": 6641,
+    "resourceIds": ["memory-1"],
+    "start": "2026-01-31T13:15:00.000Z",
+    "end": "2026-01-31T14:55:00.000Z",
+    "title": "Memory",
+    "extendedProps": {
+      "location": "Biopalatset 10"
+    }
+  },
+  {
+    "id": 6478,
+    "resourceIds": ["silent-legacy"],
+    "start": "2026-01-31T13:15:00.000Z",
+    "end": "2026-01-31T14:45:00.000Z",
+    "title": "Silent Legacy",
+    "extendedProps": {
+      "location": "Biopalatset 8"
+    }
+  },
+  {
+    "id": 6477,
+    "resourceIds": ["the-end-of-quiet"],
+    "start": "2026-01-31T13:15:00.000Z",
+    "end": "2026-01-31T14:40:00.000Z",
+    "title": "The End of Quiet",
+    "extendedProps": {
+      "location": "Biopalatset 7"
+    }
+  },
+  {
+    "id": 6480,
+    "resourceIds": ["kraken"],
+    "start": "2026-01-31T13:45:00.000Z",
+    "end": "2026-01-31T15:25:00.000Z",
+    "title": "Kraken",
+    "extendedProps": {
+      "location": "Biopalatset 1"
+    }
+  },
+  {
+    "id": 6481,
+    "resourceIds": ["the-girl-with-the-dragon-tattoo"],
+    "start": "2026-01-31T13:45:00.000Z",
+    "end": "2026-01-31T16:20:00.000Z",
+    "title": "Män som hatar kvinnor",
+    "extendedProps": {
+      "location": "Biopalatset 9"
+    }
+  },
+  {
+    "id": 6484,
+    "resourceIds": ["kokuho"],
+    "start": "2026-01-31T14:00:00.000Z",
+    "end": "2026-01-31T16:55:00.000Z",
+    "title": "Kokuho",
+    "extendedProps": {
+      "location": "Handels"
+    }
+  },
+  {
+    "id": 6482,
+    "resourceIds": ["hamnet"],
+    "start": "2026-01-31T14:00:00.000Z",
+    "end": "2026-01-31T16:05:00.000Z",
+    "title": "Hamnet",
+    "extendedProps": {
+      "location": "Draken"
+    }
+  },
+  {
+    "id": 6487,
+    "resourceIds": ["leave-one-day"],
+    "start": "2026-01-31T14:00:00.000Z",
+    "end": "2026-01-31T15:40:00.000Z",
+    "title": "Leave One Day",
+    "extendedProps": {
+      "location": "Biopalatset 2"
+    }
+  },
+  {
+    "id": 6486,
+    "resourceIds": ["myglaren"],
+    "start": "2026-01-31T14:00:00.000Z",
+    "end": "2026-01-31T15:30:00.000Z",
+    "title": "Myglaren",
+    "extendedProps": {
+      "location": "Göta 1"
+    }
+  },
+  {
+    "id": 6485,
+    "resourceIds": ["romeria"],
+    "start": "2026-01-31T14:00:00.000Z",
+    "end": "2026-01-31T15:55:00.000Z",
+    "title": "Romería",
+    "extendedProps": {
+      "location": "Aftonstjärnan"
+    }
+  },
+  {
+    "id": 6483,
+    "resourceIds": ["yes"],
+    "start": "2026-01-31T14:00:00.000Z",
+    "end": "2026-01-31T16:30:00.000Z",
+    "title": "Ja!",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 6488,
+    "resourceIds": ["resurrection"],
+    "start": "2026-01-31T14:00:00.000Z",
+    "end": "2026-01-31T16:40:00.000Z",
+    "title": "Resurrection",
+    "extendedProps": {
+      "location": "Biopalatset 3"
+    }
+  },
+  {
+    "id": 6489,
+    "resourceIds": ["dreams"],
+    "start": "2026-01-31T14:15:00.000Z",
+    "end": "2026-01-31T15:55:00.000Z",
+    "title": "Dreams",
+    "extendedProps": {
+      "location": "Stora Teatern"
+    }
+  },
+  {
+    "id": 6490,
+    "resourceIds": ["butterfly"],
+    "start": "2026-01-31T14:15:00.000Z",
+    "end": "2026-01-31T16:15:00.000Z",
+    "title": "Butterfly",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 6491,
+    "resourceIds": ["the-girl-in-the-snow"],
+    "start": "2026-01-31T14:45:00.000Z",
+    "end": "2026-01-31T16:25:00.000Z",
+    "title": "The Girl in the Snow",
+    "extendedProps": {
+      "location": "Göta 3"
+    }
+  },
+  {
+    "id": 6492,
+    "resourceIds": ["colours-of-time"],
+    "start": "2026-01-31T15:00:00.000Z",
+    "end": "2026-01-31T17:10:00.000Z",
+    "title": "Colours of Time",
+    "extendedProps": {
+      "location": "Biopalatset 7"
+    }
+  },
+  {
+    "id": 6495,
+    "resourceIds": ["karla"],
+    "start": "2026-01-31T15:15:00.000Z",
+    "end": "2026-01-31T17:00:00.000Z",
+    "title": "Karla",
+    "extendedProps": {
+      "location": "Biopalatset 8"
+    }
+  },
+  {
+    "id": 6494,
+    "resourceIds": ["life-is"],
+    "start": "2026-01-31T15:15:00.000Z",
+    "end": "2026-01-31T17:15:00.000Z",
+    "title": "Life is",
+    "extendedProps": {
+      "location": "Skeppet"
+    }
+  },
+  {
+    "id": 6496,
+    "resourceIds": ["in-the-land-of-arto"],
+    "start": "2026-01-31T15:45:00.000Z",
+    "end": "2026-01-31T17:30:00.000Z",
+    "title": "In the Land of Arto",
+    "extendedProps": {
+      "location": "Göta 2"
+    }
+  },
+  {
+    "id": 6497,
+    "resourceIds": ["franz"],
+    "start": "2026-01-31T16:00:00.000Z",
+    "end": "2026-01-31T18:10:00.000Z",
+    "title": "Franz K.",
+    "extendedProps": {
+      "location": "Biopalatset 10"
+    }
+  },
+  {
+    "id": 6498,
+    "resourceIds": ["straight-circle"],
+    "start": "2026-01-31T16:30:00.000Z",
+    "end": "2026-01-31T18:20:00.000Z",
+    "title": "Straight Circle",
+    "extendedProps": {
+      "location": "Aftonstjärnan"
+    }
+  },
+  {
+    "id": 6499,
+    "resourceIds": ["love-me-tender"],
+    "start": "2026-01-31T16:30:00.000Z",
+    "end": "2026-01-31T18:50:00.000Z",
+    "title": "Love Me Tender",
+    "extendedProps": {
+      "location": "Göta 1"
+    }
+  },
+  {
+    "id": 6501,
+    "resourceIds": ["mailin"],
+    "start": "2026-01-31T16:30:00.000Z",
+    "end": "2026-01-31T18:00:00.000Z",
+    "title": "Mailin",
+    "extendedProps": {
+      "location": "Biopalatset 2"
+    }
+  },
+  {
+    "id": 6500,
+    "resourceIds": ["three-of-a-kind"],
+    "start": "2026-01-31T16:30:00.000Z",
+    "end": "2026-01-31T18:10:00.000Z",
+    "title": "Three of a Kind",
+    "extendedProps": {
+      "location": "Biopalatset 1"
+    }
+  },
+  {
+    "id": 6502,
+    "resourceIds": ["the-fall-of-sir-douglas-weatherford"],
+    "start": "2026-01-31T17:00:00.000Z",
+    "end": "2026-01-31T18:45:00.000Z",
+    "title": "The Fall of Sir Douglas Weatherford",
+    "extendedProps": {
+      "location": "Stora Teatern"
+    }
+  },
+  {
+    "id": 6503,
+    "resourceIds": ["europa-europa"],
+    "start": "2026-01-31T17:00:00.000Z",
+    "end": "2026-01-31T18:55:00.000Z",
+    "title": "Europa Europa",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 6504,
+    "resourceIds": ["the-ice-tower"],
+    "start": "2026-01-31T17:00:00.000Z",
+    "end": "2026-01-31T19:00:00.000Z",
+    "title": "Istornet",
+    "extendedProps": {
+      "location": "Biopalatset 9"
+    }
+  },
+  {
+    "id": 6506,
+    "resourceIds": ["the-square"],
+    "start": "2026-01-31T17:15:00.000Z",
+    "end": "2026-01-31T18:30:00.000Z",
+    "title": "The Square",
+    "extendedProps": {
+      "location": "Göta 3"
+    }
+  },
+  {
+    "id": 6509,
+    "resourceIds": ["the-kartli-kingdom"],
+    "start": "2026-01-31T17:30:00.000Z",
+    "end": "2026-01-31T19:15:00.000Z",
+    "title": "The Kartli Kingdom",
+    "extendedProps": {
+      "location": "Biopalatset 8"
+    }
+  },
+  {
+    "id": 6508,
+    "resourceIds": ["on-your-lap"],
+    "start": "2026-01-31T17:30:00.000Z",
+    "end": "2026-01-31T19:10:00.000Z",
+    "title": "On Your Lap",
+    "extendedProps": {
+      "location": "Biopalatset 7"
+    }
+  },
+  {
+    "id": 6507,
+    "resourceIds": ["the-baronesses"],
+    "start": "2026-01-31T17:30:00.000Z",
+    "end": "2026-01-31T19:00:00.000Z",
+    "title": "The Baronesses",
+    "extendedProps": {
+      "location": "Biopalatset 3"
+    }
+  },
+  {
+    "id": 6632,
+    "resourceIds": ["case-137"],
+    "start": "2026-01-31T17:30:00.000Z",
+    "end": "2026-01-31T19:25:00.000Z",
+    "title": "Case 137",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 6630,
+    "resourceIds": ["orphan"],
+    "start": "2026-01-31T17:30:00.000Z",
+    "end": "2026-01-31T19:45:00.000Z",
+    "title": "Orphan",
+    "extendedProps": {
+      "location": "Draken"
+    }
+  },
+  {
+    "id": 6511,
+    "resourceIds": ["out-of-love"],
+    "start": "2026-01-31T17:45:00.000Z",
+    "end": "2026-01-31T19:40:00.000Z",
+    "title": "Out of Love",
+    "extendedProps": {
+      "location": "Handels"
+    }
+  },
+  {
+    "id": 6510,
+    "resourceIds": ["bouchra"],
+    "start": "2026-01-31T17:45:00.000Z",
+    "end": "2026-01-31T19:10:00.000Z",
+    "title": "Bouchra",
+    "extendedProps": {
+      "location": "Skeppet"
+    }
+  },
+  {
+    "id": 6513,
+    "resourceIds": ["wild-foxes"],
+    "start": "2026-01-31T18:30:00.000Z",
+    "end": "2026-01-31T20:05:00.000Z",
+    "title": "Wild Foxes",
+    "extendedProps": {
+      "location": "Biopalatset 1"
+    }
+  },
+  {
+    "id": 6672,
+    "resourceIds": ["malandro-moon"],
+    "start": "2026-01-31T18:30:00.000Z",
+    "end": "2026-01-31T19:55:00.000Z",
+    "title": "Första blatten på månen",
+    "extendedProps": {
+      "location": "Biopalatset 2"
+    }
+  },
+  {
+    "id": 6514,
+    "resourceIds": ["the-fires"],
+    "start": "2026-01-31T18:45:00.000Z",
+    "end": "2026-01-31T20:30:00.000Z",
+    "title": "The Fires",
+    "extendedProps": {
+      "location": "Biopalatset 10"
+    }
+  },
+  {
+    "id": 6515,
+    "resourceIds": ["duse"],
+    "start": "2026-01-31T19:00:00.000Z",
+    "end": "2026-01-31T21:05:00.000Z",
+    "title": "Duse",
+    "extendedProps": {
+      "location": "Aftonstjärnan"
+    }
+  },
+  {
+    "id": 6516,
+    "resourceIds": ["dracula"],
+    "start": "2026-01-31T19:00:00.000Z",
+    "end": "2026-01-31T21:50:00.000Z",
+    "title": "Dracula",
+    "extendedProps": {
+      "location": "Göta 3"
+    }
+  },
+  {
+    "id": 6517,
+    "resourceIds": ["a-useful-ghost"],
+    "start": "2026-01-31T19:15:00.000Z",
+    "end": "2026-01-31T21:25:00.000Z",
+    "title": "A Useful Ghost",
+    "extendedProps": {
+      "location": "Göta 1"
+    }
+  },
+  {
+    "id": 6518,
+    "resourceIds": ["the-thing-with-feathers"],
+    "start": "2026-01-31T19:30:00.000Z",
+    "end": "2026-01-31T21:10:00.000Z",
+    "title": "The Thing with Feathers",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 6519,
+    "resourceIds": ["a-year-of-school"],
+    "start": "2026-01-31T19:30:00.000Z",
+    "end": "2026-01-31T21:15:00.000Z",
+    "title": "A Year of School",
+    "extendedProps": {
+      "location": "Biopalatset 3"
+    }
+  },
+  {
+    "id": 6642,
+    "resourceIds": ["beginnings"],
+    "start": "2026-01-31T19:45:00.000Z",
+    "end": "2026-01-31T21:25:00.000Z",
+    "title": "Beginnings",
+    "extendedProps": {
+      "location": "Biopalatset 9"
+    }
+  },
+  {
+    "id": 6520,
+    "resourceIds": ["barrio-triste"],
+    "start": "2026-01-31T19:45:00.000Z",
+    "end": "2026-01-31T21:15:00.000Z",
+    "title": "Barrio triste",
+    "extendedProps": {
+      "location": "Biopalatset 7"
+    }
+  },
+  {
+    "id": 6522,
+    "resourceIds": ["blue-heron"],
+    "start": "2026-01-31T19:45:00.000Z",
+    "end": "2026-01-31T21:20:00.000Z",
+    "title": "Blue Heron",
+    "extendedProps": {
+      "location": "Skeppet"
+    }
+  },
+  {
+    "id": 6521,
+    "resourceIds": ["milk-teeth-1"],
+    "start": "2026-01-31T19:45:00.000Z",
+    "end": "2026-01-31T21:30:00.000Z",
+    "title": "Milk Teeth",
+    "extendedProps": {
+      "location": "Biopalatset 8"
+    }
+  },
+  {
+    "id": 6524,
+    "resourceIds": ["vi-var-the-ark"],
+    "start": "2026-01-31T20:00:00.000Z",
+    "end": "2026-01-31T21:50:00.000Z",
+    "title": "Vi var The Ark",
+    "extendedProps": {
+      "location": "Handels"
+    }
+  },
+  {
+    "id": 6525,
+    "resourceIds": ["wolves"],
+    "start": "2026-01-31T20:00:00.000Z",
+    "end": "2026-01-31T21:40:00.000Z",
+    "title": "Wolves",
+    "extendedProps": {
+      "location": "Göta 2"
+    }
+  },
+  {
+    "id": 6523,
+    "resourceIds": ["a-private-life"],
+    "start": "2026-01-31T20:00:00.000Z",
+    "end": "2026-01-31T21:50:00.000Z",
+    "title": "Ett privat liv",
+    "extendedProps": {
+      "location": "Stora Teatern"
+    }
+  },
+  {
+    "id": 6526,
+    "resourceIds": ["john-lilly-and-the-earth-coincidence-control-office"],
+    "start": "2026-01-31T20:15:00.000Z",
+    "end": "2026-01-31T21:45:00.000Z",
+    "title": "John Lilly and the Earth Coincidence Control Office",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 6631,
+    "resourceIds": ["father-mother-sister-brother"],
+    "start": "2026-01-31T20:30:00.000Z",
+    "end": "2026-01-31T22:20:00.000Z",
+    "title": "Father Mother Sister Brother",
+    "extendedProps": {
+      "location": "Draken"
+    }
+  },
+  {
+    "id": 6527,
+    "resourceIds": ["the-visitor-1"],
+    "start": "2026-01-31T20:30:00.000Z",
+    "end": "2026-01-31T22:25:00.000Z",
+    "title": "The Visitor",
+    "extendedProps": {
+      "location": "Biopalatset 1"
+    }
+  },
+  {
+    "id": 6674,
+    "resourceIds": ["dawning"],
+    "start": "2026-01-31T20:30:00.000Z",
+    "end": "2026-01-31T22:20:00.000Z",
+    "title": "Dawning",
+    "extendedProps": {
+      "location": "Biopalatset 2"
+    }
+  },
+  {
+    "id": 6528,
+    "resourceIds": ["dont-leave-the-kids-alone"],
+    "start": "2026-01-31T22:00:00.000Z",
+    "end": "2026-01-31T23:40:00.000Z",
+    "title": "Don’t Leave the Kids Alone",
+    "extendedProps": {
+      "location": "Skeppet"
+    }
+  },
+  {
+    "id": 6534,
+    "resourceIds": ["zejtune"],
+    "start": "2026-02-01T08:45:00.000Z",
+    "end": "2026-02-01T10:35:00.000Z",
+    "title": "Zejtune",
+    "extendedProps": {
+      "location": "Biopalatset 10"
+    }
+  },
+  {
+    "id": 6529,
+    "resourceIds": ["the-history-of-sound"],
+    "start": "2026-02-01T08:45:00.000Z",
+    "end": "2026-02-01T10:55:00.000Z",
+    "title": "The History of Sound",
+    "extendedProps": {
+      "location": "Draken"
+    }
+  },
+  {
+    "id": 6531,
+    "resourceIds": ["the-square"],
+    "start": "2026-02-01T08:45:00.000Z",
+    "end": "2026-02-01T10:00:00.000Z",
+    "title": "The Square",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 6533,
+    "resourceIds": ["girl-1"],
+    "start": "2026-02-01T08:45:00.000Z",
+    "end": "2026-02-01T10:50:00.000Z",
+    "title": "Girl",
+    "extendedProps": {
+      "location": "Biopalatset 9"
+    }
+  },
+  {
+    "id": 6716,
+    "resourceIds": ["blue-heron"],
+    "start": "2026-02-01T08:45:00.000Z",
+    "end": "2026-02-01T10:20:00.000Z",
+    "title": "Blue Heron",
+    "extendedProps": {
+      "location": "Stora Teatern"
+    }
+  },
+  {
+    "id": 6530,
+    "resourceIds": ["the-fall-of-sir-douglas-weatherford"],
+    "start": "2026-02-01T08:45:00.000Z",
+    "end": "2026-02-01T10:30:00.000Z",
+    "title": "The Fall of Sir Douglas Weatherford",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 6532,
+    "resourceIds": ["re-creation"],
+    "start": "2026-02-01T08:45:00.000Z",
+    "end": "2026-02-01T10:55:00.000Z",
+    "title": "Re-Creation",
+    "extendedProps": {
+      "location": "Biopalatset 8"
+    }
+  },
+  {
+    "id": 6535,
+    "resourceIds": ["the-seasons"],
+    "start": "2026-02-01T09:00:00.000Z",
+    "end": "2026-02-01T10:25:00.000Z",
+    "title": "The Seasons",
+    "extendedProps": {
+      "location": "Skeppet"
+    }
+  },
+  {
+    "id": 6536,
+    "resourceIds": ["people-and-meat"],
+    "start": "2026-02-01T09:00:00.000Z",
+    "end": "2026-02-01T10:50:00.000Z",
+    "title": "People and Meat",
+    "extendedProps": {
+      "location": "Aftonstjärnan"
+    }
+  },
+  {
+    "id": 6633,
+    "resourceIds": ["case-137"],
+    "start": "2026-02-01T09:00:00.000Z",
+    "end": "2026-02-01T10:55:00.000Z",
+    "title": "Case 137",
+    "extendedProps": {
+      "location": "Handels"
+    }
+  },
+  {
+    "id": 6539,
+    "resourceIds": ["three-of-a-kind"],
+    "start": "2026-02-01T09:15:00.000Z",
+    "end": "2026-02-01T10:55:00.000Z",
+    "title": "Three of a Kind",
+    "extendedProps": {
+      "location": "Biopalatset 1"
+    }
+  },
+  {
+    "id": 6540,
+    "resourceIds": ["euphoria"],
+    "start": "2026-02-01T09:15:00.000Z",
+    "end": "2026-02-01T10:50:00.000Z",
+    "title": "Euphoria",
+    "extendedProps": {
+      "location": "Biopalatset 2"
+    }
+  },
+  {
+    "id": 6541,
+    "resourceIds": ["my-fathers-shadow"],
+    "start": "2026-02-01T09:15:00.000Z",
+    "end": "2026-02-01T10:50:00.000Z",
+    "title": "My Father’s Shadow",
+    "extendedProps": {
+      "location": "Biopalatset 3"
+    }
+  },
+  {
+    "id": 6538,
+    "resourceIds": ["noviembre"],
+    "start": "2026-02-01T09:15:00.000Z",
+    "end": "2026-02-01T10:35:00.000Z",
+    "title": "Noviembre",
+    "extendedProps": {
+      "location": "Göta 3"
+    }
+  },
+  {
+    "id": 6542,
+    "resourceIds": ["winner--ingmar-bergman-competition---draken-film-award-1"],
+    "start": "2026-02-01T09:30:00.000Z",
+    "end": "2026-02-01T11:40:00.000Z",
+    "title": "Vinnarfilm: Ingmar Bergman Competition + Draken Film Award",
+    "extendedProps": {
+      "location": "Göta 2"
+    }
+  },
+  {
+    "id": 6543,
+    "resourceIds": ["good-boy"],
+    "start": "2026-02-01T09:30:00.000Z",
+    "end": "2026-02-01T11:20:00.000Z",
+    "title": "Good Boy",
+    "extendedProps": {
+      "location": "Biopalatset 7"
+    }
+  },
+  {
+    "id": 6544,
+    "resourceIds": ["butterfly"],
+    "start": "2026-02-01T11:00:00.000Z",
+    "end": "2026-02-01T13:00:00.000Z",
+    "title": "Butterfly",
+    "extendedProps": {
+      "location": "Biopalatset 10"
+    }
+  },
+  {
+    "id": 6545,
+    "resourceIds": ["little-amelie-or-the-character-of-rain"],
+    "start": "2026-02-01T11:15:00.000Z",
+    "end": "2026-02-01T12:35:00.000Z",
+    "title": "Lilla Amélie eller tecknet för regn",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 6546,
+    "resourceIds": ["mastarnas-match---ingo-vs-floyd"],
+    "start": "2026-02-01T11:15:00.000Z",
+    "end": "2026-02-01T12:35:00.000Z",
+    "title": "Mästarnas match: Ingo vs. Floyd",
+    "extendedProps": {
+      "location": "Göta 1"
+    }
+  },
+  {
+    "id": 6548,
+    "resourceIds": ["dear-tomorrow"],
+    "start": "2026-02-01T11:15:00.000Z",
+    "end": "2026-02-01T12:45:00.000Z",
+    "title": "Dear Tomorrow",
+    "extendedProps": {
+      "location": "Biopalatset 9"
+    }
+  },
+  {
+    "id": 6547,
+    "resourceIds": ["adams-sake"],
+    "start": "2026-02-01T11:15:00.000Z",
+    "end": "2026-02-01T12:30:00.000Z",
+    "title": "Adam's Sake",
+    "extendedProps": {
+      "location": "Biopalatset 8"
+    }
+  },
+  {
+    "id": 6552,
+    "resourceIds": ["with-hasan-in-gaza"],
+    "start": "2026-02-01T11:30:00.000Z",
+    "end": "2026-02-01T13:20:00.000Z",
+    "title": "With Hasan in Gaza",
+    "extendedProps": {
+      "location": "Biopalatset 1"
+    }
+  },
+  {
+    "id": 6549,
+    "resourceIds": ["nino"],
+    "start": "2026-02-01T11:30:00.000Z",
+    "end": "2026-02-01T13:10:00.000Z",
+    "title": "Nino",
+    "extendedProps": {
+      "location": "Skeppet"
+    }
+  },
+  {
+    "id": 6553,
+    "resourceIds": ["white-snail"],
+    "start": "2026-02-01T11:30:00.000Z",
+    "end": "2026-02-01T13:25:00.000Z",
+    "title": "White Snail",
+    "extendedProps": {
+      "location": "Biopalatset 2"
+    }
+  },
+  {
+    "id": 6554,
+    "resourceIds": ["the-good-daughter"],
+    "start": "2026-02-01T11:30:00.000Z",
+    "end": "2026-02-01T13:10:00.000Z",
+    "title": "The Good Daughter",
+    "extendedProps": {
+      "location": "Biopalatset 3"
+    }
+  },
+  {
+    "id": 6550,
+    "resourceIds": ["tell-everyone"],
+    "start": "2026-02-01T11:30:00.000Z",
+    "end": "2026-02-01T13:20:00.000Z",
+    "title": "Tell Everyone",
+    "extendedProps": {
+      "location": "Aftonstjärnan"
+    }
+  },
+  {
+    "id": 6551,
+    "resourceIds": ["put-your-soul-on-your-hand-and-walk"],
+    "start": "2026-02-01T11:30:00.000Z",
+    "end": "2026-02-01T13:20:00.000Z",
+    "title": "Put Your Soul on Your Hand and Walk",
+    "extendedProps": {
+      "location": "Göta 3"
+    }
+  },
+  {
+    "id": 6644,
+    "resourceIds": ["amrum"],
+    "start": "2026-02-01T11:45:00.000Z",
+    "end": "2026-02-01T13:20:00.000Z",
+    "title": "Amrum",
+    "extendedProps": {
+      "location": "Draken"
+    }
+  },
+  {
+    "id": 6555,
+    "resourceIds": ["kontinental-25"],
+    "start": "2026-02-01T11:45:00.000Z",
+    "end": "2026-02-01T13:35:00.000Z",
+    "title": "Kontinental '25",
+    "extendedProps": {
+      "location": "Handels"
+    }
+  },
+  {
+    "id": 6557,
+    "resourceIds": ["silent-friend"],
+    "start": "2026-02-01T12:00:00.000Z",
+    "end": "2026-02-01T14:30:00.000Z",
+    "title": "Silent Friend",
+    "extendedProps": {
+      "location": "Biopalatset 7"
+    }
+  },
+  {
+    "id": 6556,
+    "resourceIds": ["the-love-that-remains"],
+    "start": "2026-02-01T12:00:00.000Z",
+    "end": "2026-02-01T13:50:00.000Z",
+    "title": "The Love That Remains",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 6556,
+    "resourceIds": ["the-love-that-remains"],
+    "start": "2026-02-01T12:00:00.000Z",
+    "end": "2026-02-01T13:50:00.000Z",
+    "title": "The Love That Remains",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 6558,
+    "resourceIds": ["winner--nordic-documentary-competition-2"],
+    "start": "2026-02-01T12:45:00.000Z",
+    "end": "2026-02-01T14:20:00.000Z",
+    "title": "Vinnarfilm: Nordic Documentary Competition",
+    "extendedProps": {
+      "location": "Göta 2"
+    }
+  },
+  {
+    "id": 6559,
+    "resourceIds": ["the-norrtull-gang"],
+    "start": "2026-02-01T13:00:00.000Z",
+    "end": "2026-02-01T14:25:00.000Z",
+    "title": "Norrtullsligan",
+    "extendedProps": {
+      "location": "Stora Teatern"
+    }
+  },
+  {
+    "id": 6560,
+    "resourceIds": ["young-mothers"],
+    "start": "2026-02-01T13:00:00.000Z",
+    "end": "2026-02-01T14:45:00.000Z",
+    "title": "Unga mödrar",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 6562,
+    "resourceIds": ["solitary"],
+    "start": "2026-02-01T13:00:00.000Z",
+    "end": "2026-02-01T14:30:00.000Z",
+    "title": "Solitary",
+    "extendedProps": {
+      "location": "Göta 1"
+    }
+  },
+  {
+    "id": 6563,
+    "resourceIds": ["magellan"],
+    "start": "2026-02-01T13:30:00.000Z",
+    "end": "2026-02-01T16:10:00.000Z",
+    "title": "Magellan",
+    "extendedProps": {
+      "location": "Biopalatset 9"
+    }
+  },
+  {
+    "id": 6635,
+    "resourceIds": ["orphan"],
+    "start": "2026-02-01T13:30:00.000Z",
+    "end": "2026-02-01T15:45:00.000Z",
+    "title": "Orphan",
+    "extendedProps": {
+      "location": "Biopalatset 8"
+    }
+  },
+  {
+    "id": 6564,
+    "resourceIds": ["love-me-tender"],
+    "start": "2026-02-01T13:30:00.000Z",
+    "end": "2026-02-01T15:50:00.000Z",
+    "title": "Love Me Tender",
+    "extendedProps": {
+      "location": "Biopalatset 10"
+    }
+  },
+  {
+    "id": 6567,
+    "resourceIds": ["milk-teeth-1"],
+    "start": "2026-02-01T13:45:00.000Z",
+    "end": "2026-02-01T15:30:00.000Z",
+    "title": "Milk Teeth",
+    "extendedProps": {
+      "location": "Göta 3"
+    }
+  },
+  {
+    "id": 6566,
+    "resourceIds": ["saipan"],
+    "start": "2026-02-01T13:45:00.000Z",
+    "end": "2026-02-01T15:20:00.000Z",
+    "title": "Saipan",
+    "extendedProps": {
+      "location": "Aftonstjärnan"
+    }
+  },
+  {
+    "id": 6568,
+    "resourceIds": ["if-we-dont-burn-how-do-we-light-up-the-night"],
+    "start": "2026-02-01T13:45:00.000Z",
+    "end": "2026-02-01T15:20:00.000Z",
+    "title": "If We Don’t Burn, How Do We Light Up the Night",
+    "extendedProps": {
+      "location": "Biopalatset 3"
+    }
+  },
+  {
+    "id": 6565,
+    "resourceIds": ["memory-1"],
+    "start": "2026-02-01T13:45:00.000Z",
+    "end": "2026-02-01T15:25:00.000Z",
+    "title": "Memory",
+    "extendedProps": {
+      "location": "Skeppet"
+    }
+  },
+  {
+    "id": 6569,
+    "resourceIds": ["arco"],
+    "start": "2026-02-01T14:00:00.000Z",
+    "end": "2026-02-01T15:30:00.000Z",
+    "title": "Arco",
+    "extendedProps": {
+      "location": "Draken"
+    }
+  },
+  {
+    "id": 6570,
+    "resourceIds": ["dragonfly"],
+    "start": "2026-02-01T14:00:00.000Z",
+    "end": "2026-02-01T15:40:00.000Z",
+    "title": "Dragonfly",
+    "extendedProps": {
+      "location": "Handels"
+    }
+  },
+  {
+    "id": 6572,
+    "resourceIds": ["dont-leave-the-kids-alone"],
+    "start": "2026-02-01T14:00:00.000Z",
+    "end": "2026-02-01T15:40:00.000Z",
+    "title": "Don’t Leave the Kids Alone",
+    "extendedProps": {
+      "location": "Biopalatset 2"
+    }
+  },
+  {
+    "id": 6571,
+    "resourceIds": ["my-first-love"],
+    "start": "2026-02-01T14:00:00.000Z",
+    "end": "2026-02-01T15:30:00.000Z",
+    "title": "My First Love",
+    "extendedProps": {
+      "location": "Biopalatset 1"
+    }
+  },
+  {
+    "id": 6574,
+    "resourceIds": ["i-only-rest-in-the-storm"],
+    "start": "2026-02-01T15:00:00.000Z",
+    "end": "2026-02-01T18:35:00.000Z",
+    "title": "I Only Rest in the Storm",
+    "extendedProps": {
+      "location": "Göta 2"
+    }
+  },
+  {
+    "id": 6573,
+    "resourceIds": ["bouchra"],
+    "start": "2026-02-01T15:00:00.000Z",
+    "end": "2026-02-01T16:25:00.000Z",
+    "title": "Bouchra",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 6575,
+    "resourceIds": ["winner--nordic-competition---startsladden-2"],
+    "start": "2026-02-01T15:15:00.000Z",
+    "end": "2026-02-01T17:30:00.000Z",
+    "title": "Vinnarfilm: Nordic Competition + Startsladden",
+    "extendedProps": {
+      "location": "Göta 1"
+    }
+  },
+  {
+    "id": 6576,
+    "resourceIds": ["dry-leaf"],
+    "start": "2026-02-01T15:15:00.000Z",
+    "end": "2026-02-01T18:25:00.000Z",
+    "title": "Dry Leaf",
+    "extendedProps": {
+      "location": "Biopalatset 7"
+    }
+  },
+  {
+    "id": 6577,
+    "resourceIds": ["couture"],
+    "start": "2026-02-01T15:45:00.000Z",
+    "end": "2026-02-01T17:35:00.000Z",
+    "title": "Couture",
+    "extendedProps": {
+      "location": "Stora Teatern"
+    }
+  },
+  {
+    "id": 6579,
+    "resourceIds": ["joan-of-arc"],
+    "start": "2026-02-01T15:45:00.000Z",
+    "end": "2026-02-01T16:50:00.000Z",
+    "title": "Joan of Arc",
+    "extendedProps": {
+      "location": "Biopalatset 3"
+    }
+  },
+  {
+    "id": 6578,
+    "resourceIds": ["resurrection"],
+    "start": "2026-02-01T15:45:00.000Z",
+    "end": "2026-02-01T18:25:00.000Z",
+    "title": "Resurrection",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 6580,
+    "resourceIds": [
+      "writing-life--annie-ernaux-through-the-eyes-of-high-school-students"
+    ],
+    "start": "2026-02-01T16:00:00.000Z",
+    "end": "2026-02-01T17:30:00.000Z",
+    "title": "Writing Life – Annie Ernaux Through the Eyes of High School Students",
+    "extendedProps": {
+      "location": "Skeppet"
+    }
+  },
+  {
+    "id": 6581,
+    "resourceIds": ["the-ice-tower"],
+    "start": "2026-02-01T16:00:00.000Z",
+    "end": "2026-02-01T18:00:00.000Z",
+    "title": "Istornet",
+    "extendedProps": {
+      "location": "Göta 3"
+    }
+  },
+  {
+    "id": 6582,
+    "resourceIds": ["love-untamed"],
+    "start": "2026-02-01T16:15:00.000Z",
+    "end": "2026-02-01T17:50:00.000Z",
+    "title": "Love Untamed",
+    "extendedProps": {
+      "location": "Biopalatset 1"
+    }
+  },
+  {
+    "id": 6725,
+    "resourceIds": ["how-to-divorce-during-the-war"],
+    "start": "2026-02-01T16:15:00.000Z",
+    "end": "2026-02-01T18:05:00.000Z",
+    "title": "How to Divorce During the War",
+    "extendedProps": {
+      "location": "Biopalatset 2"
+    }
+  },
+  {
+    "id": 6586,
+    "resourceIds": ["gloaming-in-luomu"],
+    "start": "2026-02-01T16:30:00.000Z",
+    "end": "2026-02-01T18:10:00.000Z",
+    "title": "Gloaming in Luomu",
+    "extendedProps": {
+      "location": "Biopalatset 8"
+    }
+  },
+  {
+    "id": 6583,
+    "resourceIds": ["eleanor-the-great"],
+    "start": "2026-02-01T16:30:00.000Z",
+    "end": "2026-02-01T18:10:00.000Z",
+    "title": "Eleanor the Great",
+    "extendedProps": {
+      "location": "Draken"
+    }
+  },
+  {
+    "id": 6585,
+    "resourceIds": ["little-creatures"],
+    "start": "2026-02-01T16:30:00.000Z",
+    "end": "2026-02-01T18:10:00.000Z",
+    "title": "Little Creatures",
+    "extendedProps": {
+      "location": "Aftonstjärnan"
+    }
+  },
+  {
+    "id": 6587,
+    "resourceIds": ["scarlet"],
+    "start": "2026-02-01T16:30:00.000Z",
+    "end": "2026-02-01T18:25:00.000Z",
+    "title": "Scarlet",
+    "extendedProps": {
+      "location": "Biopalatset 10"
+    }
+  },
+  {
+    "id": 6584,
+    "resourceIds": ["the-thing-with-feathers"],
+    "start": "2026-02-01T16:30:00.000Z",
+    "end": "2026-02-01T18:10:00.000Z",
+    "title": "The Thing with Feathers",
+    "extendedProps": {
+      "location": "Handels"
+    }
+  },
+  {
+    "id": 6589,
+    "resourceIds": ["dreams"],
+    "start": "2026-02-01T17:00:00.000Z",
+    "end": "2026-02-01T18:40:00.000Z",
+    "title": "Dreams",
+    "extendedProps": {
+      "location": "Biopalatset 9"
+    }
+  },
+  {
+    "id": 6590,
+    "resourceIds": ["as-we-breathe"],
+    "start": "2026-02-01T17:15:00.000Z",
+    "end": "2026-02-01T18:50:00.000Z",
+    "title": "As We Breathe",
+    "extendedProps": {
+      "location": "Biopalatset 3"
+    }
+  },
+  {
+    "id": 6591,
+    "resourceIds": ["winner--international-competition-1"],
+    "start": "2026-02-01T18:00:00.000Z",
+    "end": "2026-02-01T20:55:00.000Z",
+    "title": "Vinnarfilm: International Competition",
+    "extendedProps": {
+      "location": "Göta 1"
+    }
+  },
+  {
+    "id": 6592,
+    "resourceIds": ["six-days-in-spring"],
+    "start": "2026-02-01T18:15:00.000Z",
+    "end": "2026-02-01T19:50:00.000Z",
+    "title": "Six Days in Spring",
+    "extendedProps": {
+      "location": "Stora Teatern"
+    }
+  },
+  {
+    "id": 6593,
+    "resourceIds": ["the-chronology-of-water"],
+    "start": "2026-02-01T18:15:00.000Z",
+    "end": "2026-02-01T20:25:00.000Z",
+    "title": "The Chronology of Water",
+    "extendedProps": {
+      "location": "Capitol"
+    }
+  },
+  {
+    "id": 6598,
+    "resourceIds": ["melt"],
+    "start": "2026-02-01T18:30:00.000Z",
+    "end": "2026-02-01T20:40:00.000Z",
+    "title": "Melt",
+    "extendedProps": {
+      "location": "Biopalatset 2"
+    }
+  },
+  {
+    "id": 6594,
+    "resourceIds": ["wolves"],
+    "start": "2026-02-01T18:30:00.000Z",
+    "end": "2026-02-01T20:10:00.000Z",
+    "title": "Wolves",
+    "extendedProps": {
+      "location": "Skeppet"
+    }
+  },
+  {
+    "id": 6595,
+    "resourceIds": ["winter-of-the-crow"],
+    "start": "2026-02-01T18:30:00.000Z",
+    "end": "2026-02-01T20:25:00.000Z",
+    "title": "Winter of the Crow",
+    "extendedProps": {
+      "location": "Aftonstjärnan"
+    }
+  },
+  {
+    "id": 6596,
+    "resourceIds": ["made-in-eu"],
+    "start": "2026-02-01T18:30:00.000Z",
+    "end": "2026-02-01T20:20:00.000Z",
+    "title": "Made in EU",
+    "extendedProps": {
+      "location": "Göta 3"
+    }
+  },
+  {
+    "id": 6597,
+    "resourceIds": ["maspalomas"],
+    "start": "2026-02-01T18:30:00.000Z",
+    "end": "2026-02-01T20:25:00.000Z",
+    "title": "Maspalomas",
+    "extendedProps": {
+      "location": "Biopalatset 1"
+    }
+  },
+  {
+    "id": 6600,
+    "resourceIds": ["steal-this-story-please"],
+    "start": "2026-02-01T18:45:00.000Z",
+    "end": "2026-02-01T20:30:00.000Z",
+    "title": "Steal This Story, Please!",
+    "extendedProps": {
+      "location": "Biopalatset 8"
+    }
+  },
+  {
+    "id": 6599,
+    "resourceIds": ["the-last-resort"],
+    "start": "2026-02-01T18:45:00.000Z",
+    "end": "2026-02-01T20:25:00.000Z",
+    "title": "The Last Resort",
+    "extendedProps": {
+      "location": "Handels"
+    }
+  },
+  {
+    "id": 6605,
+    "resourceIds": ["solomamma"],
+    "start": "2026-02-01T19:00:00.000Z",
+    "end": "2026-02-01T20:35:00.000Z",
+    "title": "Solomamma",
+    "extendedProps": {
+      "location": "Biopalatset 9"
+    }
+  },
+  {
+    "id": 6601,
+    "resourceIds": ["hamnet"],
+    "start": "2026-02-01T19:00:00.000Z",
+    "end": "2026-02-01T21:05:00.000Z",
+    "title": "Hamnet",
+    "extendedProps": {
+      "location": "Draken"
+    }
+  },
+  {
+    "id": 6602,
+    "resourceIds": ["becoming"],
+    "start": "2026-02-01T19:00:00.000Z",
+    "end": "2026-02-01T20:35:00.000Z",
+    "title": "Becoming",
+    "extendedProps": {
+      "location": "Bio Roy"
+    }
+  },
+  {
+    "id": 6603,
+    "resourceIds": ["silent-legacy"],
+    "start": "2026-02-01T19:00:00.000Z",
+    "end": "2026-02-01T20:30:00.000Z",
+    "title": "Silent Legacy",
+    "extendedProps": {
+      "location": "Göta 2"
+    }
+  },
+  {
+    "id": 6604,
+    "resourceIds": ["rave-on"],
+    "start": "2026-02-01T19:00:00.000Z",
+    "end": "2026-02-01T20:20:00.000Z",
+    "title": "Rave On",
+    "extendedProps": {
+      "location": "Biopalatset 7"
+    }
+  },
+  {
+    "id": 6606,
+    "resourceIds": ["redoubt"],
+    "start": "2026-02-01T19:00:00.000Z",
+    "end": "2026-02-01T20:25:00.000Z",
+    "title": "Värn",
+    "extendedProps": {
+      "location": "Biopalatset 10"
+    }
+  },
+  {
+    "id": 6609,
+    "resourceIds": ["once-upon-a-time-in-gaza"],
+    "start": "2026-02-01T19:15:00.000Z",
+    "end": "2026-02-01T20:45:00.000Z",
+    "title": "Once Upon a Time in Gaza",
+    "extendedProps": {
+      "location": "Biopalatset 3"
+    }
+  }
+]
