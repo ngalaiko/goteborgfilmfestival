@@ -12,10 +12,11 @@
   let { data }: PageProps = $props();
 </script>
 
+<main>
 <Calendar
   plugins={[TimeGrid, ResourceTimeline, Interaction]}
   options={{
-    height: "100vh",
+    height: "calc(100vh - 40px)",
     titleFormat: () => "Göteborg Film Festival 2026",
     date: "2026-01-22",
     validRange: {
@@ -101,6 +102,7 @@
     resources: data.resources,
   }}
 />
+</main>
 
 <style>
   :global(.ec-row-head) {
