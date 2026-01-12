@@ -29,6 +29,7 @@
     "vite": "^7.2.6"
   },
   "dependencies": {
-    "@types/node": "^25.0.6"
+    "@types/node": "^25.0.6",
+    "@vercel/analytics": "^1.6.1"
   }
 }
