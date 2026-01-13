@@ -1,890 +1,2428 @@
 [
   {
     "id": "kokuho",
-    "title": "Kokuho"
+    "title": "Kokuho",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/e6e26b3d-76c9-4747-a264-a468cc3f9623_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/e6e26b3d-76c9-4747-a264-a468cc3f9623_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/e6e26b3d-76c9-4747-a264-a468cc3f9623_thumb.jpg"
+      }
+    }
   },
   {
     "id": "father-mother-sister-brother",
-    "title": "Father Mother Sister Brother"
+    "title": "Father Mother Sister Brother",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/c4fa87dc-ef26-4623-92cf-0449db936c67_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/c4fa87dc-ef26-4623-92cf-0449db936c67_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/c4fa87dc-ef26-4623-92cf-0449db936c67_thumb.jpg"
+      }
+    }
   },
   {
     "id": "the-wizard-of-the-kremlin",
-    "title": "Trollkarlen i Kreml"
+    "title": "Trollkarlen i Kreml",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/06a18e36-3259-4198-9eb8-d77b4d5682ce_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/06a18e36-3259-4198-9eb8-d77b4d5682ce_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/06a18e36-3259-4198-9eb8-d77b4d5682ce_thumb.jpg"
+      }
+    }
   },
   {
     "id": "the-chronology-of-water",
-    "title": "The Chronology of Water"
+    "title": "The Chronology of Water",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/c91cde54-bfe6-47ce-9877-b72dffd842e5_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/c91cde54-bfe6-47ce-9877-b72dffd842e5_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/c91cde54-bfe6-47ce-9877-b72dffd842e5_thumb.jpg"
+      }
+    }
   },
   {
     "id": "to-the-victory",
-    "title": "To the Victory!"
+    "title": "To the Victory!",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/fe2106de-faeb-4658-819d-bb4a23a11994_hero.jpg",
+        "poster": null,
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/fe2106de-faeb-4658-819d-bb4a23a11994_thumb.jpg"
+      }
+    }
   },
   {
     "id": "girl-1",
-    "title": "Girl"
+    "title": "Girl",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/fe9adc98-62d6-4b0a-83d7-8a90d2517fd8_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/fe9adc98-62d6-4b0a-83d7-8a90d2517fd8_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/fe9adc98-62d6-4b0a-83d7-8a90d2517fd8_thumb.jpg"
+      }
+    }
   },
   {
     "id": "the-disappearance-of-josef-mengele",
-    "title": "Josef Mengeles försvinnande"
+    "title": "Josef Mengeles försvinnande",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/412fe6d7-1b1e-4c79-85c2-3d41d5c0a755_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/412fe6d7-1b1e-4c79-85c2-3d41d5c0a755_Poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/412fe6d7-1b1e-4c79-85c2-3d41d5c0a755_thumb.jpg"
+      }
+    }
   },
   {
     "id": "made-in-eu",
-    "title": "Made in EU"
+    "title": "Made in EU",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/df4ec59e-e72b-4a93-9eba-008bc5d3da59_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/df4ec59e-e72b-4a93-9eba-008bc5d3da59_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/df4ec59e-e72b-4a93-9eba-008bc5d3da59_thumb.jpg"
+      }
+    }
   },
   {
     "id": "silent-flood",
-    "title": "Silent Flood"
+    "title": "Silent Flood",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/66b7b331-7719-48ba-84cc-912f9d143e9f_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/66b7b331-7719-48ba-84cc-912f9d143e9f_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/66b7b331-7719-48ba-84cc-912f9d143e9f_thumb.jpg"
+      }
+    }
   },
   {
     "id": "adams-sake",
-    "title": "Adam's Sake"
+    "title": "Adam's Sake",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/eb0ab6e1-d99a-4e10-9e6f-ef82d9359fc4_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/eb0ab6e1-d99a-4e10-9e6f-ef82d9359fc4_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/eb0ab6e1-d99a-4e10-9e6f-ef82d9359fc4_thumb.jpg"
+      }
+    }
   },
   {
     "id": "fiume-o-morte",
-    "title": "Fiume o morte!"
+    "title": "Fiume o morte!",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/b901d35d-9f1a-47d3-9a2b-28c7c3bf61b2_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/b901d35d-9f1a-47d3-9a2b-28c7c3bf61b2_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/b901d35d-9f1a-47d3-9a2b-28c7c3bf61b2_thumb.jpg"
+      }
+    }
   },
   {
     "id": "do-you-love-me-1",
-    "title": "Do You Love Me"
+    "title": "Do You Love Me",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/4e3a1164-4e13-4b80-8099-2aab07b742a8_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/4e3a1164-4e13-4b80-8099-2aab07b742a8_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/4e3a1164-4e13-4b80-8099-2aab07b742a8_thumb.jpg"
+      }
+    }
   },
   {
     "id": "dry-leaf",
-    "title": "Dry Leaf"
+    "title": "Dry Leaf",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/a54bd906-a4b7-4c8a-a022-5360804228bc_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/a54bd906-a4b7-4c8a-a022-5360804228bc_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/a54bd906-a4b7-4c8a-a022-5360804228bc_thumb.jpg"
+      }
+    }
   },
   {
     "id": "straight-circle",
-    "title": "Straight Circle"
+    "title": "Straight Circle",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/6d2d70c6-1448-4c30-a8ea-5b7e631cb5f9_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/6d2d70c6-1448-4c30-a8ea-5b7e631cb5f9_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/6d2d70c6-1448-4c30-a8ea-5b7e631cb5f9_thumb.jpg"
+      }
+    }
   },
   {
     "id": "erupcja",
-    "title": "Erupcja"
+    "title": "Erupcja",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/7eae5922-3996-474f-a106-e1b26209c334_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/7eae5922-3996-474f-a106-e1b26209c334_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/7eae5922-3996-474f-a106-e1b26209c334_thumb.jpg"
+      }
+    }
   },
   {
     "id": "nino",
-    "title": "Nino"
+    "title": "Nino",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/88bb2fee-2b35-4c71-b2fa-f16425d028f3_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/88bb2fee-2b35-4c71-b2fa-f16425d028f3_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/88bb2fee-2b35-4c71-b2fa-f16425d028f3_thumb.jpg"
+      }
+    }
   },
   {
     "id": "good-boy",
-    "title": "Good Boy"
+    "title": "Good Boy",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/685f05b6-29d6-4bba-860d-b26126336bd0_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/685f05b6-29d6-4bba-860d-b26126336bd0_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/685f05b6-29d6-4bba-860d-b26126336bd0_thumb.jpg"
+      }
+    }
   },
   {
     "id": "at-work",
-    "title": "At Work"
+    "title": "At Work",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/bc356011-3641-410e-8642-a8565fa104cd_hero.jpg",
+        "poster": null,
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/bc356011-3641-410e-8642-a8565fa104cd_thumb.jpg"
+      }
+    }
   },
   {
     "id": "lullaby-for-the-mountains",
-    "title": "Lullaby for the Mountains"
+    "title": "Lullaby for the Mountains",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/80aea1f5-35b5-435b-85c4-ae11cd6a1d65_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/80aea1f5-35b5-435b-85c4-ae11cd6a1d65_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/80aea1f5-35b5-435b-85c4-ae11cd6a1d65_thumb.jpg"
+      }
+    }
   },
   {
     "id": "the-ivy",
-    "title": "The Ivy"
+    "title": "The Ivy",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/4ebff8c4-eefa-4783-99cc-84304a386088_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/4ebff8c4-eefa-4783-99cc-84304a386088_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/4ebff8c4-eefa-4783-99cc-84304a386088_thumb.jpg"
+      }
+    }
   },
   {
     "id": "christy",
-    "title": "Christy"
+    "title": "Christy",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/f5855e73-43dc-4236-ae7d-5371af8e2406_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/f5855e73-43dc-4236-ae7d-5371af8e2406_Poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/f5855e73-43dc-4236-ae7d-5371af8e2406_thumb.jpg"
+      }
+    }
   },
   {
     "id": "the-seasons",
-    "title": "The Seasons"
+    "title": "The Seasons",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/c233b837-0182-4d4f-88e6-d9dce0b61ecb_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/c233b837-0182-4d4f-88e6-d9dce0b61ecb_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/c233b837-0182-4d4f-88e6-d9dce0b61ecb_thumb.jpg"
+      }
+    }
   },
   {
     "id": "renoir",
-    "title": "Renoir"
+    "title": "Renoir",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/f0225638-d5ca-45bf-94f1-dac7d877a9ff_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/f0225638-d5ca-45bf-94f1-dac7d877a9ff_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/f0225638-d5ca-45bf-94f1-dac7d877a9ff_thumb.jpg"
+      }
+    }
   },
   {
     "id": "colours-of-time",
-    "title": "Colours of Time"
+    "title": "Colours of Time",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/64266867-02db-4dae-8e26-7e989ba80925_hero.jpg",
+        "poster": null,
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/64266867-02db-4dae-8e26-7e989ba80925_thumb.jpg"
+      }
+    }
   },
   {
     "id": "barrio-triste",
-    "title": "Barrio triste"
+    "title": "Barrio triste",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/f5ce1ca1-03b2-4086-9ca2-ba3174e64009_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/f5ce1ca1-03b2-4086-9ca2-ba3174e64009_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/f5ce1ca1-03b2-4086-9ca2-ba3174e64009_thumb.jpg"
+      }
+    }
   },
   {
     "id": "the-quiet-beekeeper",
-    "title": "Biodlaren"
+    "title": "Biodlaren",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/9ca9370a-1e17-4d7d-b60c-dd2435541146_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/9ca9370a-1e17-4d7d-b60c-dd2435541146_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/9ca9370a-1e17-4d7d-b60c-dd2435541146_thumb.jpg"
+      }
+    }
   },
   {
     "id": "people-and-meat",
-    "title": "People and Meat"
+    "title": "People and Meat",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/e900fa5e-6dbd-4d36-9a29-e59c27df1111_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/e900fa5e-6dbd-4d36-9a29-e59c27df1111_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/e900fa5e-6dbd-4d36-9a29-e59c27df1111_thumb.jpg"
+      }
+    }
   },
   {
     "id": "dragonfly",
-    "title": "Dragonfly"
+    "title": "Dragonfly",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/6ec40abf-d994-4bdf-b4ab-9a629033f22e_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/6ec40abf-d994-4bdf-b4ab-9a629033f22e_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/6ec40abf-d994-4bdf-b4ab-9a629033f22e_thumb.jpg"
+      }
+    }
   },
   {
     "id": "duse",
-    "title": "Duse"
+    "title": "Duse",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/114e016e-4dd3-4d7a-a25c-1c56f11d87f5_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/114e016e-4dd3-4d7a-a25c-1c56f11d87f5_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/114e016e-4dd3-4d7a-a25c-1c56f11d87f5_thumb.jpg"
+      }
+    }
   },
   {
     "id": "wild-foxes",
-    "title": "Wild Foxes"
+    "title": "Wild Foxes",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/20f104bc-a5c7-43a7-a14c-f8ba79eb30d8_Hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/20f104bc-a5c7-43a7-a14c-f8ba79eb30d8_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/20f104bc-a5c7-43a7-a14c-f8ba79eb30d8_Thumbnail.jpg"
+      }
+    }
   },
   {
     "id": "the-last-one-for-the-road",
-    "title": "The Last One for the Road"
+    "title": "The Last One for the Road",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/8610b0c7-ebd6-44b0-9f4e-39bfdc676e4d_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/8610b0c7-ebd6-44b0-9f4e-39bfdc676e4d_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/8610b0c7-ebd6-44b0-9f4e-39bfdc676e4d_thumb.jpg"
+      }
+    }
   },
   {
     "id": "john-lilly-and-the-earth-coincidence-control-office",
-    "title": "John Lilly and the Earth Coincidence Control Office"
+    "title": "John Lilly and the Earth Coincidence Control Office",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/30550ebb-b310-4f70-9379-0077babc2944_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/30550ebb-b310-4f70-9379-0077babc2944_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/30550ebb-b310-4f70-9379-0077babc2944_thumb.jpg"
+      }
+    }
   },
   {
     "id": "that-summer-in-paris",
-    "title": "That Summer in Paris"
+    "title": "That Summer in Paris",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/4bba6005-b20c-41ff-aa24-cc66f21e3615_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/4bba6005-b20c-41ff-aa24-cc66f21e3615_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/4bba6005-b20c-41ff-aa24-cc66f21e3615_thumb.jpg"
+      }
+    }
   },
   {
     "id": "re-creation",
-    "title": "Re-Creation"
+    "title": "Re-Creation",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/c1095dd3-cf31-4cc3-860d-07141d37498c_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/c1095dd3-cf31-4cc3-860d-07141d37498c_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/c1095dd3-cf31-4cc3-860d-07141d37498c_thumb.jpg"
+      }
+    }
   },
   {
     "id": "broken-english",
-    "title": "Broken English"
+    "title": "Broken English",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/c67be45d-1718-4ca9-9324-25f27649934f_hero.jpg",
+        "poster": null,
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/c67be45d-1718-4ca9-9324-25f27649934f_thumb.jpg"
+      }
+    }
   },
   {
     "id": "levers",
-    "title": "Levers"
+    "title": "Levers",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/3bccb882-478b-43fe-92ba-51e09046e1e9_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/3bccb882-478b-43fe-92ba-51e09046e1e9_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/3bccb882-478b-43fe-92ba-51e09046e1e9_thumb.jpg"
+      }
+    }
   },
   {
     "id": "ladies-hunting-party",
-    "title": "Ladies' Hunting Party"
+    "title": "Ladies' Hunting Party",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/5d76b2cc-eebc-45c9-81f1-7390ca4d892d_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/5d76b2cc-eebc-45c9-81f1-7390ca4d892d_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/5d76b2cc-eebc-45c9-81f1-7390ca4d892d_thumb.jpg"
+      }
+    }
   },
   {
     "id": "how-to-be-normal-and-the-oddness-of-the-other-world",
-    "title": "How to Be Normal and the Oddness of the Other World"
+    "title": "How to Be Normal and the Oddness of the Other World",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/8bdba760-7364-4565-828a-300e28f7ea6f_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/8bdba760-7364-4565-828a-300e28f7ea6f_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/8bdba760-7364-4565-828a-300e28f7ea6f_thumb.jpg"
+      }
+    }
   },
   {
     "id": "bulk",
-    "title": "Bulk"
+    "title": "Bulk",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/55d6b42f-6f3a-47f4-bcb7-c5ab37dea4cd_Hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/55d6b42f-6f3a-47f4-bcb7-c5ab37dea4cd_Poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/55d6b42f-6f3a-47f4-bcb7-c5ab37dea4cd_thumb.jpg"
+      }
+    }
   },
   {
     "id": "melt",
-    "title": "Melt"
+    "title": "Melt",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/a5cf405f-85bc-4ac8-bcc9-9c2b9f90f08f_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/a5cf405f-85bc-4ac8-bcc9-9c2b9f90f08f_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/a5cf405f-85bc-4ac8-bcc9-9c2b9f90f08f_thumb.jpg"
+      }
+    }
   },
   {
     "id": "arco",
-    "title": "Arco"
+    "title": "Arco",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/6face004-922e-4ff4-bbd9-b0d1e30926da_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/6face004-922e-4ff4-bbd9-b0d1e30926da_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/6face004-922e-4ff4-bbd9-b0d1e30926da_thumb.jpg"
+      }
+    }
   },
   {
     "id": "mailin",
-    "title": "Mailin"
+    "title": "Mailin",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/b98bbc6e-b489-437c-86a0-b3fafa2c490e_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/b98bbc6e-b489-437c-86a0-b3fafa2c490e_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/b98bbc6e-b489-437c-86a0-b3fafa2c490e_thumb.jpg"
+      }
+    }
   },
   {
     "id": "on-the-road",
-    "title": "On the Road"
+    "title": "On the Road",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/bcde19b0-c066-40ba-9ce8-b5807c665370_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/bcde19b0-c066-40ba-9ce8-b5807c665370_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/bcde19b0-c066-40ba-9ce8-b5807c665370_thumb.jpg"
+      }
+    }
   },
   {
     "id": "magellan",
-    "title": "Magellan"
+    "title": "Magellan",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/d002676f-ad89-438d-b182-913a4f49e512_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/d002676f-ad89-438d-b182-913a4f49e512_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/d002676f-ad89-438d-b182-913a4f49e512_thumb.jpg"
+      }
+    }
   },
   {
     "id": "the-girl-in-tails",
-    "title": "Flickan i frack"
+    "title": "Flickan i frack",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/eb88108a-338a-4f4e-8099-84ab2f4f8315_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/eb88108a-338a-4f4e-8099-84ab2f4f8315_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/eb88108a-338a-4f4e-8099-84ab2f4f8315_thumb.jpg"
+      }
+    }
   },
   {
     "id": "cotton-queen",
-    "title": "Cotton Queen"
+    "title": "Cotton Queen",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/dbb459e3-3565-43cb-baaa-7f5e75796bb3_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/dbb459e3-3565-43cb-baaa-7f5e75796bb3_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/dbb459e3-3565-43cb-baaa-7f5e75796bb3_thumb.jpg"
+      }
+    }
   },
   {
     "id": "julian",
-    "title": "Julian"
+    "title": "Julian",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/e8720e66-ea3a-4309-adb3-809127db3851_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/e8720e66-ea3a-4309-adb3-809127db3851_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/e8720e66-ea3a-4309-adb3-809127db3851_thumb.jpg"
+      }
+    }
   },
   {
     "id": "sundays",
-    "title": "Sundays"
+    "title": "Sundays",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/41bca356-b503-470c-876b-6c944993150e_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/41bca356-b503-470c-876b-6c944993150e_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/41bca356-b503-470c-876b-6c944993150e_thumb.jpg"
+      }
+    }
   },
   {
     "id": "put-your-soul-on-your-hand-and-walk",
-    "title": "Put Your Soul on Your Hand and Walk"
+    "title": "Put Your Soul on Your Hand and Walk",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/d0f0bf67-f10f-4ca4-8f7a-96a6193af56f_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/d0f0bf67-f10f-4ca4-8f7a-96a6193af56f_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/d0f0bf67-f10f-4ca4-8f7a-96a6193af56f_thumb.jpg"
+      }
+    }
   },
   {
     "id": "out-of-love",
-    "title": "Out of Love"
+    "title": "Out of Love",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/e5183c7a-ee56-4adb-9b49-0c8fae524ded_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/e5183c7a-ee56-4adb-9b49-0c8fae524ded_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/e5183c7a-ee56-4adb-9b49-0c8fae524ded_thumb.jpg"
+      }
+    }
   },
   {
     "id": "wrestlers",
-    "title": "Wrestlers"
+    "title": "Wrestlers",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/8454641e-810f-4e5c-9a0a-df76021d0bdf_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/8454641e-810f-4e5c-9a0a-df76021d0bdf_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/8454641e-810f-4e5c-9a0a-df76021d0bdf_thumb.jpg"
+      }
+    }
   },
   {
     "id": "the-luminous-life",
-    "title": "The Luminous Life"
+    "title": "The Luminous Life",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/205d358e-ed8f-472e-ad5b-4367cdf1e294_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/205d358e-ed8f-472e-ad5b-4367cdf1e294_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/205d358e-ed8f-472e-ad5b-4367cdf1e294_thumb.jpg"
+      }
+    }
   },
   {
     "id": "flana",
-    "title": "Flana"
+    "title": "Flana",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/c8fa3d4e-0c9a-46f0-a98c-1a4ff31c4269_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/c8fa3d4e-0c9a-46f0-a98c-1a4ff31c4269_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/c8fa3d4e-0c9a-46f0-a98c-1a4ff31c4269_thumb.jpg"
+      }
+    }
   },
   {
     "id": "urchin",
-    "title": "Urchin"
+    "title": "Urchin",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/e5933456-5983-4929-85f3-3a3772f84a34_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/e5933456-5983-4929-85f3-3a3772f84a34_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/e5933456-5983-4929-85f3-3a3772f84a34_thumb.jpg"
+      }
+    }
   },
   {
     "id": "runa-simi",
-    "title": "Runa Simi"
+    "title": "Runa Simi",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/01aa0d44-041e-4019-8a6c-7c4f327d9a10_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/01aa0d44-041e-4019-8a6c-7c4f327d9a10_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/01aa0d44-041e-4019-8a6c-7c4f327d9a10_thumb.jpg"
+      }
+    }
   },
   {
     "id": "our-father",
-    "title": "Our Father"
+    "title": "Our Father",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/383ef5ef-c92a-4250-84ac-5c6e06f31a12_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/383ef5ef-c92a-4250-84ac-5c6e06f31a12_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/383ef5ef-c92a-4250-84ac-5c6e06f31a12_thumb.jpg"
+      }
+    }
   },
   {
     "id": "the-visitor-1",
-    "title": "The Visitor"
+    "title": "The Visitor",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/c2846e41-21b3-45e4-a509-37cc4b727f4b_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/c2846e41-21b3-45e4-a509-37cc4b727f4b_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/c2846e41-21b3-45e4-a509-37cc4b727f4b_thumb.jpg"
+      }
+    }
   },
   {
     "id": "the-great-arch",
-    "title": "Den nya Triumfbågens arkitekt"
+    "title": "Den nya Triumfbågens arkitekt",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/bd95e708-5d38-469e-be96-7342aaccf2cd_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/bd95e708-5d38-469e-be96-7342aaccf2cd_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/bd95e708-5d38-469e-be96-7342aaccf2cd_thumb.jpg"
+      }
+    }
   },
   {
     "id": "the-patron",
-    "title": "Mecenaten"
+    "title": "Mecenaten",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/3c6ea708-d9d3-4627-96a7-dddec549de70_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/3c6ea708-d9d3-4627-96a7-dddec549de70_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/3c6ea708-d9d3-4627-96a7-dddec549de70_thumb.jpg"
+      }
+    }
   },
   {
     "id": "as-we-breathe",
-    "title": "As We Breathe"
+    "title": "As We Breathe",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/e5a0efb9-db72-4c3c-85ae-da12e0e5cf54_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/e5a0efb9-db72-4c3c-85ae-da12e0e5cf54_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/e5a0efb9-db72-4c3c-85ae-da12e0e5cf54_thumb.jpg"
+      }
+    }
   },
   {
     "id": "landmarks",
-    "title": "Landmarks"
+    "title": "Landmarks",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/cdfc19d2-e085-4d2b-a664-80f7b56779cb_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/cdfc19d2-e085-4d2b-a664-80f7b56779cb_Poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/cdfc19d2-e085-4d2b-a664-80f7b56779cb_thumb.jpg"
+      }
+    }
   },
   {
     "id": "my-fathers-shadow",
-    "title": "My Father’s Shadow"
+    "title": "My Father’s Shadow",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/317064c2-84d1-45a3-b32e-48bcca8de4fd_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/317064c2-84d1-45a3-b32e-48bcca8de4fd_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/317064c2-84d1-45a3-b32e-48bcca8de4fd_thumb.jpg"
+      }
+    }
   },
   {
     "id": "shape-of-momo",
-    "title": "Shape of Momo"
+    "title": "Shape of Momo",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/da98b4f6-2031-4055-a223-85be3b17cd91_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/da98b4f6-2031-4055-a223-85be3b17cd91_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/da98b4f6-2031-4055-a223-85be3b17cd91_thumb.jpg"
+      }
+    }
   },
   {
     "id": "calle-malaga",
-    "title": "Calle Malaga"
+    "title": "Calle Malaga",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/f1922f05-2ec6-479a-8145-660fc6c71331_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/f1922f05-2ec6-479a-8145-660fc6c71331_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/f1922f05-2ec6-479a-8145-660fc6c71331_thumb.jpg"
+      }
+    }
   },
   {
     "id": "malandro-moon",
-    "title": "Första blatten på månen"
+    "title": "Första blatten på månen",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/543aaca7-b731-484f-8a2c-9134c3c2adc1_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/543aaca7-b731-484f-8a2c-9134c3c2adc1_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/543aaca7-b731-484f-8a2c-9134c3c2adc1_thumb.jpg"
+      }
+    }
   },
   {
     "id": "the-silence-of-snow",
-    "title": "Tyst faller snön"
+    "title": "Tyst faller snön",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/d9ec5130-300d-40de-ad70-e11b2b21d17c_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/d9ec5130-300d-40de-ad70-e11b2b21d17c_Poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/d9ec5130-300d-40de-ad70-e11b2b21d17c_thumb.jpg"
+      }
+    }
   },
   {
     "id": "eleanor-the-great",
-    "title": "Eleanor the Great"
+    "title": "Eleanor the Great",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/af2e2e1f-fc7a-443f-b4c7-8da7b7981b1b_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/af2e2e1f-fc7a-443f-b4c7-8da7b7981b1b_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/af2e2e1f-fc7a-443f-b4c7-8da7b7981b1b_thumb.jpg"
+      }
+    }
   },
   {
     "id": "in-the-land-of-arto",
-    "title": "In the Land of Arto"
+    "title": "In the Land of Arto",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/2fc1a5dc-9277-4e55-8b09-b90839cf3e87_hero.jpg",
+        "poster": null,
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/2fc1a5dc-9277-4e55-8b09-b90839cf3e87_thumb.jpg"
+      }
+    }
   },
   {
     "id": "promised-sky",
-    "title": "Promised Sky"
+    "title": "Promised Sky",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/d6eecd8a-0c9c-466b-af32-88189980b7de_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/d6eecd8a-0c9c-466b-af32-88189980b7de_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/d6eecd8a-0c9c-466b-af32-88189980b7de_thumb.jpg"
+      }
+    }
   },
   {
     "id": "dracula",
-    "title": "Dracula"
+    "title": "Dracula",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/c1479c4d-6926-4abb-b33c-8606408a32aa_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/c1479c4d-6926-4abb-b33c-8606408a32aa_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/c1479c4d-6926-4abb-b33c-8606408a32aa_thumb.jpg"
+      }
+    }
   },
   {
     "id": "drunken-noodles",
-    "title": "Drunken Noodles"
+    "title": "Drunken Noodles",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/9842a77a-44ae-404b-9aa7-ff9d9e471418_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/9842a77a-44ae-404b-9aa7-ff9d9e471418_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/9842a77a-44ae-404b-9aa7-ff9d9e471418_thumb.jpg"
+      }
+    }
   },
   {
     "id": "cuerpo-celeste",
-    "title": "Cuerpo Celeste"
+    "title": "Cuerpo Celeste",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/8eacb09c-3140-44b0-b6a8-17b135b35e27_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/8eacb09c-3140-44b0-b6a8-17b135b35e27_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/8eacb09c-3140-44b0-b6a8-17b135b35e27_thumb.jpg"
+      }
+    }
   },
   {
     "id": "bad-apples",
-    "title": "Bad Apples"
+    "title": "Bad Apples",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/e218c7fe-e6b8-44cf-a525-7866d39b4d7b_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/e218c7fe-e6b8-44cf-a525-7866d39b4d7b_Poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/e218c7fe-e6b8-44cf-a525-7866d39b4d7b_thumb.jpg"
+      }
+    }
   },
   {
     "id": "cuba--alaska",
-    "title": "Cuba & Alaska"
+    "title": "Cuba & Alaska",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/9251d737-9c51-4496-8259-e43c6ea26038_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/9251d737-9c51-4496-8259-e43c6ea26038_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/9251d737-9c51-4496-8259-e43c6ea26038_thumb.jpg"
+      }
+    }
   },
   {
     "id": "heads-or-tails",
-    "title": "Heads or Tails?"
+    "title": "Heads or Tails?",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/ef9da3b4-8960-4655-a150-68231fbe02c0_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/ef9da3b4-8960-4655-a150-68231fbe02c0_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/ef9da3b4-8960-4655-a150-68231fbe02c0_thumb.jpg"
+      }
+    }
   },
   {
     "id": "follies",
-    "title": "Follies"
+    "title": "Follies",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/b8b8b20c-5914-4ee3-810f-a8d80e047552_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/b8b8b20c-5914-4ee3-810f-a8d80e047552_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/b8b8b20c-5914-4ee3-810f-a8d80e047552_thumb.jpg"
+      }
+    }
   },
   {
     "id": "broken-voices",
-    "title": "Broken Voices"
+    "title": "Broken Voices",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/d2dad23d-a439-47cc-8c92-ca6e18c5b0fa_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/d2dad23d-a439-47cc-8c92-ca6e18c5b0fa_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/d2dad23d-a439-47cc-8c92-ca6e18c5b0fa_thumb.jpg"
+      }
+    }
   },
   {
     "id": "i-swear",
-    "title": "I Swear"
+    "title": "I Swear",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/897f6f56-d135-4c37-a368-2c1bbc15d81b_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/897f6f56-d135-4c37-a368-2c1bbc15d81b_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/897f6f56-d135-4c37-a368-2c1bbc15d81b_thumb.jpg"
+      }
+    }
   },
   {
     "id": "the-kidnapping-of-arabella",
-    "title": "The Kidnapping of Arabella"
+    "title": "The Kidnapping of Arabella",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/1c39e71b-6d31-4258-9c85-8f8487645fb2_hero.jpg",
+        "poster": null,
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/1c39e71b-6d31-4258-9c85-8f8487645fb2_thumb.jpg"
+      }
+    }
   },
   {
     "id": "all-thats-left-of-you",
-    "title": "All That's Left of You"
+    "title": "All That's Left of You",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/72fd71ed-b8d6-4790-b422-599615b279c7_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/72fd71ed-b8d6-4790-b422-599615b279c7_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/72fd71ed-b8d6-4790-b422-599615b279c7_thumb.jpg"
+      }
+    }
   },
   {
     "id": "agon",
-    "title": "Agon"
+    "title": "Agon",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/2790a32a-009a-4818-a5b2-f20bd850a7f1_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/2790a32a-009a-4818-a5b2-f20bd850a7f1_Poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/2790a32a-009a-4818-a5b2-f20bd850a7f1_thumb.jpg"
+      }
+    }
   },
   {
     "id": "solo-female",
-    "title": "Solo Female"
+    "title": "Solo Female",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/a6ff8397-4e88-44d1-9eef-8a8aa755101a_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/a6ff8397-4e88-44d1-9eef-8a8aa755101a_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/a6ff8397-4e88-44d1-9eef-8a8aa755101a_thumb.jpg"
+      }
+    }
   },
   {
     "id": "on-your-lap",
-    "title": "On Your Lap"
+    "title": "On Your Lap",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/8405b1b4-4778-44ef-a305-1a56ec435d4f_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/8405b1b4-4778-44ef-a305-1a56ec435d4f_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/8405b1b4-4778-44ef-a305-1a56ec435d4f_thumb.jpg"
+      }
+    }
   },
   {
     "id": "rose-of-nevada",
-    "title": "Rose of Nevada"
+    "title": "Rose of Nevada",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/005cdc71-120b-4572-a900-940c5c37c590_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/005cdc71-120b-4572-a900-940c5c37c590_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/005cdc71-120b-4572-a900-940c5c37c590_thumb.jpg"
+      }
+    }
   },
   {
     "id": "sirat",
-    "title": "Sirât"
-  },
-  {
-    "id": "the-wonderers",
-    "title": "Ljuset inom oss"
+    "title": "Sirât",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/5aec34f5-0bf9-498d-bb76-a6efcb7e04b5_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/5aec34f5-0bf9-498d-bb76-a6efcb7e04b5_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/5aec34f5-0bf9-498d-bb76-a6efcb7e04b5_thumb.jpg"
+      }
+    }
   },
   {
     "id": "a-private-life",
-    "title": "Ett privat liv"
+    "title": "Ett privat liv",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/a92edfce-2d36-4acc-8079-604d0e9b1450_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/a92edfce-2d36-4acc-8079-604d0e9b1450_Poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/a92edfce-2d36-4acc-8079-604d0e9b1450_thumb.jpg"
+      }
+    }
+  },
+  {
+    "id": "the-wonderers",
+    "title": "Ljuset inom oss",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/4587750a-0874-4214-a344-01eeb20dd34a_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/4587750a-0874-4214-a344-01eeb20dd34a_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/4587750a-0874-4214-a344-01eeb20dd34a_thumb.jpg"
+      }
+    }
   },
   {
     "id": "the-square",
-    "title": "The Square"
+    "title": "The Square",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/2218e4f5-718e-4776-8e89-24e026962a96_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/2218e4f5-718e-4776-8e89-24e026962a96_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/2218e4f5-718e-4776-8e89-24e026962a96_thumb.jpg"
+      }
+    }
   },
   {
     "id": "debut-or-objects-of-the-field-of-debris-as-currently-catalogued",
-    "title": "Debut, or, Objects of the Field of Debris as Currently Catalogued"
+    "title": "Debut, or, Objects of the Field of Debris as Currently Catalogued",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/1b25118d-a196-4779-8d3e-c74df3e927b1_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/1b25118d-a196-4779-8d3e-c74df3e927b1_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/1b25118d-a196-4779-8d3e-c74df3e927b1_thumb.jpg"
+      }
+    }
   },
   {
     "id": "the-danish-woman",
-    "title": "The Danish Woman"
+    "title": "The Danish Woman",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/12b0e92a-3a04-4667-902f-47df9b611d15_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/12b0e92a-3a04-4667-902f-47df9b611d15_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/12b0e92a-3a04-4667-902f-47df9b611d15_thumb.jpg"
+      }
+    }
   },
   {
     "id": "i-only-rest-in-the-storm",
-    "title": "I Only Rest in the Storm"
+    "title": "I Only Rest in the Storm",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/2b6c38d6-5e08-4f70-9803-272bb549c281_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/2b6c38d6-5e08-4f70-9803-272bb549c281_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/2b6c38d6-5e08-4f70-9803-272bb549c281_thumb.jpg"
+      }
+    }
   },
   {
     "id": "little-amelie-or-the-character-of-rain",
-    "title": "Lilla Amélie eller tecknet för regn"
+    "title": "Lilla Amélie eller tecknet för regn",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/7feab2e2-1687-4b07-9397-8ac0cc172e59_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/7feab2e2-1687-4b07-9397-8ac0cc172e59_Poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/7feab2e2-1687-4b07-9397-8ac0cc172e59_thumb.jpg"
+      }
+    }
   },
   {
     "id": "young-mothers",
-    "title": "Unga mödrar"
+    "title": "Unga mödrar",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/9a37f31d-f811-4273-af7e-31fea4989cbc_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/9a37f31d-f811-4273-af7e-31fea4989cbc_Poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/9a37f31d-f811-4273-af7e-31fea4989cbc_thumb.jpg"
+      }
+    }
   },
   {
     "id": "yes",
-    "title": "Ja!"
+    "title": "Ja!",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/37a09910-2c88-4377-973c-67d370780eb6_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/37a09910-2c88-4377-973c-67d370780eb6_Poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/37a09910-2c88-4377-973c-67d370780eb6_thumb.jpg"
+      }
+    }
   },
   {
     "id": "between-dreams-and-hope",
-    "title": "Between Dreams and Hope"
+    "title": "Between Dreams and Hope",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/de0fa299-6f7d-49fa-afd2-98171267655f_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/de0fa299-6f7d-49fa-afd2-98171267655f_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/de0fa299-6f7d-49fa-afd2-98171267655f_thumb.jpg"
+      }
+    }
   },
   {
     "id": "super-nature",
-    "title": "Super Nature"
+    "title": "Super Nature",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/f209f126-4258-4eed-9f37-4a4db62c45f8_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/f209f126-4258-4eed-9f37-4a4db62c45f8_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/f209f126-4258-4eed-9f37-4a4db62c45f8_thumb.jpg"
+      }
+    }
   },
   {
     "id": "a-poet",
-    "title": "En poet"
+    "title": "En poet",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/01060eac-a93d-4b44-9156-97b45a5c7003_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/01060eac-a93d-4b44-9156-97b45a5c7003_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/01060eac-a93d-4b44-9156-97b45a5c7003_thumb.jpg"
+      }
+    }
   },
   {
     "id": "what-does-that-nature-say-to-you",
-    "title": "What Does That Nature Say to You"
+    "title": "What Does That Nature Say to You",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/d77e5b62-09e1-4c1f-bfbf-b0dd85b0e653_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/d77e5b62-09e1-4c1f-bfbf-b0dd85b0e653_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/d77e5b62-09e1-4c1f-bfbf-b0dd85b0e653_thumb.jpg"
+      }
+    }
   },
   {
     "id": "trillion",
-    "title": "Trillion"
+    "title": "Trillion",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/17841df0-6133-4608-9ef9-f8c55952c44f_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/17841df0-6133-4608-9ef9-f8c55952c44f_Poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/17841df0-6133-4608-9ef9-f8c55952c44f_thumb.jpg"
+      }
+    }
   },
   {
     "id": "hen",
-    "title": "Hönan"
+    "title": "Hönan",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/d46697c7-f87a-4a0c-bd91-b687e1f1785e_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/d46697c7-f87a-4a0c-bd91-b687e1f1785e_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/d46697c7-f87a-4a0c-bd91-b687e1f1785e_thumb.jpg"
+      }
+    }
   },
   {
     "id": "green-border-1",
-    "title": "Green Border"
+    "title": "Green Border",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/932e8937-c62e-4c7d-8359-d4ee9b9e2398_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/932e8937-c62e-4c7d-8359-d4ee9b9e2398_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/932e8937-c62e-4c7d-8359-d4ee9b9e2398_thumb.jpg"
+      }
+    }
   },
   {
     "id": "son-of-a-killer",
-    "title": "Mördarens son"
+    "title": "Mördarens son",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/aee5375d-19f3-4ffb-97e7-4398a2f73867_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/aee5375d-19f3-4ffb-97e7-4398a2f73867_Poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/aee5375d-19f3-4ffb-97e7-4398a2f73867_thumb.jpg"
+      }
+    }
   },
   {
     "id": "the-watchmaker",
-    "title": "The Watchmaker"
+    "title": "The Watchmaker",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/0c1cb53c-c3d1-4527-938f-a463d0a21c8b_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/0c1cb53c-c3d1-4527-938f-a463d0a21c8b_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/0c1cb53c-c3d1-4527-938f-a463d0a21c8b_thumb.jpg"
+      }
+    }
   },
   {
     "id": "the-good-daughter",
-    "title": "The Good Daughter"
+    "title": "The Good Daughter",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/9ae6200d-8114-40ae-8748-492a5e33ee90_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/9ae6200d-8114-40ae-8748-492a5e33ee90_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/9ae6200d-8114-40ae-8748-492a5e33ee90_thumb.jpg"
+      }
+    }
   },
   {
     "id": "weightless",
-    "title": "Weightless"
-  },
-  {
-    "id": "dreams",
-    "title": "Dreams"
+    "title": "Weightless",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/6851fdc8-3768-4699-99e4-50f6e3cdd89e_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/6851fdc8-3768-4699-99e4-50f6e3cdd89e_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/6851fdc8-3768-4699-99e4-50f6e3cdd89e_thumb.jpg"
+      }
+    }
   },
   {
     "id": "steal-this-story-please",
-    "title": "Steal This Story, Please!"
+    "title": "Steal This Story, Please!",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/d19adbd9-c70a-4291-89f9-1bc8faa2a8e5_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/d19adbd9-c70a-4291-89f9-1bc8faa2a8e5_Poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/d19adbd9-c70a-4291-89f9-1bc8faa2a8e5_thumb.jpg"
+      }
+    }
+  },
+  {
+    "id": "dreams",
+    "title": "Dreams",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/b4e8cb35-9985-4c26-a77c-c46e9eda82cd_hero.jpg",
+        "poster": null,
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/b4e8cb35-9985-4c26-a77c-c46e9eda82cd_thumb.jpg"
+      }
+    }
   },
   {
     "id": "amrum",
-    "title": "Amrum"
+    "title": "Amrum",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/a23fa427-fc90-45fc-a872-2af7ee6f0e73_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/a23fa427-fc90-45fc-a872-2af7ee6f0e73_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/a23fa427-fc90-45fc-a872-2af7ee6f0e73_thumb.jpg"
+      }
+    }
   },
   {
     "id": "the-cat-kingdom",
-    "title": "Kattriket"
+    "title": "Kattriket",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/07604466-5731-462d-99f8-480ed4bb8f24_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/07604466-5731-462d-99f8-480ed4bb8f24_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/07604466-5731-462d-99f8-480ed4bb8f24_thumb.jpg"
+      }
+    }
   },
   {
     "id": "the-ice-tower",
-    "title": "Istornet"
+    "title": "Istornet",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/c1a5929e-e9f3-40d5-b1d6-e60fa3dcc096_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/c1a5929e-e9f3-40d5-b1d6-e60fa3dcc096_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/c1a5929e-e9f3-40d5-b1d6-e60fa3dcc096_thumb.jpg"
+      }
+    }
   },
   {
     "id": "celtic-utopia",
-    "title": "Celtic Utopia"
+    "title": "Celtic Utopia",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/5674ece7-03a6-477f-8453-bf165c117b6c_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/5674ece7-03a6-477f-8453-bf165c117b6c_Poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/5674ece7-03a6-477f-8453-bf165c117b6c_thumb.jpg"
+      }
+    }
   },
   {
     "id": "if-we-dont-burn-how-do-we-light-up-the-night",
-    "title": "If We Don’t Burn, How Do We Light Up the Night"
+    "title": "If We Don’t Burn, How Do We Light Up the Night",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/8baa57d2-9386-4fb1-b700-db879c20e272_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/8baa57d2-9386-4fb1-b700-db879c20e272_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/8baa57d2-9386-4fb1-b700-db879c20e272_thumb.jpg"
+      }
+    }
   },
   {
     "id": "a-loose-end",
-    "title": "A Loose End"
+    "title": "A Loose End",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/d547bcdc-6856-4d7a-922f-4cee797b1475_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/d547bcdc-6856-4d7a-922f-4cee797b1475_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/d547bcdc-6856-4d7a-922f-4cee797b1475_thumb.jpg"
+      }
+    }
   },
   {
     "id": "boy-george--culture-club",
-    "title": "Boy George & Culture Club"
+    "title": "Boy George & Culture Club",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/c66db298-7e89-404e-99c3-c281e6cb95c1_hero.jpg",
+        "poster": null,
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/c66db298-7e89-404e-99c3-c281e6cb95c1_thumb.jpg"
+      }
+    }
   },
   {
     "id": "couture",
-    "title": "Couture"
+    "title": "Couture",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/7d6e66e4-7a0e-49d3-ba44-f8d57e2de4c6_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/7d6e66e4-7a0e-49d3-ba44-f8d57e2de4c6_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/7d6e66e4-7a0e-49d3-ba44-f8d57e2de4c6_thumb.jpg"
+      }
+    }
   },
   {
     "id": "the-testament-of-ann-lee",
-    "title": "The Testament of Ann Lee"
+    "title": "The Testament of Ann Lee",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/8c26ed8f-6e9e-4480-94a3-7d94b773dfec_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/8c26ed8f-6e9e-4480-94a3-7d94b773dfec_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/8c26ed8f-6e9e-4480-94a3-7d94b773dfec_thumb.jpg"
+      }
+    }
   },
   {
     "id": "peak-everything",
-    "title": "Peak Everything"
+    "title": "Peak Everything",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/65296986-5dcc-41d6-a3d7-3e7f9ad61bcb_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/65296986-5dcc-41d6-a3d7-3e7f9ad61bcb_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/65296986-5dcc-41d6-a3d7-3e7f9ad61bcb_thumb.jpg"
+      }
+    }
   },
   {
     "id": "a-year-of-school",
-    "title": "A Year of School"
+    "title": "A Year of School",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/542b73bc-99d2-49ab-8818-65fb72b06b33_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/542b73bc-99d2-49ab-8818-65fb72b06b33_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/542b73bc-99d2-49ab-8818-65fb72b06b33_thumb.jpg"
+      }
+    }
   },
   {
     "id": "the-swedish-connection",
-    "title": "Den svenska länken"
+    "title": "Den svenska länken",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/13940651-8b38-43b8-9514-c80d3507e13f_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/13940651-8b38-43b8-9514-c80d3507e13f_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/13940651-8b38-43b8-9514-c80d3507e13f_thumb.jpg"
+      }
+    }
   },
   {
     "id": "elon-musk-unveiled--the-tesla-experiment",
-    "title": "Elon Musk Unveiled – The Tesla Experiment"
+    "title": "Elon Musk Unveiled – The Tesla Experiment",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/57471050-8f8c-4db2-9f19-9ede518e084a_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/57471050-8f8c-4db2-9f19-9ede518e084a_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/57471050-8f8c-4db2-9f19-9ede518e084a_thumb.jpg"
+      }
+    }
   },
   {
     "id": "past-future-continuous",
-    "title": "Past Future Continuous"
+    "title": "Past Future Continuous",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/2949d588-e26c-4c66-a580-fa178453d5f8_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/2949d588-e26c-4c66-a580-fa178453d5f8_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/2949d588-e26c-4c66-a580-fa178453d5f8_thumb.jpg"
+      }
+    }
   },
   {
     "id": "a-useful-ghost",
-    "title": "A Useful Ghost"
+    "title": "A Useful Ghost",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/b5cde187-b0b6-4439-989c-cefcc54a47f3_hero.jpg",
+        "poster": null,
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/b5cde187-b0b6-4439-989c-cefcc54a47f3_thumb.jpg"
+      }
+    }
   },
   {
     "id": "writing-life--annie-ernaux-through-the-eyes-of-high-school-students",
-    "title": "Writing Life – Annie Ernaux Through the Eyes of High School Students"
+    "title": "Writing Life – Annie Ernaux Through the Eyes of High School Students",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/24374c62-98fd-4f19-9824-979c8d38f981_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/24374c62-98fd-4f19-9824-979c8d38f981_Poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/24374c62-98fd-4f19-9824-979c8d38f981_thumb.jpg"
+      }
+    }
   },
   {
     "id": "my-father-and-qaddafi",
-    "title": "My Father and Qaddafi"
+    "title": "My Father and Qaddafi",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/05d99e76-4450-4ac3-833c-3ca4860cb13d_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/05d99e76-4450-4ac3-833c-3ca4860cb13d_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/05d99e76-4450-4ac3-833c-3ca4860cb13d_thumb.jpg"
+      }
+    }
   },
   {
     "id": "jone-sometimes",
-    "title": "Jone, Sometimes"
+    "title": "Jone, Sometimes",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/8564f8f5-88e1-442e-a5b9-d6d9f1515548_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/8564f8f5-88e1-442e-a5b9-d6d9f1515548_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/8564f8f5-88e1-442e-a5b9-d6d9f1515548_thumb.jpg"
+      }
+    }
   },
   {
     "id": "a-men-to-that",
-    "title": "A-Men to That"
+    "title": "A-Men to That",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/3c9ebd2e-d3c1-4e3b-a240-cfcd983833d8_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/3c9ebd2e-d3c1-4e3b-a240-cfcd983833d8_Poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/3c9ebd2e-d3c1-4e3b-a240-cfcd983833d8_thumb.jpg"
+      }
+    }
   },
   {
     "id": "no-comment",
-    "title": "Ingen kommentar"
+    "title": "Ingen kommentar",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/9efec646-c931-4428-a469-52d8560a31c2_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/9efec646-c931-4428-a469-52d8560a31c2_Poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/9efec646-c931-4428-a469-52d8560a31c2_thumb.jpg"
+      }
+    }
   },
   {
     "id": "le-lac",
-    "title": "Le lac"
+    "title": "Le lac",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/797f5296-0264-405c-8352-48006937de04_Hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/797f5296-0264-405c-8352-48006937de04_Poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/797f5296-0264-405c-8352-48006937de04_thumb.jpg"
+      }
+    }
   },
   {
     "id": "beginnings",
-    "title": "Beginnings"
+    "title": "Beginnings",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/1a8e1ad9-d2ab-4fb1-b9f1-d92a909f8ade_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/1a8e1ad9-d2ab-4fb1-b9f1-d92a909f8ade_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/1a8e1ad9-d2ab-4fb1-b9f1-d92a909f8ade_thumb.jpg"
+      }
+    }
   },
   {
     "id": "maspalomas",
-    "title": "Maspalomas"
+    "title": "Maspalomas",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/186bb85d-6e2a-490c-90b6-9108203c7bf4_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/186bb85d-6e2a-490c-90b6-9108203c7bf4_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/186bb85d-6e2a-490c-90b6-9108203c7bf4_thumb.jpg"
+      }
+    }
   },
   {
     "id": "bearcave",
-    "title": "Bearcave"
+    "title": "Bearcave",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/a9f38939-2170-4579-ae62-1fe38b3e8da8_hero.jpg",
+        "poster": null,
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/a9f38939-2170-4579-ae62-1fe38b3e8da8_thumb.jpg"
+      }
+    }
   },
   {
     "id": "khartoum",
-    "title": "Khartoum"
+    "title": "Khartoum",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/f962da11-1d34-489a-8507-206483966b4b_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/f962da11-1d34-489a-8507-206483966b4b_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/f962da11-1d34-489a-8507-206483966b4b_thumb.jpg"
+      }
+    }
   },
   {
     "id": "strange-river",
-    "title": "Strange River"
+    "title": "Strange River",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/e290a938-84c6-4f9e-bcde-73eca38f0fad_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/e290a938-84c6-4f9e-bcde-73eca38f0fad_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/e290a938-84c6-4f9e-bcde-73eca38f0fad_thumb.jpg"
+      }
+    }
   },
   {
     "id": "scarlet",
-    "title": "Scarlet"
+    "title": "Scarlet",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/b4064b2a-8881-49ad-9d08-680490d836a6_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/b4064b2a-8881-49ad-9d08-680490d836a6_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/b4064b2a-8881-49ad-9d08-680490d836a6_thumb.jpg"
+      }
+    }
   },
   {
     "id": "dont-call-me-mama",
-    "title": "Don't Call Me Mama"
+    "title": "Don't Call Me Mama",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/fd174086-e452-4641-b86c-a2a31b8db68a_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/fd174086-e452-4641-b86c-a2a31b8db68a_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/fd174086-e452-4641-b86c-a2a31b8db68a_thumb.jpg"
+      }
+    }
   },
   {
     "id": "leave-one-day",
-    "title": "Leave One Day"
+    "title": "Leave One Day",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/1da9d916-4505-4417-aa2f-a19d300663f8_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/1da9d916-4505-4417-aa2f-a19d300663f8_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/1da9d916-4505-4417-aa2f-a19d300663f8_thumb.jpg"
+      }
+    }
   },
   {
     "id": "blue-heron",
-    "title": "Blue Heron"
+    "title": "Blue Heron",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/8a95c38e-8b77-4246-b15c-9c4ff1f9ffff_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/8a95c38e-8b77-4246-b15c-9c4ff1f9ffff_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/8a95c38e-8b77-4246-b15c-9c4ff1f9ffff_thumb.jpg"
+      }
+    }
   },
   {
     "id": "the-voice-of-hind-rajab",
-    "title": "Hind Rajab – rösten från Gaza"
+    "title": "Hind Rajab – rösten från Gaza",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/5179ddc2-3944-45e3-8ffe-acfb4ef78502_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/5179ddc2-3944-45e3-8ffe-acfb4ef78502_Poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/5179ddc2-3944-45e3-8ffe-acfb4ef78502_thumb.jpg"
+      }
+    }
   },
   {
     "id": "mastarnas-match---ingo-vs-floyd",
-    "title": "Mästarnas match: Ingo vs. Floyd"
+    "title": "Mästarnas match: Ingo vs. Floyd",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/a85eb8c1-ee08-4c63-a34b-fcbfea8483c7_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/a85eb8c1-ee08-4c63-a34b-fcbfea8483c7_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/a85eb8c1-ee08-4c63-a34b-fcbfea8483c7_thumb.jpg"
+      }
+    }
   },
   {
     "id": "the-condor-daughter",
-    "title": "The Condor Daughter"
+    "title": "The Condor Daughter",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/9a08bb55-b9f7-4c31-9847-28e9debfa16f_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/9a08bb55-b9f7-4c31-9847-28e9debfa16f_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/9a08bb55-b9f7-4c31-9847-28e9debfa16f_thumb.jpg"
+      }
+    }
   },
   {
     "id": "case-137",
-    "title": "Case 137"
+    "title": "Case 137",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/5e700978-13dd-4bfd-b37a-0410960ce916_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/5e700978-13dd-4bfd-b37a-0410960ce916_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/5e700978-13dd-4bfd-b37a-0410960ce916_thumb.jpg"
+      }
+    }
   },
   {
     "id": "lamb-1",
-    "title": "Lamm"
+    "title": "Lamm",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/cda7d0fc-f172-4dea-96a9-92f30a27067f_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/cda7d0fc-f172-4dea-96a9-92f30a27067f_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/cda7d0fc-f172-4dea-96a9-92f30a27067f_thumb.jpg"
+      }
+    }
   },
   {
     "id": "once-upon-a-time-in-gaza",
-    "title": "Once Upon a Time in Gaza"
+    "title": "Once Upon a Time in Gaza",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/ccdb387c-cc92-4c94-b35c-4156352480e4_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/ccdb387c-cc92-4c94-b35c-4156352480e4_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/ccdb387c-cc92-4c94-b35c-4156352480e4_thumb.jpg"
+      }
+    }
   },
   {
     "id": "bouchra",
-    "title": "Bouchra"
+    "title": "Bouchra",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/4c98fcdf-4df7-48a7-8db0-ce7573311de3_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/4c98fcdf-4df7-48a7-8db0-ce7573311de3_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/4c98fcdf-4df7-48a7-8db0-ce7573311de3_thumb.jpg"
+      }
+    }
   },
   {
     "id": "the-baronesses",
-    "title": "The Baronesses"
+    "title": "The Baronesses",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/2e69efd5-d9b1-4e2e-9056-937ba529f903_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/2e69efd5-d9b1-4e2e-9056-937ba529f903_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/2e69efd5-d9b1-4e2e-9056-937ba529f903_thumb.jpg"
+      }
+    }
   },
   {
     "id": "the-love-that-remains",
-    "title": "The Love That Remains"
+    "title": "The Love That Remains",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/691e4c6c-330f-42c0-a92e-cccc1e200014_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/691e4c6c-330f-42c0-a92e-cccc1e200014_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/691e4c6c-330f-42c0-a92e-cccc1e200014_thumb.jpg"
+      }
+    }
   },
   {
     "id": "the-end-of-quiet",
-    "title": "The End of Quiet"
+    "title": "The End of Quiet",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/60fa124e-3d7e-4ea1-bdc3-586e712cdfed_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/60fa124e-3d7e-4ea1-bdc3-586e712cdfed_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/60fa124e-3d7e-4ea1-bdc3-586e712cdfed_thumb.jpg"
+      }
+    }
   },
   {
     "id": "silent-friend",
-    "title": "Silent Friend"
+    "title": "Silent Friend",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/ba3fa65e-b1c8-483c-b457-47dd121a07ae_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/ba3fa65e-b1c8-483c-b457-47dd121a07ae_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/ba3fa65e-b1c8-483c-b457-47dd121a07ae_thumb.jpg"
+      }
+    }
   },
   {
     "id": "a-song-for-love",
-    "title": "A Song for Love"
+    "title": "A Song for Love",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/ecc23784-9a38-482c-a8d6-024f35f1179f_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/ecc23784-9a38-482c-a8d6-024f35f1179f_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/ecc23784-9a38-482c-a8d6-024f35f1179f_thumb.jpg"
+      }
+    }
   },
   {
     "id": "truth-or-dare",
-    "title": "Truth or Dare"
+    "title": "Truth or Dare",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/4c2daca5-2a1f-4bbc-a3c6-d9280ff2c310_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/4c2daca5-2a1f-4bbc-a3c6-d9280ff2c310_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/4c2daca5-2a1f-4bbc-a3c6-d9280ff2c310_thumb.jpg"
+      }
+    }
   },
   {
     "id": "gloaming-in-luomu",
-    "title": "Gloaming in Luomu"
+    "title": "Gloaming in Luomu",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/a589d489-4fa8-4917-b178-8efa80aeb7a5_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/a589d489-4fa8-4917-b178-8efa80aeb7a5_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/a589d489-4fa8-4917-b178-8efa80aeb7a5_thumb.jpg"
+      }
+    }
   },
   {
     "id": "the-girl-in-the-snow",
-    "title": "The Girl in the Snow"
+    "title": "The Girl in the Snow",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/1793d489-5a5d-4495-ae80-804d948a8c2a_hero.jpg",
+        "poster": null,
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/1793d489-5a5d-4495-ae80-804d948a8c2a_thumb.jpg"
+      }
+    }
   },
   {
     "id": "mother",
-    "title": "Mother"
+    "title": "Mother",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/45c610ba-50ff-451d-ae77-f5004c8ec4db_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/45c610ba-50ff-451d-ae77-f5004c8ec4db_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/45c610ba-50ff-451d-ae77-f5004c8ec4db_thumb.jpg"
+      }
+    }
   },
   {
     "id": "to-new-beginnings",
-    "title": "Nyårsfesten"
+    "title": "Nyårsfesten",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/706c9d58-671d-45f2-abc4-fd98bbf92d0c_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/706c9d58-671d-45f2-abc4-fd98bbf92d0c_Poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/706c9d58-671d-45f2-abc4-fd98bbf92d0c_thumb.jpg"
+      }
+    }
   },
   {
     "id": "terra-vil",
-    "title": "Terra vil"
+    "title": "Terra vil",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/2d4061ee-7120-46b5-8094-93d1f812d297_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/2d4061ee-7120-46b5-8094-93d1f812d297_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/2d4061ee-7120-46b5-8094-93d1f812d297_thumb.jpg"
+      }
+    }
   },
   {
     "id": "becoming",
-    "title": "Becoming"
+    "title": "Becoming",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/8000c1a4-de08-41df-8f10-193ec40e05f8_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/8000c1a4-de08-41df-8f10-193ec40e05f8_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/8000c1a4-de08-41df-8f10-193ec40e05f8_thumb.jpg"
+      }
+    }
   },
   {
     "id": "love-untamed",
-    "title": "Love Untamed"
+    "title": "Love Untamed",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/30ceadf1-4113-4eee-a700-f13d4e64ed76_Hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/30ceadf1-4113-4eee-a700-f13d4e64ed76_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/30ceadf1-4113-4eee-a700-f13d4e64ed76_thumb.jpg"
+      }
+    }
   },
   {
     "id": "dawning",
-    "title": "Dawning"
+    "title": "Dawning",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/5a7da196-8fb0-4d3d-a175-71c4caed2c02_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/5a7da196-8fb0-4d3d-a175-71c4caed2c02_Poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/5a7da196-8fb0-4d3d-a175-71c4caed2c02_thumb.jpg"
+      }
+    }
   },
   {
     "id": "divine-comedy",
-    "title": "Divine Comedy"
+    "title": "Divine Comedy",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/0a548324-b200-4421-9680-fd6f95979ada_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/0a548324-b200-4421-9680-fd6f95979ada_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/0a548324-b200-4421-9680-fd6f95979ada_thumb.jpg"
+      }
+    }
   },
   {
     "id": "wrangler",
-    "title": "Wrangler"
+    "title": "Wrangler",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/d00d8f0c-82bc-40f9-b021-83ea15ca7f6c_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/d00d8f0c-82bc-40f9-b021-83ea15ca7f6c_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/d00d8f0c-82bc-40f9-b021-83ea15ca7f6c_thumb.jpg"
+      }
+    }
   },
   {
     "id": "beyond",
-    "title": "Svinalängorna"
+    "title": "Svinalängorna",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/e1538703-7b1d-495b-873e-e35acefcb4b8_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/e1538703-7b1d-495b-873e-e35acefcb4b8_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/e1538703-7b1d-495b-873e-e35acefcb4b8_thumb.jpg"
+      }
+    }
   },
   {
     "id": "prometheus",
-    "title": "Prometheus"
+    "title": "Prometheus",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/93fad0c7-239e-4c50-8beb-e51300228f93_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/93fad0c7-239e-4c50-8beb-e51300228f93_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/93fad0c7-239e-4c50-8beb-e51300228f93_thumb.jpg"
+      }
+    }
   },
   {
     "id": "kontinental-25",
-    "title": "Kontinental '25"
+    "title": "Kontinental '25",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/406fad27-d0eb-4c9b-bd24-78961095c9ca_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/406fad27-d0eb-4c9b-bd24-78961095c9ca_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/406fad27-d0eb-4c9b-bd24-78961095c9ca_thumb.jpg"
+      }
+    }
   },
   {
     "id": "karla",
-    "title": "Karla"
+    "title": "Karla",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/cfbf2213-04f2-4d32-9aa9-612573b2a87d_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/cfbf2213-04f2-4d32-9aa9-612573b2a87d_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/cfbf2213-04f2-4d32-9aa9-612573b2a87d_thumb.jpg"
+      }
+    }
   },
   {
     "id": "with-hasan-in-gaza",
-    "title": "With Hasan in Gaza"
+    "title": "With Hasan in Gaza",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/92158faf-9a43-4029-b3c2-9d4d7f278774_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/92158faf-9a43-4029-b3c2-9d4d7f278774_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/92158faf-9a43-4029-b3c2-9d4d7f278774_thumb.jpg"
+      }
+    }
   },
   {
     "id": "life-is",
-    "title": "Life is"
+    "title": "Life is",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/7d71659e-3ebe-4ff5-963d-9fdd6ac65a6c_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/7d71659e-3ebe-4ff5-963d-9fdd6ac65a6c_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/7d71659e-3ebe-4ff5-963d-9fdd6ac65a6c_thumb.jpg"
+      }
+    }
   },
   {
     "id": "tell-everyone",
-    "title": "Tell Everyone"
+    "title": "Tell Everyone",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/ac9bc6ce-3da0-4193-abb5-2864e86ba800_Hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/ac9bc6ce-3da0-4193-abb5-2864e86ba800_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/ac9bc6ce-3da0-4193-abb5-2864e86ba800_thumb.jpg"
+      }
+    }
   },
   {
     "id": "love-me-tender",
-    "title": "Love Me Tender"
+    "title": "Love Me Tender",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/75927ae8-4894-4b2d-8336-0f215bcd9815_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/75927ae8-4894-4b2d-8336-0f215bcd9815_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/75927ae8-4894-4b2d-8336-0f215bcd9815_thumb.jpg"
+      }
+    }
   },
   {
     "id": "the-curse-of-kane",
-    "title": "The Curse of Kane"
+    "title": "The Curse of Kane",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/66bcfa5d-5acb-46f4-8b50-b9e5ace17388_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/66bcfa5d-5acb-46f4-8b50-b9e5ace17388_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/66bcfa5d-5acb-46f4-8b50-b9e5ace17388_thumb.jpg"
+      }
+    }
   },
   {
     "id": "joan-of-arc",
-    "title": "Joan of Arc"
+    "title": "Joan of Arc",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/e31cb97d-01d8-41dd-9cdc-e0876d612a17_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/e31cb97d-01d8-41dd-9cdc-e0876d612a17_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/e31cb97d-01d8-41dd-9cdc-e0876d612a17_thumb.jpg"
+      }
+    }
   },
   {
     "id": "sleepless-city",
-    "title": "Sleepless City"
+    "title": "Sleepless City",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/5a1b2037-1833-49aa-9b08-23f11e7e42eb_hero.jpg",
+        "poster": null,
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/5a1b2037-1833-49aa-9b08-23f11e7e42eb_thumb.jpg"
+      }
+    }
   },
   {
     "id": "euphoria",
-    "title": "Euphoria"
+    "title": "Euphoria",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/ac54e000-2496-4da4-880e-6bd9bd53b530_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/ac54e000-2496-4da4-880e-6bd9bd53b530_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/ac54e000-2496-4da4-880e-6bd9bd53b530_thumb.jpg"
+      }
+    }
   },
   {
     "id": "macdo",
-    "title": "Macdo"
+    "title": "Macdo",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/62e04b45-c9d9-42b9-884b-f2ccb52cd60e_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/62e04b45-c9d9-42b9-884b-f2ccb52cd60e_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/62e04b45-c9d9-42b9-884b-f2ccb52cd60e_thumb.jpg"
+      }
+    }
   },
   {
     "id": "noviembre",
-    "title": "Noviembre"
+    "title": "Noviembre",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/0e07c76e-5219-4f5b-9b24-f30cbdad8e51_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/0e07c76e-5219-4f5b-9b24-f30cbdad8e51_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/0e07c76e-5219-4f5b-9b24-f30cbdad8e51_thumb.jpg"
+      }
+    }
   },
   {
     "id": "a-light-that-never-goes-out",
-    "title": "A Light That Never Goes Out"
+    "title": "A Light That Never Goes Out",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/7424bedc-64f0-44f0-8269-4ba63b3fc7d7_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/7424bedc-64f0-44f0-8269-4ba63b3fc7d7_Poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/7424bedc-64f0-44f0-8269-4ba63b3fc7d7_thumb.jpg"
+      }
+    }
   },
   {
     "id": "the-fires",
-    "title": "The Fires"
+    "title": "The Fires",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/0523e054-a1b5-422d-878f-908c594affe7_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/0523e054-a1b5-422d-878f-908c594affe7_Poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/0523e054-a1b5-422d-878f-908c594affe7_thumb.jpg"
+      }
+    }
   },
   {
     "id": "saipan",
-    "title": "Saipan"
+    "title": "Saipan",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/898b94d9-73db-4ab8-8e9c-49171737dfa9_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/898b94d9-73db-4ab8-8e9c-49171737dfa9_Poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/898b94d9-73db-4ab8-8e9c-49171737dfa9_thumb.jpg"
+      }
+    }
   },
   {
     "id": "the-history-of-sound",
-    "title": "The History of Sound"
+    "title": "The History of Sound",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/de390041-51e6-4973-8720-d40fdd10413a_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/de390041-51e6-4973-8720-d40fdd10413a_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/de390041-51e6-4973-8720-d40fdd10413a_thumb.jpg"
+      }
+    }
   },
   {
     "id": "romeria",
-    "title": "Romería"
+    "title": "Romería",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/773c0252-498b-4b59-8c71-6f17b9237d5f_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/773c0252-498b-4b59-8c71-6f17b9237d5f_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/773c0252-498b-4b59-8c71-6f17b9237d5f_thumb.jpg"
+      }
+    }
   },
   {
     "id": "cutting-through-rocks",
-    "title": "Cutting Through Rocks"
+    "title": "Cutting Through Rocks",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/3773a0dc-8235-4e7c-a459-9abf7ddc40ba_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/3773a0dc-8235-4e7c-a459-9abf7ddc40ba_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/3773a0dc-8235-4e7c-a459-9abf7ddc40ba_thumb.jpg"
+      }
+    }
   },
   {
     "id": "vi-var-the-ark",
-    "title": "Vi var The Ark"
+    "title": "Vi var The Ark",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/bf8aafba-9c22-4132-9a0a-b957d8b8e043_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/bf8aafba-9c22-4132-9a0a-b957d8b8e043_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/bf8aafba-9c22-4132-9a0a-b957d8b8e043_thumb.jpg"
+      }
+    }
   },
   {
     "id": "three-of-a-kind",
-    "title": "Three of a Kind"
+    "title": "Three of a Kind",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/ab2aeb5d-db37-4b80-b18c-ff82fed28400_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/ab2aeb5d-db37-4b80-b18c-ff82fed28400_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/ab2aeb5d-db37-4b80-b18c-ff82fed28400_thumb.jpg"
+      }
+    }
   },
   {
     "id": "winter-of-the-crow",
-    "title": "Winter of the Crow"
+    "title": "Winter of the Crow",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/a9d994dd-2950-45bb-8f57-65add6736abd_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/a9d994dd-2950-45bb-8f57-65add6736abd_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/a9d994dd-2950-45bb-8f57-65add6736abd_thumb.jpg"
+      }
+    }
   },
   {
     "id": "solitary",
-    "title": "Solitary"
+    "title": "Solitary",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/8f761a41-0346-433b-9659-553c34814069_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/8f761a41-0346-433b-9659-553c34814069_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/8f761a41-0346-433b-9659-553c34814069_thumb.jpg"
+      }
+    }
   },
   {
     "id": "resurrection",
-    "title": "Resurrection"
+    "title": "Resurrection",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/2be8e33e-99b8-465a-90bb-f1b1867317ce_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/2be8e33e-99b8-465a-90bb-f1b1867317ce_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/2be8e33e-99b8-465a-90bb-f1b1867317ce_thumb.jpg"
+      }
+    }
   },
   {
     "id": "the-last-resort",
-    "title": "The Last Resort"
+    "title": "The Last Resort",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/05c2bd22-96f2-471b-a819-2c2ae1611dd4_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/05c2bd22-96f2-471b-a819-2c2ae1611dd4_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/05c2bd22-96f2-471b-a819-2c2ae1611dd4_thumb.jpg"
+      }
+    }
   },
   {
     "id": "silent-legacy",
-    "title": "Silent Legacy"
+    "title": "Silent Legacy",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/53475874-a5be-46e7-8186-97495c0bad43_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/53475874-a5be-46e7-8186-97495c0bad43_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/53475874-a5be-46e7-8186-97495c0bad43_thumb.jpg"
+      }
+    }
   },
   {
     "id": "dear-tomorrow",
-    "title": "Dear Tomorrow"
+    "title": "Dear Tomorrow",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/b62bbaf8-6a4a-4e2f-8cfd-89c8faeb0a5c_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/b62bbaf8-6a4a-4e2f-8cfd-89c8faeb0a5c_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/b62bbaf8-6a4a-4e2f-8cfd-89c8faeb0a5c_thumb.jpg"
+      }
+    }
   },
   {
     "id": "zejtune",
-    "title": "Zejtune"
+    "title": "Zejtune",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/ac15c2b2-5631-4535-a3a2-29115e7f273d_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/ac15c2b2-5631-4535-a3a2-29115e7f273d_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/ac15c2b2-5631-4535-a3a2-29115e7f273d_thumb.jpg"
+      }
+    }
   },
   {
     "id": "six-days-in-spring",
-    "title": "Six Days in Spring"
+    "title": "Six Days in Spring",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/19767124-457c-4ea5-af93-3381b3cceebf_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/19767124-457c-4ea5-af93-3381b3cceebf_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/19767124-457c-4ea5-af93-3381b3cceebf_thumb.jpg"
+      }
+    }
   },
   {
     "id": "milk-teeth-1",
-    "title": "Milk Teeth"
+    "title": "Milk Teeth",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/cc587228-a692-45be-ae4b-431a3cd0373b_hero.jpg",
+        "poster": null,
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/cc587228-a692-45be-ae4b-431a3cd0373b_thumb.jpg"
+      }
+    }
   },
   {
     "id": "fuori",
-    "title": "Fuori"
+    "title": "Fuori",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/35dec9fb-df7e-47cb-a589-67245a84c51b_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/35dec9fb-df7e-47cb-a589-67245a84c51b_Poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/35dec9fb-df7e-47cb-a589-67245a84c51b_thumb.jpg"
+      }
+    }
   },
   {
     "id": "the-kartli-kingdom",
-    "title": "The Kartli Kingdom"
+    "title": "The Kartli Kingdom",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/231ea1b5-e7cb-455f-a9ba-c20df2022695_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/231ea1b5-e7cb-455f-a9ba-c20df2022695_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/231ea1b5-e7cb-455f-a9ba-c20df2022695_thumb.jpg"
+      }
+    }
   },
   {
     "id": "how-to-divorce-during-the-war",
-    "title": "How to Divorce During the War"
+    "title": "How to Divorce During the War",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/d5ef7b90-7cf3-4521-a2d4-506bf6c67f6f_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/d5ef7b90-7cf3-4521-a2d4-506bf6c67f6f_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/d5ef7b90-7cf3-4521-a2d4-506bf6c67f6f_thumb.jpg"
+      }
+    }
   },
   {
     "id": "little-creatures",
-    "title": "Little Creatures"
+    "title": "Little Creatures",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/7c302382-8abe-4b4e-8159-3b4a6cdc3b7f_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/7c302382-8abe-4b4e-8159-3b4a6cdc3b7f_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/7c302382-8abe-4b4e-8159-3b4a6cdc3b7f_thumb.jpg"
+      }
+    }
   },
   {
     "id": "kraken",
-    "title": "Kraken"
+    "title": "Kraken",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/fe39de74-8385-4b6a-b3ec-a8e7ee90dfb5_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/fe39de74-8385-4b6a-b3ec-a8e7ee90dfb5_Poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/fe39de74-8385-4b6a-b3ec-a8e7ee90dfb5_thumb.jpg"
+      }
+    }
   },
   {
     "id": "franz",
-    "title": "Franz K."
+    "title": "Franz K.",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/b98bea81-0b6d-4bf7-a126-a078710557f5_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/b98bea81-0b6d-4bf7-a126-a078710557f5_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/b98bea81-0b6d-4bf7-a126-a078710557f5_thumb.jpg"
+      }
+    }
   },
   {
     "id": "white-snail",
-    "title": "White Snail"
+    "title": "White Snail",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/aa268bd2-2277-43b6-b4c8-ed1a53fc6852_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/aa268bd2-2277-43b6-b4c8-ed1a53fc6852_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/aa268bd2-2277-43b6-b4c8-ed1a53fc6852_thumb.jpg"
+      }
+    }
   },
   {
     "id": "rave-on",
-    "title": "Rave On"
+    "title": "Rave On",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/9522b446-ee0c-48f6-a518-c7d4a6c34abd_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/9522b446-ee0c-48f6-a518-c7d4a6c34abd_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/9522b446-ee0c-48f6-a518-c7d4a6c34abd_thumb.jpg"
+      }
+    }
   },
   {
     "id": "solomamma",
-    "title": "Solomamma"
+    "title": "Solomamma",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/ea65e2f4-e155-4e86-a0b0-a6a5f8314b5c_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/ea65e2f4-e155-4e86-a0b0-a6a5f8314b5c_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/ea65e2f4-e155-4e86-a0b0-a6a5f8314b5c_thumb.jpg"
+      }
+    }
   },
   {
     "id": "redoubt",
-    "title": "Värn"
+    "title": "Värn",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/94ef0503-215a-4709-9463-2d3516ef939b_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/94ef0503-215a-4709-9463-2d3516ef939b_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/94ef0503-215a-4709-9463-2d3516ef939b_thumb.jpg"
+      }
+    }
   },
   {
     "id": "memory-1",
-    "title": "Memory"
+    "title": "Memory",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/89fa1cea-0fce-415f-9a79-c2e84aad1ee2_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/89fa1cea-0fce-415f-9a79-c2e84aad1ee2_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/89fa1cea-0fce-415f-9a79-c2e84aad1ee2_thumb.jpg"
+      }
+    }
   },
   {
     "id": "the-thing-with-feathers",
-    "title": "The Thing with Feathers"
+    "title": "The Thing with Feathers",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/5cce4a1b-1e8f-4a95-b65b-74e7d416c74a_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/5cce4a1b-1e8f-4a95-b65b-74e7d416c74a_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/5cce4a1b-1e8f-4a95-b65b-74e7d416c74a_thumb.jpg"
+      }
+    }
   },
   {
     "id": "my-first-love",
-    "title": "My First Love"
+    "title": "My First Love",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/778ddeea-b183-47c6-8bcc-fc9e7235cf16_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/778ddeea-b183-47c6-8bcc-fc9e7235cf16_Poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/778ddeea-b183-47c6-8bcc-fc9e7235cf16_thumb.jpg"
+      }
+    }
   },
   {
     "id": "wolves",
-    "title": "Wolves"
+    "title": "Wolves",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/2fcade6e-7ef0-4534-a069-8e10504e3a59_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/2fcade6e-7ef0-4534-a069-8e10504e3a59_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/2fcade6e-7ef0-4534-a069-8e10504e3a59_thumb.jpg"
+      }
+    }
   },
   {
     "id": "orphan",
-    "title": "Orphan"
+    "title": "Orphan",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/374aa366-2579-4ba6-8c09-3ca8296b3aaa_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/374aa366-2579-4ba6-8c09-3ca8296b3aaa_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/374aa366-2579-4ba6-8c09-3ca8296b3aaa_thumb.jpg"
+      }
+    }
   },
   {
     "id": "butterfly",
-    "title": "Butterfly"
+    "title": "Butterfly",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/83f5588b-1644-44a4-a362-2daafcb09b8a_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/83f5588b-1644-44a4-a362-2daafcb09b8a_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/83f5588b-1644-44a4-a362-2daafcb09b8a_thumb.jpg"
+      }
+    }
   },
   {
     "id": "dont-leave-the-kids-alone",
-    "title": "Don’t Leave the Kids Alone"
+    "title": "Don’t Leave the Kids Alone",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/2559eec7-257b-4d46-be1f-86ee5977dea9_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/2559eec7-257b-4d46-be1f-86ee5977dea9_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/2559eec7-257b-4d46-be1f-86ee5977dea9_thumb.jpg"
+      }
+    }
   },
   {
     "id": "screen-tests",
-    "title": "Screen Tests"
+    "title": "Screen Tests",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/19acc96d-6bb5-4ca4-8195-1b16f14af266_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/19acc96d-6bb5-4ca4-8195-1b16f14af266_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/19acc96d-6bb5-4ca4-8195-1b16f14af266_thumb.jpg"
+      }
+    }
   },
   {
     "id": "provincial-actors",
-    "title": "Befrielsen"
+    "title": "Befrielsen",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/682d0cae-05b3-4c10-8a0b-b02335b4aa1a_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/682d0cae-05b3-4c10-8a0b-b02335b4aa1a_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/682d0cae-05b3-4c10-8a0b-b02335b4aa1a_thumb.jpg"
+      }
+    }
   },
   {
     "id": "the-secret-garden",
-    "title": "Den hemlighetsfulla trädgården"
+    "title": "Den hemlighetsfulla trädgården",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/6ea38d72-3d96-46c7-8dd9-7048a8620e32_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/6ea38d72-3d96-46c7-8dd9-7048a8620e32_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/6ea38d72-3d96-46c7-8dd9-7048a8620e32_thumb.jpg"
+      }
+    }
   },
   {
     "id": "goteborgsepoker-6",
-    "title": "Göteborgsepoker"
+    "title": "Göteborgsepoker",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/fe14e29e-3e2d-420b-8b13-6034414a551a_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/fe14e29e-3e2d-420b-8b13-6034414a551a_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/fe14e29e-3e2d-420b-8b13-6034414a551a_thumb.jpg"
+      }
+    }
   },
   {
     "id": "the-girl-with-the-dragon-tattoo",
-    "title": "Män som hatar kvinnor"
+    "title": "Män som hatar kvinnor",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/9f0339d1-0f1b-42f7-98cd-1d3e35bb5abc_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/9f0339d1-0f1b-42f7-98cd-1d3e35bb5abc_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/9f0339d1-0f1b-42f7-98cd-1d3e35bb5abc_thumb.jpg"
+      }
+    }
   },
   {
     "id": "hamnet",
-    "title": "Hamnet"
+    "title": "Hamnet",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/20da5e52-4ad1-4943-a9cc-0622ff81e603_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/20da5e52-4ad1-4943-a9cc-0622ff81e603_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/20da5e52-4ad1-4943-a9cc-0622ff81e603_thumb.jpg"
+      }
+    }
   },
   {
     "id": "myglaren",
-    "title": "Myglaren"
+    "title": "Myglaren",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/934c0d56-9627-4f16-b3f3-9ecf52ccc305_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/934c0d56-9627-4f16-b3f3-9ecf52ccc305_Poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/934c0d56-9627-4f16-b3f3-9ecf52ccc305_thumb.jpg"
+      }
+    }
   },
   {
     "id": "europa-europa",
-    "title": "Europa Europa"
+    "title": "Europa Europa",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/cbd1ddd9-5136-408a-ae8f-399f93139ba0_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/cbd1ddd9-5136-408a-ae8f-399f93139ba0_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/cbd1ddd9-5136-408a-ae8f-399f93139ba0_thumb.jpg"
+      }
+    }
   },
   {
     "id": "the-fall-of-sir-douglas-weatherford",
-    "title": "The Fall of Sir Douglas Weatherford"
+    "title": "The Fall of Sir Douglas Weatherford",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/e4ec3155-475b-4713-a3c7-b8cddebbc2a1_hero.jpg",
+        "poster": null,
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/e4ec3155-475b-4713-a3c7-b8cddebbc2a1_thumb.jpg"
+      }
+    }
   },
   {
     "id": "winner--ingmar-bergman-competition---draken-film-award-1",
-    "title": "Vinnarfilm: Ingmar Bergman Competition + Draken Film Award"
+    "title": "Vinnarfilm: Ingmar Bergman Competition + Draken Film Award",
+    "extendedProps": {
+      "imageUrl": null
+    }
   },
   {
     "id": "winner--nordic-documentary-competition-2",
-    "title": "Vinnarfilm: Nordic Documentary Competition"
+    "title": "Vinnarfilm: Nordic Documentary Competition",
+    "extendedProps": {
+      "imageUrl": null
+    }
   },
   {
     "id": "the-norrtull-gang",
-    "title": "Norrtullsligan"
+    "title": "Norrtullsligan",
+    "extendedProps": {
+      "imageUrl": {
+        "hero": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/7b864def-fada-4873-8c20-9f5686a64618_hero.jpg",
+        "poster": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/7b864def-fada-4873-8c20-9f5686a64618_poster.jpg",
+        "thumbnail": "https://gbg-film-festival-assets.s3-eu-west-1.amazonaws.com/movie-images/7b864def-fada-4873-8c20-9f5686a64618_thumb.jpg"
+      }
+    }
   },
   {
     "id": "winner--nordic-competition---startsladden-2",
-    "title": "Vinnarfilm: Nordic Competition + Startsladden"
+    "title": "Vinnarfilm: Nordic Competition + Startsladden",
+    "extendedProps": {
+      "imageUrl": null
+    }
   },
   {
     "id": "winner--international-competition-1",
-    "title": "Vinnarfilm: International Competition"
+    "title": "Vinnarfilm: International Competition",
+    "extendedProps": {
+      "imageUrl": null
+    }
   }
 ]

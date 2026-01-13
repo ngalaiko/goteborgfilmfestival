@@ -16,6 +16,11 @@ interface ConfigResponse {
 
 interface Screening {
   eventKey: string;
+  imageUrl: {
+    hero: string;
+    poster: string;
+    thumbnail: string;
+  };
   occasionId: number;
   title: string;
   uniqueTitle: string;
@@ -85,6 +90,9 @@ function convertScreeningToResource(
   return {
     id: screening.uniqueTitle,
     title: screening.title,
+    extendedProps: {
+      imageUrl: screening.imageUrl,
+    },
   };
 }
 
@@ -97,6 +105,7 @@ function convertScreeingToEvent(screening: Screening): Partial<Calendar.Event> {
     title: screening.title,
     extendedProps: {
       location: screening.location,
+      imageUrl: screening.imageUrl,
     },
   };
 }
