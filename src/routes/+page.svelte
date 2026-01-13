@@ -10,6 +10,9 @@
   import type { PageProps } from "./$types";
 
   let { data }: PageProps = $props();
+
+  // Get initial view once (non-reactive) to avoid scroll reset on URL changes
+  const initialView = currentView.value;
 </script>
 
 <main>
@@ -27,14 +30,14 @@
       slotMaxTime: "23:59:59",
       duration: { days: 11 },
       filterResourcesWithEvents: true,
-      view: currentView.value,
+      view: initialView,
       viewDidMount: ({ view }) => {
         if (view.type !== currentView.value) {
           currentView.set(view.type);
         }
       },
       headerToolbar: {
-        start: "timeline,schedule",
+        start: "timeGridWeek,resourceTimelineWeek",
         center: "title",
         end: "share",
       },
@@ -52,20 +55,6 @@
               await navigator.clipboard.writeText(window.location.href);
               alert("URL copied to clipboard!");
             }
-          },
-        },
-        timeline: {
-          text: "Timeline",
-          active: currentView.value === "resourceTimelineWeek",
-          click: () => {
-            currentView.set("resourceTimelineWeek");
-          },
-        },
-        schedule: {
-          text: "Schedule",
-          active: currentView.value === "timeGridWeek",
-          click: () => {
-            currentView.set("timeGridWeek");
           },
         },
       },
@@ -88,18 +77,21 @@
             };
           },
           eventClick: ({ event }) => {
-            selectedEvents.toggle(String(event.id));
+            window.open(
+              `https://program.goteborgfilmfestival.se/en/program/${event.resourceIds[0]}`,
+              "_blank",
+            );
           },
         },
         resourceTimelineWeek: {
-          eventClick: ({ event }) => {
-            selectedEvents.toggle(String(event.id));
-          },
           eventContent: ({ event }) => {
             const location = (event.extendedProps?.location as string) || "";
             return {
               html: location,
             };
+          },
+          eventClick: ({ event }) => {
+            selectedEvents.toggle(String(event.id));
           },
         },
       },

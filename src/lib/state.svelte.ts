@@ -31,6 +31,7 @@ function createUrlSetState(paramName: string) {
       goto(url.toString(), {
         replaceState: true,
         keepFocus: true,
+        noScroll: true,
       });
     },
   };
@@ -51,6 +52,7 @@ function createUrlStringState(paramName: string, defaultValue: string) {
       goto(url.toString(), {
         replaceState: true,
         keepFocus: true,
+        noScroll: true,
       });
     },
   };
