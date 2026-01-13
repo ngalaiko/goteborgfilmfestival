@@ -4,21 +4,14 @@ import resources from "$lib/data/resources.json" with { type: "json" };
 import type { RequestHandler } from "./$types";
 
 function formatICalDate(date: Date): string {
-  // Format as local time in Stockholm timezone: YYYYMMDDTHHMMSS
-  const formatted = date
-    .toLocaleString("sv-SE", {
-      year: "numeric",
-      month: "2-digit",
-      day: "2-digit",
-      hour: "2-digit",
-      minute: "2-digit",
-      second: "2-digit",
-      hour12: false,
-    })
-    .replace(/[-: ]/g, "")
-    .replace(",", "T");
-  // Result: YYYYMMDDHHMMSS, need to insert T
-  return formatted.slice(0, 8) + "T" + formatted.slice(8);
+  // Format as UTC time with Z suffix: YYYYMMDDTHHMMSSZ
+  const year = date.getUTCFullYear();
+  const month = String(date.getUTCMonth() + 1).padStart(2, "0");
+  const day = String(date.getUTCDate()).padStart(2, "0");
+  const hours = String(date.getUTCHours()).padStart(2, "0");
+  const minutes = String(date.getUTCMinutes()).padStart(2, "0");
+  const seconds = String(date.getUTCSeconds()).padStart(2, "0");
+  return `${year}${month}${day}T${hours}${minutes}${seconds}Z`;
 }
 
 export const GET: RequestHandler = ({ url }) => {
