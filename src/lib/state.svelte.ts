@@ -28,7 +28,10 @@ function createUrlSetState(paramName: string) {
       } else {
         url.searchParams.delete(paramName);
       }
-      goto(url.toString(), { replaceState: true, keepFocus: true });
+      goto(url.toString(), {
+        replaceState: true,
+        keepFocus: true,
+      });
     },
   };
 }
@@ -45,7 +48,10 @@ function createUrlStringState(paramName: string, defaultValue: string) {
       } else {
         url.searchParams.set(paramName, value);
       }
-      goto(url.toString(), { replaceState: true, keepFocus: true });
+      goto(url.toString(), {
+        replaceState: true,
+        keepFocus: true,
+      });
     },
   };
 }

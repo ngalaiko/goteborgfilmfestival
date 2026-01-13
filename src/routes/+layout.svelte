@@ -1,15 +1,15 @@
 <script lang="ts">
-  import { injectAnalytics } from '@vercel/analytics/sveltekit'
-  import { dev } from '$app/environment';
+  import { injectAnalytics } from "@vercel/analytics/sveltekit";
+  import { dev } from "$app/environment";
   import "../app.css";
 
   let { children } = $props();
-  
-  injectAnalytics({ mode: dev ? 'development' : 'production' });
+
+  injectAnalytics({ mode: dev ? "development" : "production" });
 </script>
 
 <main>
-{@render children()}
+  {@render children()}
 </main>
 
 <footer>
@@ -19,7 +19,7 @@
 <style>
   footer {
     text-align: right;
-	height: 1rem;
+    height: 1rem;
     font-size: 0.875rem;
     color: #666;
   }
