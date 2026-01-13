@@ -16,7 +16,7 @@
 <Calendar
   plugins={[TimeGrid, ResourceTimeline, Interaction]}
   options={{
-    height: "calc(100vh - 40px)",
+    height: "calc(100vh - 1.5rem)",
     titleFormat: () => "Göteborg Film Festival 2026",
     date: "2026-01-22",
     validRange: {
@@ -106,7 +106,7 @@
 
 <style>
   :global(.ec-row-head) {
-    width: 250px;
+    width: 10rem;
     text-align: start;
     min-height: min-content;
   }

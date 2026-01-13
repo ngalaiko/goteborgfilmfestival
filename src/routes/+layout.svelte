@@ -8,17 +8,19 @@
   injectAnalytics({ mode: dev ? 'development' : 'production' });
 </script>
 
+<main>
 {@render children()}
+</main>
 
 <footer>
-  <a href="https://github.com/ngalaiko/goteborgfilmfestival">Source code</a>
+  <a href="https://github.com/ngalaiko/goteborgfilmfestival">source code</a>
 </footer>
 
 <style>
   footer {
     text-align: right;
-    padding: 8px;
-    font-size: 12px;
+	height: 1rem;
+    font-size: 0.875rem;
     color: #666;
   }
 
