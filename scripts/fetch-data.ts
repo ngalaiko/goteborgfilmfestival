@@ -92,8 +92,8 @@ function convertScreeingToEvent(screening: Screening): Partial<Calendar.Event> {
   return {
     id: screening.occasionId,
     resourceIds: [screening.uniqueTitle],
-    start: new Date(screening.timeStart.replace("Z", "-01:00")),
-    end: new Date(screening.timeEnd.replace("Z", "-01:00")),
+    start: new Date(screening.timeStart),
+    end: new Date(screening.timeEnd),
     title: screening.title,
     extendedProps: {
       location: screening.location,

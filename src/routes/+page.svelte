@@ -39,7 +39,7 @@
       headerToolbar: {
         start: "timeGridWeek,resourceTimelineWeek",
         center: "title",
-        end: "share",
+        end: "share export",
       },
       customButtons: {
         share: {
@@ -55,6 +55,23 @@
               await navigator.clipboard.writeText(window.location.href);
               alert("URL copied to clipboard!");
             }
+          },
+        },
+        export: {
+          text: "iCal",
+          click: async () => {
+            const selected = new URL(window.location.href).searchParams.get(
+              "selected",
+            );
+            if (!selected) {
+              alert("No events selected");
+              return;
+            }
+
+            const url = new URL("/export.ics", window.location.href);
+            url.protocol = "webcal:";
+            url.searchParams.set("selected", selected);
+            window.location.href = url.toString();
           },
         },
       },
@@ -95,7 +112,11 @@
           },
         },
       },
-      events: data.events,
+      events: data.events.map((event) => ({
+		...event,
+		start: new Date(event.start).toLocaleString("sv-SE", { timeZone: "Europe/Stockholm" }),
+		end: new Date(event.end).toLocaleString("sv-SE", { timeZone: "Europe/Stockholm" }),
+	  })),
       resources: data.resources,
     }}
   />
