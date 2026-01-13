@@ -6,7 +6,8 @@
       "Bash(curl:*)",
       "Bash(pnpm install:*)",
       "Bash(pnpm run build:*)",
-      "Bash(pnpm run check:*)"
+      "Bash(pnpm run check:*)",
+      "Bash(pnpm check:*)"
     ]
   }
 }

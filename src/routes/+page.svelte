@@ -1,11 +1,8 @@
 <script lang="ts">
-  import { selectedEvents } from "$lib/state.svelte";
+  import { selectedEvents, viewState } from "$lib/state.svelte";
   import type { PageProps } from "./$types";
 
   let { data }: PageProps = $props();
-
-  // View state
-  let currentView = $state<"week" | "timeline">("timeline");
 
   // Timeline constants
   const HOUR_WIDTH = 60; // pixels per hour
@@ -221,14 +218,14 @@
   <header>
     <div class="view-selector">
       <button
-        class:active={currentView === "timeline"}
-        onclick={() => (currentView = "timeline")}
+        class:active={viewState.current === "timeline"}
+        onclick={() => viewState.set("timeline")}
       >
         schedule
       </button>
       <button
-        class:active={currentView === "week"}
-        onclick={() => (currentView = "week")}
+        class:active={viewState.current === "week"}
+        onclick={() => viewState.set("week")}
       >
         selected
       </button>
@@ -240,7 +237,7 @@
     </div>
   </header>
 
-  {#if currentView === "week"}
+  {#if viewState.current === "week"}
     <!-- Week View -->
     <div class="week-wrapper">
       <div class="week-grid" style="grid-template-columns: 60px repeat({festivalDays().length}, {DAY_WIDTH}px)">

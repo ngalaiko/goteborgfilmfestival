@@ -45,3 +45,37 @@ function createSelectedEventsState() {
 }
 
 export const selectedEvents = createSelectedEventsState();
+
+export type View = "timeline" | "week";
+
+function createViewState() {
+  const getView = (): View => {
+    const view = page.url.searchParams.get("view");
+    return view === "week" ? "week" : "timeline";
+  };
+
+  const setView = (view: View) => {
+    const url = new URL(page.url);
+    if (view === "timeline") {
+      url.searchParams.delete("view");
+    } else {
+      url.searchParams.set("view", view);
+    }
+    goto(url.toString(), {
+      replaceState: true,
+      keepFocus: true,
+      noScroll: true,
+    });
+  };
+
+  return {
+    get current() {
+      return getView();
+    },
+    set(view: View) {
+      setView(view);
+    },
+  };
+}
+
+export const viewState = createViewState();
