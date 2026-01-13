@@ -1,6 +1,5 @@
 import { writeFileSync } from "fs";
 import { join } from "path";
-import { Calendar } from "@event-calendar/core";
 
 const API_BASE = "https://program.goteborgfilmfestival.se/api";
 const DATA_DIR = join(process.cwd(), "src", "lib", "data");
@@ -46,6 +45,9 @@ async function fetchAllScreenings(): Promise<Screening[]> {
 
   // Fetch config
   const configRes = await fetch(`${API_BASE}/config`);
+  if (!configRes.ok) {
+    throw new Error(`Failed to fetch config: ${configRes.status} ${configRes.statusText}`);
+  }
   const config: ConfigResponse = await configRes.json();
   const dates = config.festivalDates.map((d) => d.label);
 
@@ -61,6 +63,9 @@ async function fetchAllScreenings(): Promise<Screening[]> {
     const res = await fetch(
       `${API_BASE}/tableau/schedule?dayOfSearch=${date}&offset=0&size=500`,
     );
+    if (!res.ok) {
+      throw new Error(`Failed to fetch schedule for ${date}: ${res.status} ${res.statusText}`);
+    }
     const data: ScheduleResponse = await res.json();
     const screenings = (data.result?.documents || []).filter(
       (s) => s.type === "Movie",
@@ -74,19 +79,20 @@ async function fetchAllScreenings(): Promise<Screening[]> {
 
 function getUniqueResources(
   screenings: Screening[],
-): Partial<Calendar.Resource>[] {
-  return screenings.reduce((acc, screening) => {
-    const exists = acc.find((r) => r.id === screening.uniqueTitle);
-    if (!exists) {
-      acc.push(convertScreeningToResource(screening));
-    }
-    return acc;
-  }, [] as Partial<Calendar.Resource>[]);
+): ReturnType<typeof convertScreeningToResource>[] {
+  return screenings.reduce(
+    (acc, screening) => {
+      const exists = acc.find((r) => r.id === screening.uniqueTitle);
+      if (!exists) {
+        acc.push(convertScreeningToResource(screening));
+      }
+      return acc;
+    },
+    [] as ReturnType<typeof convertScreeningToResource>[],
+  );
 }
 
-function convertScreeningToResource(
-  screening: Screening,
-): Partial<Calendar.Resource> {
+function convertScreeningToResource(screening: Screening) {
   return {
     id: screening.uniqueTitle,
     title: screening.title,
@@ -96,7 +102,7 @@ function convertScreeningToResource(
   };
 }
 
-function convertScreeingToEvent(screening: Screening): Partial<Calendar.Event> {
+function convertScreeningToEvent(screening: Screening) {
   return {
     id: screening.occasionId,
     resourceIds: [screening.uniqueTitle],
@@ -114,7 +120,7 @@ async function main() {
   const screenings = await fetchAllScreenings();
 
   const resources = getUniqueResources(screenings);
-  const events = screenings.map(convertScreeingToEvent);
+  const events = screenings.map(convertScreeningToEvent);
 
   // Write resources to file
   const resourcesPath = join(DATA_DIR, "resources.json");

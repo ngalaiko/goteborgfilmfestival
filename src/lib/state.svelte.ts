@@ -1,11 +1,26 @@
 import { goto } from "$app/navigation";
 import { page } from "$app/state";
 
-function createUrlSetState(paramName: string) {
-  const getIds = () =>
-    new Set(
-      page.url.searchParams.get(paramName)?.split(",").filter(Boolean) || [],
+function createSelectedEventsState() {
+  const getIds = (): Set<string> => {
+    return new Set(
+      page.url.searchParams.get("selected")?.split(",").filter(Boolean) || []
     );
+  };
+
+  const updateUrl = (ids: Set<string>) => {
+    const url = new URL(page.url);
+    if (ids.size > 0) {
+      url.searchParams.set("selected", [...ids].join(","));
+    } else {
+      url.searchParams.delete("selected");
+    }
+    goto(url.toString(), {
+      replaceState: true,
+      keepFocus: true,
+      noScroll: true,
+    });
+  };
 
   return {
     get ids() {
@@ -21,42 +36,12 @@ function createUrlSetState(paramName: string) {
       } else {
         newSet.add(id);
       }
-
-      const url = new URL(page.url);
-      if (newSet.size > 0) {
-        url.searchParams.set(paramName, [...newSet].join(","));
-      } else {
-        url.searchParams.delete(paramName);
-      }
-      goto(url.toString(), {
-        replaceState: true,
-        keepFocus: true,
-        noScroll: true,
-      });
+      updateUrl(newSet);
+    },
+    getShareUrl() {
+      return page.url.toString();
     },
   };
 }
 
-function createUrlStringState(paramName: string, defaultValue: string) {
-  return {
-    get value() {
-      return page.url.searchParams.get(paramName) || defaultValue;
-    },
-    set(value: string) {
-      const url = new URL(page.url);
-      if (value === defaultValue) {
-        url.searchParams.delete(paramName);
-      } else {
-        url.searchParams.set(paramName, value);
-      }
-      goto(url.toString(), {
-        replaceState: true,
-        keepFocus: true,
-        noScroll: true,
-      });
-    },
-  };
-}
-
-export const selectedEvents = createUrlSetState("selected");
-export const currentView = createUrlStringState("view", "resourceTimelineWeek");
+export const selectedEvents = createSelectedEventsState();

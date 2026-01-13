@@ -8,18 +8,35 @@
   injectAnalytics({ mode: dev ? "development" : "production" });
 </script>
 
-<main>
-  {@render children()}
-</main>
+<div class="layout">
+  <main>
+    {@render children()}
+  </main>
 
-<footer>
-  <a href="https://github.com/ngalaiko/goteborgfilmfestival">source code</a>
-</footer>
+  <footer>
+    <a href="https://github.com/ngalaiko/goteborgfilmfestival">source code</a>
+  </footer>
+</div>
 
 <style>
+  .layout {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    overflow: hidden;
+  }
+
+  main {
+    flex: 1;
+    min-height: 0;
+    display: flex;
+    flex-direction: column;
+  }
+
   footer {
+    flex-shrink: 0;
     text-align: right;
-    height: 1rem;
+    padding: 4px 8px;
     font-size: 0.875rem;
     color: #666;
   }

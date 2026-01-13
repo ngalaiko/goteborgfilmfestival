@@ -1,6 +1,6 @@
 import { error } from "@sveltejs/kit";
-import events from "$lib/data/events.json";
-import resources from "$lib/data/resources.json";
+import events from "$lib/data/events.json" with { type: "json" };
+import resources from "$lib/data/resources.json" with { type: "json" };
 import type { RequestHandler } from "./$types";
 
 function formatICalDate(date: Date): string {
